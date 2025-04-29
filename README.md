@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/project_banner.png" alt="PrepIQ Project Banner" />
+</p>
+
 # PrepIQ - AI-NLP Interview Assistant
 
 An AI-powered platform to generate interview questions, evaluate candidate answers, and provide detailed feedback for technical and behavioral interviews across multiple software and data roles.
