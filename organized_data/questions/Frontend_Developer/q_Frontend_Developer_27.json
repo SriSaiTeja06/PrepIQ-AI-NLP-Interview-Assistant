@@ -1,0 +1,13 @@
+{
+  "id": "q_Frontend_Developer_27",
+  "role": "Frontend Developer",
+  "type": "behavioral",
+  "difficulty": "medium",
+  "content": "How do you approach CSS in your work?",
+  "expected_skills": [
+    "CSS",
+    "HTML",
+    "Web Performance"
+  ],
+  "created_at": "2025-04-03T21:44:52.745213"
+}

@@ -1,0 +1,457 @@
+[
+  {
+    "id": "q_DevOps_Engineer_0",
+    "role": "DevOps Engineer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "How do you optimize Docker for performance?",
+    "expected_skills": [
+      "Docker",
+      "CI/CD",
+      "Docker"
+    ],
+    "created_at": "2025-04-03T21:44:51.788039"
+  },
+  {
+    "id": "q_DevOps_Engineer_1",
+    "role": "DevOps Engineer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "How would you implement Google Cloud in a production environment?",
+    "expected_skills": [
+      "Google Cloud",
+      "Google Cloud",
+      "AWS"
+    ],
+    "created_at": "2025-04-03T21:44:51.788039"
+  },
+  {
+    "id": "q_DevOps_Engineer_2",
+    "role": "DevOps Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "How do you optimize Google Cloud for performance?",
+    "expected_skills": [
+      "Google Cloud",
+      "Kubernetes",
+      "CI/CD"
+    ],
+    "created_at": "2025-04-03T21:44:51.788039"
+  },
+  {
+    "id": "q_DevOps_Engineer_3",
+    "role": "DevOps Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "Explain how Docker works.",
+    "expected_skills": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD"
+    ],
+    "created_at": "2025-04-03T21:44:51.788039"
+  },
+  {
+    "id": "q_DevOps_Engineer_4",
+    "role": "DevOps Engineer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "How do you optimize Kubernetes for performance?",
+    "expected_skills": [
+      "Kubernetes",
+      "Azure",
+      "CI/CD"
+    ],
+    "created_at": "2025-04-03T21:44:51.788039"
+  },
+  {
+    "id": "q_DevOps_Engineer_5",
+    "role": "DevOps Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "Discuss the trade-offs of using AWS.",
+    "expected_skills": [
+      "AWS",
+      "Google Cloud",
+      "Azure"
+    ],
+    "created_at": "2025-04-03T21:44:51.788039"
+  },
+  {
+    "id": "q_DevOps_Engineer_6",
+    "role": "DevOps Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "What are the key concepts in CI/CD?",
+    "expected_skills": [
+      "CI/CD",
+      "Google Cloud",
+      "Docker"
+    ],
+    "created_at": "2025-04-03T21:44:51.788039"
+  },
+  {
+    "id": "q_DevOps_Engineer_7",
+    "role": "DevOps Engineer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "How do you optimize Azure for performance?",
+    "expected_skills": [
+      "Azure",
+      "AWS",
+      "Google Cloud"
+    ],
+    "created_at": "2025-04-03T21:44:51.788039"
+  },
+  {
+    "id": "q_DevOps_Engineer_8",
+    "role": "DevOps Engineer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "Discuss the trade-offs of using Azure.",
+    "expected_skills": [
+      "Azure",
+      "CI/CD",
+      "Google Cloud"
+    ],
+    "created_at": "2025-04-03T21:44:51.788039"
+  },
+  {
+    "id": "q_DevOps_Engineer_9",
+    "role": "DevOps Engineer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "What are the key concepts in CI/CD?",
+    "expected_skills": [
+      "CI/CD",
+      "Google Cloud",
+      "AWS"
+    ],
+    "created_at": "2025-04-03T21:44:51.788039"
+  },
+  {
+    "id": "q_DevOps_Engineer_10",
+    "role": "DevOps Engineer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "How do you optimize Azure for performance?",
+    "expected_skills": [
+      "Azure",
+      "Azure",
+      "Kubernetes"
+    ],
+    "created_at": "2025-04-03T21:44:51.788039"
+  },
+  {
+    "id": "q_DevOps_Engineer_11",
+    "role": "DevOps Engineer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "What are the key concepts in Kubernetes?",
+    "expected_skills": [
+      "Kubernetes",
+      "Google Cloud",
+      "Docker"
+    ],
+    "created_at": "2025-04-03T21:44:51.788039"
+  },
+  {
+    "id": "q_DevOps_Engineer_12",
+    "role": "DevOps Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "What are the key concepts in Docker?",
+    "expected_skills": [
+      "Docker",
+      "AWS",
+      "Docker"
+    ],
+    "created_at": "2025-04-03T21:44:51.788039"
+  },
+  {
+    "id": "q_DevOps_Engineer_13",
+    "role": "DevOps Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "How do you optimize AWS for performance?",
+    "expected_skills": [
+      "AWS",
+      "AWS",
+      "Docker"
+    ],
+    "created_at": "2025-04-03T21:44:51.788039"
+  },
+  {
+    "id": "q_DevOps_Engineer_14",
+    "role": "DevOps Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "Explain how CI/CD works.",
+    "expected_skills": [
+      "CI/CD",
+      "Google Cloud",
+      "AWS"
+    ],
+    "created_at": "2025-04-03T21:44:51.788039"
+  },
+  {
+    "id": "q_DevOps_Engineer_15",
+    "role": "DevOps Engineer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "What are the common challenges with Google Cloud?",
+    "expected_skills": [
+      "Google Cloud",
+      "Docker",
+      "AWS"
+    ],
+    "created_at": "2025-04-03T21:44:51.788039"
+  },
+  {
+    "id": "q_DevOps_Engineer_16",
+    "role": "DevOps Engineer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "What are the common challenges with Google Cloud?",
+    "expected_skills": [
+      "Google Cloud",
+      "AWS",
+      "Google Cloud"
+    ],
+    "created_at": "2025-04-03T21:44:51.788039"
+  },
+  {
+    "id": "q_DevOps_Engineer_17",
+    "role": "DevOps Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "What are the common challenges with Azure?",
+    "expected_skills": [
+      "Azure",
+      "AWS",
+      "CI/CD"
+    ],
+    "created_at": "2025-04-03T21:44:51.788039"
+  },
+  {
+    "id": "q_DevOps_Engineer_18",
+    "role": "DevOps Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "Discuss the trade-offs of using CI/CD.",
+    "expected_skills": [
+      "CI/CD",
+      "Kubernetes",
+      "AWS"
+    ],
+    "created_at": "2025-04-03T21:44:51.788039"
+  },
+  {
+    "id": "q_DevOps_Engineer_19",
+    "role": "DevOps Engineer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "What are the key concepts in Google Cloud?",
+    "expected_skills": [
+      "Google Cloud",
+      "Kubernetes",
+      "Docker"
+    ],
+    "created_at": "2025-04-03T21:44:51.788039"
+  },
+  {
+    "id": "q_DevOps_Engineer_20",
+    "role": "DevOps Engineer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Tell me about a time when you had to Google Cloud.",
+    "expected_skills": [
+      "Google Cloud",
+      "CI/CD",
+      "Docker"
+    ],
+    "created_at": "2025-04-03T21:44:51.788039"
+  },
+  {
+    "id": "q_DevOps_Engineer_21",
+    "role": "DevOps Engineer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "Describe a situation where you had to Docker under pressure.",
+    "expected_skills": [
+      "Docker",
+      "Kubernetes",
+      "Docker"
+    ],
+    "created_at": "2025-04-03T21:44:51.788039"
+  },
+  {
+    "id": "q_DevOps_Engineer_22",
+    "role": "DevOps Engineer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Describe a situation where you had to Kubernetes under pressure.",
+    "expected_skills": [
+      "Kubernetes",
+      "Google Cloud",
+      "AWS"
+    ],
+    "created_at": "2025-04-03T21:44:51.788039"
+  },
+  {
+    "id": "q_DevOps_Engineer_23",
+    "role": "DevOps Engineer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "Tell me about a time when you had to CI/CD.",
+    "expected_skills": [
+      "CI/CD",
+      "AWS",
+      "CI/CD"
+    ],
+    "created_at": "2025-04-03T21:44:51.788039"
+  },
+  {
+    "id": "q_DevOps_Engineer_24",
+    "role": "DevOps Engineer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "Describe a situation where you had to Azure under pressure.",
+    "expected_skills": [
+      "Azure",
+      "Kubernetes",
+      "Docker"
+    ],
+    "created_at": "2025-04-03T21:44:51.788039"
+  },
+  {
+    "id": "q_DevOps_Engineer_25",
+    "role": "DevOps Engineer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Tell me about a time when you had to AWS.",
+    "expected_skills": [
+      "AWS",
+      "AWS",
+      "CI/CD"
+    ],
+    "created_at": "2025-04-03T21:44:51.788039"
+  },
+  {
+    "id": "q_DevOps_Engineer_26",
+    "role": "DevOps Engineer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "Give an example of when you had to Docker.",
+    "expected_skills": [
+      "Docker",
+      "Azure",
+      "CI/CD"
+    ],
+    "created_at": "2025-04-03T21:44:51.788039"
+  },
+  {
+    "id": "q_DevOps_Engineer_27",
+    "role": "DevOps Engineer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "What's your process for AWS?",
+    "expected_skills": [
+      "AWS",
+      "Docker",
+      "Kubernetes"
+    ],
+    "created_at": "2025-04-03T21:44:51.788039"
+  },
+  {
+    "id": "q_DevOps_Engineer_28",
+    "role": "DevOps Engineer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Tell me about a time when you had to Azure.",
+    "expected_skills": [
+      "Azure",
+      "AWS",
+      "Kubernetes"
+    ],
+    "created_at": "2025-04-03T21:44:51.788039"
+  },
+  {
+    "id": "q_DevOps_Engineer_29",
+    "role": "DevOps Engineer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "Describe a situation where you had to Docker under pressure.",
+    "expected_skills": [
+      "Docker",
+      "Azure",
+      "CI/CD"
+    ],
+    "created_at": "2025-04-03T21:44:51.788039"
+  },
+  {
+    "id": "q_DevOps_Engineer_30",
+    "role": "DevOps Engineer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "Describe a situation where you had to Google Cloud under pressure.",
+    "expected_skills": [
+      "Google Cloud",
+      "Kubernetes",
+      "AWS"
+    ],
+    "created_at": "2025-04-03T21:44:51.788039"
+  },
+  {
+    "id": "q_DevOps_Engineer_31",
+    "role": "DevOps Engineer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "Give an example of when you had to AWS.",
+    "expected_skills": [
+      "AWS",
+      "Kubernetes",
+      "CI/CD"
+    ],
+    "created_at": "2025-04-03T21:44:51.788039"
+  },
+  {
+    "id": "q_DevOps_Engineer_32",
+    "role": "DevOps Engineer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "How do you approach Docker in your work?",
+    "expected_skills": [
+      "Docker",
+      "Docker",
+      "AWS"
+    ],
+    "created_at": "2025-04-03T21:44:51.788039"
+  },
+  {
+    "id": "q_DevOps_Engineer_33",
+    "role": "DevOps Engineer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "What's your process for AWS?",
+    "expected_skills": [
+      "AWS",
+      "AWS",
+      "Azure"
+    ],
+    "created_at": "2025-04-03T21:44:51.788039"
+  },
+  {
+    "id": "q_DevOps_Engineer_34",
+    "role": "DevOps Engineer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Tell me about a time when you had to AWS.",
+    "expected_skills": [
+      "AWS",
+      "Kubernetes",
+      "CI/CD"
+    ],
+    "created_at": "2025-04-03T21:44:51.788039"
+  }
+]

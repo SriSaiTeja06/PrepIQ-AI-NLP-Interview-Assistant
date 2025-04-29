@@ -1,0 +1,13 @@
+{
+  "id": "q_Cloud_Engineer_4",
+  "role": "Cloud Engineer",
+  "type": "technical",
+  "difficulty": "medium",
+  "content": "Explain how CloudFormation works.",
+  "expected_skills": [
+    "CloudFormation",
+    "Azure",
+    "Infrastructure as Code"
+  ],
+  "created_at": "2025-04-03T21:44:52.253153"
+}

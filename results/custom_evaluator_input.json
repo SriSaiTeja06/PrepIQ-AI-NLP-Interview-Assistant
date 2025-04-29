@@ -1,0 +1,46 @@
+[
+  {
+    "question": "What are the key concepts in Python?",
+    "answer": "I DONT KNOW",
+    "ground_truth": {
+      "technical_accuracy": 0.05,
+      "completeness": 0.05,
+      "clarity": 0.1,
+      "relevance": 0.05,
+      "overall_score": 0.06
+    }
+  },
+  {
+    "question": "What are the key concepts in Python?",
+    "answer": "My favorite color is blue.",
+    "ground_truth": {
+      "technical_accuracy": 0.0,
+      "completeness": 0.0,
+      "clarity": 0.1,
+      "relevance": 0.0,
+      "overall_score": 0.025
+    }
+  },
+  {
+    "question": "What are the key concepts in Python?",
+    "answer": "Python is a versatile and beginner-friendly programming language with several key concepts that are important to understand. These include variables and data types, such as integers, strings, lists, tuples, and dictionaries. Control flow is another core concept, which involves using conditionals like if-else statements and loops such as for and while.\n\nFunctions are essential in Python, as they allow code reuse and modular programming. Python also supports object-oriented programming, with concepts like classes, objects, inheritance, and encapsulation. Exception handling using try-except blocks is important for writing robust programs.\n\nIn addition, Python includes advanced features like list comprehensions, decorators, lambda functions, and generators. It has a strong standard library and supports external packages via pip, making it widely used in fields like web development, data science, and automation.",
+    "ground_truth": {
+      "technical_accuracy": 0.95,
+      "completeness": 0.9,
+      "clarity": 0.9,
+      "relevance": 0.95,
+      "overall_score": 0.925
+    }
+  },
+  {
+    "question": "What are the key concepts in Python?",
+    "answer": "",
+    "ground_truth": {
+      "technical_accuracy": 0.0,
+      "completeness": 0.0,
+      "clarity": 0.0,
+      "relevance": 0.0,
+      "overall_score": 0.0
+    }
+  }
+]

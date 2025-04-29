@@ -1,0 +1,13 @@
+{
+  "id": "q_Full_Stack_Developer_2",
+  "role": "Full Stack Developer",
+  "type": "technical",
+  "difficulty": "medium",
+  "content": "Explain how MongoDB works.",
+  "expected_skills": [
+    "MongoDB",
+    "JavaScript",
+    "Node.js"
+  ],
+  "created_at": "2025-04-03T21:44:53.225735"
+}

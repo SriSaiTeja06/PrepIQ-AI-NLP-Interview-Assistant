@@ -1,0 +1,13 @@
+{
+  "id": "q_Software_Engineer_11",
+  "role": "Software Engineer",
+  "type": "technical",
+  "difficulty": "hard",
+  "content": "What are the key concepts in Data Structures?",
+  "expected_skills": [
+    "Data Structures",
+    "Data Structures",
+    "C++"
+  ],
+  "created_at": "2025-04-03T21:44:51.550420"
+}

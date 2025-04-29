@@ -1,0 +1,13 @@
+{
+  "id": "q_Software_Engineer_17",
+  "role": "Software Engineer",
+  "type": "technical",
+  "difficulty": "easy",
+  "content": "What are the key concepts in C++?",
+  "expected_skills": [
+    "C++",
+    "C++",
+    "Algorithms"
+  ],
+  "created_at": "2025-04-03T21:44:51.550420"
+}

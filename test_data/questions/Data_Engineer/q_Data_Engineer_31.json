@@ -1,0 +1,13 @@
+{
+  "id": "q_Data_Engineer_31",
+  "role": "Data Engineer",
+  "type": "behavioral",
+  "difficulty": "medium",
+  "content": "Give an example of when you had to SQL.",
+  "expected_skills": [
+    "SQL",
+    "Apache Airflow",
+    "Python"
+  ],
+  "created_at": "2025-04-03T21:44:52.028491"
+}

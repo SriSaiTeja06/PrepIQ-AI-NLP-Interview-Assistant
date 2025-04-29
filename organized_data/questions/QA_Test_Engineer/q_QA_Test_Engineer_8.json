@@ -1,0 +1,12 @@
+{
+    "id": "q_QA_Test_Engineer_8",
+    "role": "QA Test Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "What are the advantages of manual testing?",
+    "expected_skills": [
+      "Manual Testing",
+      "Software Testing"
+    ],
+    "created_at": "2025-04-14T15:55:00.000000"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "q_Full_Stack_Developer_29",
+  "role": "Full Stack Developer",
+  "type": "behavioral",
+  "difficulty": "medium",
+  "content": "Describe a situation where you had to System Design under pressure.",
+  "expected_skills": [
+    "System Design",
+    "MongoDB",
+    "Node.js"
+  ],
+  "created_at": "2025-04-03T21:44:53.228746"
+}

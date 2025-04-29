@@ -1,0 +1,13 @@
+{
+  "id": "q_ML_Engineer_16",
+  "role": "ML Engineer",
+  "type": "technical",
+  "difficulty": "medium",
+  "content": "What is ensemble learning?",
+  "expected_skills": [
+    "Ensemble Methods",
+    "Bagging",
+    "Boosting"
+  ],
+  "created_at": "2025-04-14T15:55:00.000000"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "q_Security_Engineer_34",
+  "role": "Security Engineer",
+  "type": "behavioral",
+  "difficulty": "easy",
+  "content": "Tell me about a time when you had to Security.",
+  "expected_skills": [
+    "Security",
+    "Penetration Testing",
+    "Security Policies"
+  ],
+  "created_at": "2025-04-03T21:44:52.500435"
+}

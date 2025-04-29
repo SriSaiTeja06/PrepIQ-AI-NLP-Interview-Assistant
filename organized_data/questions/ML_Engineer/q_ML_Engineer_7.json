@@ -1,0 +1,13 @@
+{
+  "id": "q_ML_Engineer_7",
+  "role": "ML Engineer",
+  "type": "technical",
+  "difficulty": "medium",
+  "content": "Define Bias and Variance.",
+  "expected_skills": [
+    "Bias-Variance Tradeoff",
+    "Model Evaluation",
+    "Machine Learning Concepts"
+  ],
+  "created_at": "2025-04-14T15:55:00.000000"
+}

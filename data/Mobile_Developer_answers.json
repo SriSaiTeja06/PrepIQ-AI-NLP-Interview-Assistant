@@ -1,0 +1,578 @@
+[
+  {
+    "id": "a_q_Mobile_Developer_0_high",
+    "question_id": "q_Mobile_Developer_0",
+    "content": "The key concept behind this is...\n\nTo implement this, you would...\n\nFor better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.95,
+    "created_at": "2025-04-14T22:24:44.528653"
+  },
+  {
+    "id": "a_q_Mobile_Developer_0_medium",
+    "question_id": "q_Mobile_Developer_0",
+    "content": "For better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.8,
+    "created_at": "2025-04-14T22:24:44.531795"
+  },
+  {
+    "id": "a_q_Mobile_Developer_0_low",
+    "question_id": "q_Mobile_Developer_0",
+    "content": "",
+    "audio_source": null,
+    "confidence": 0.6,
+    "created_at": "2025-04-14T22:24:44.534514"
+  },
+  {
+    "id": "a_q_Mobile_Developer_1_high",
+    "question_id": "q_Mobile_Developer_1",
+    "content": "The key concept behind this is...\n\nTo implement this, you would...\n\nFor better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.95,
+    "created_at": "2025-04-14T22:24:44.536469"
+  },
+  {
+    "id": "a_q_Mobile_Developer_1_medium",
+    "question_id": "q_Mobile_Developer_1",
+    "content": "For better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.8,
+    "created_at": "2025-04-14T22:24:44.538599"
+  },
+  {
+    "id": "a_q_Mobile_Developer_1_low",
+    "question_id": "q_Mobile_Developer_1",
+    "content": "",
+    "audio_source": null,
+    "confidence": 0.6,
+    "created_at": "2025-04-14T22:24:44.541148"
+  },
+  {
+    "id": "a_q_Mobile_Developer_10_high",
+    "question_id": "q_Mobile_Developer_10",
+    "content": "The key concept behind this is...\n\nTo implement this, you would...\n\nFor better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.95,
+    "created_at": "2025-04-14T22:24:44.544104"
+  },
+  {
+    "id": "a_q_Mobile_Developer_10_medium",
+    "question_id": "q_Mobile_Developer_10",
+    "content": "For better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.8,
+    "created_at": "2025-04-14T22:24:44.546111"
+  },
+  {
+    "id": "a_q_Mobile_Developer_10_low",
+    "question_id": "q_Mobile_Developer_10",
+    "content": "",
+    "audio_source": null,
+    "confidence": 0.6,
+    "created_at": "2025-04-14T22:24:44.548902"
+  },
+  {
+    "id": "a_q_Mobile_Developer_11_high",
+    "question_id": "q_Mobile_Developer_11",
+    "content": "The key concept behind this is...\n\nTo implement this, you would...\n\nFor better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.95,
+    "created_at": "2025-04-14T22:24:44.550964"
+  },
+  {
+    "id": "a_q_Mobile_Developer_11_medium",
+    "question_id": "q_Mobile_Developer_11",
+    "content": "For better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.8,
+    "created_at": "2025-04-14T22:24:44.553969"
+  },
+  {
+    "id": "a_q_Mobile_Developer_11_low",
+    "question_id": "q_Mobile_Developer_11",
+    "content": "",
+    "audio_source": null,
+    "confidence": 0.6,
+    "created_at": "2025-04-14T22:24:44.556210"
+  },
+  {
+    "id": "a_q_Mobile_Developer_12_high",
+    "question_id": "q_Mobile_Developer_12",
+    "content": "The key concept behind this is...\n\nTo implement this, you would...\n\nFor better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.95,
+    "created_at": "2025-04-14T22:24:44.558208"
+  },
+  {
+    "id": "a_q_Mobile_Developer_12_medium",
+    "question_id": "q_Mobile_Developer_12",
+    "content": "For better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.8,
+    "created_at": "2025-04-14T22:24:44.561136"
+  },
+  {
+    "id": "a_q_Mobile_Developer_12_low",
+    "question_id": "q_Mobile_Developer_12",
+    "content": "",
+    "audio_source": null,
+    "confidence": 0.6,
+    "created_at": "2025-04-14T22:24:44.564334"
+  },
+  {
+    "id": "a_q_Mobile_Developer_13_high",
+    "question_id": "q_Mobile_Developer_13",
+    "content": "The key concept behind this is...\n\nTo implement this, you would...\n\nFor better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.95,
+    "created_at": "2025-04-14T22:24:44.568283"
+  },
+  {
+    "id": "a_q_Mobile_Developer_13_medium",
+    "question_id": "q_Mobile_Developer_13",
+    "content": "For better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.8,
+    "created_at": "2025-04-14T22:24:44.573012"
+  },
+  {
+    "id": "a_q_Mobile_Developer_13_low",
+    "question_id": "q_Mobile_Developer_13",
+    "content": "",
+    "audio_source": null,
+    "confidence": 0.6,
+    "created_at": "2025-04-14T22:24:44.575080"
+  },
+  {
+    "id": "a_q_Mobile_Developer_14_high",
+    "question_id": "q_Mobile_Developer_14",
+    "content": "The key concept behind this is...\n\nTo implement this, you would...\n\nFor better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.95,
+    "created_at": "2025-04-14T22:24:44.581030"
+  },
+  {
+    "id": "a_q_Mobile_Developer_14_medium",
+    "question_id": "q_Mobile_Developer_14",
+    "content": "For better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.8,
+    "created_at": "2025-04-14T22:24:44.584559"
+  },
+  {
+    "id": "a_q_Mobile_Developer_14_low",
+    "question_id": "q_Mobile_Developer_14",
+    "content": "",
+    "audio_source": null,
+    "confidence": 0.6,
+    "created_at": "2025-04-14T22:24:44.587134"
+  },
+  {
+    "id": "a_q_Mobile_Developer_15_high",
+    "question_id": "q_Mobile_Developer_15",
+    "content": "The key concept behind this is...\n\nTo implement this, you would...\n\nFor better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.95,
+    "created_at": "2025-04-14T22:24:44.589917"
+  },
+  {
+    "id": "a_q_Mobile_Developer_15_medium",
+    "question_id": "q_Mobile_Developer_15",
+    "content": "For better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.8,
+    "created_at": "2025-04-14T22:24:44.595609"
+  },
+  {
+    "id": "a_q_Mobile_Developer_15_low",
+    "question_id": "q_Mobile_Developer_15",
+    "content": "",
+    "audio_source": null,
+    "confidence": 0.6,
+    "created_at": "2025-04-14T22:24:44.599296"
+  },
+  {
+    "id": "a_q_Mobile_Developer_16_high",
+    "question_id": "q_Mobile_Developer_16",
+    "content": "The key concept behind this is...\n\nTo implement this, you would...\n\nFor better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.95,
+    "created_at": "2025-04-14T22:24:44.601809"
+  },
+  {
+    "id": "a_q_Mobile_Developer_16_medium",
+    "question_id": "q_Mobile_Developer_16",
+    "content": "For better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.8,
+    "created_at": "2025-04-14T22:24:44.605061"
+  },
+  {
+    "id": "a_q_Mobile_Developer_16_low",
+    "question_id": "q_Mobile_Developer_16",
+    "content": "",
+    "audio_source": null,
+    "confidence": 0.6,
+    "created_at": "2025-04-14T22:24:44.607334"
+  },
+  {
+    "id": "a_q_Mobile_Developer_17_high",
+    "question_id": "q_Mobile_Developer_17",
+    "content": "The key concept behind this is...\n\nTo implement this, you would...\n\nFor better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.95,
+    "created_at": "2025-04-14T22:24:44.610379"
+  },
+  {
+    "id": "a_q_Mobile_Developer_17_medium",
+    "question_id": "q_Mobile_Developer_17",
+    "content": "For better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.8,
+    "created_at": "2025-04-14T22:24:44.612051"
+  },
+  {
+    "id": "a_q_Mobile_Developer_17_low",
+    "question_id": "q_Mobile_Developer_17",
+    "content": "",
+    "audio_source": null,
+    "confidence": 0.6,
+    "created_at": "2025-04-14T22:24:44.615104"
+  },
+  {
+    "id": "a_q_Mobile_Developer_18_high",
+    "question_id": "q_Mobile_Developer_18",
+    "content": "The key concept behind this is...\n\nTo implement this, you would...\n\nFor better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.95,
+    "created_at": "2025-04-14T22:24:44.616751"
+  },
+  {
+    "id": "a_q_Mobile_Developer_18_medium",
+    "question_id": "q_Mobile_Developer_18",
+    "content": "For better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.8,
+    "created_at": "2025-04-14T22:24:44.619753"
+  },
+  {
+    "id": "a_q_Mobile_Developer_18_low",
+    "question_id": "q_Mobile_Developer_18",
+    "content": "",
+    "audio_source": null,
+    "confidence": 0.6,
+    "created_at": "2025-04-14T22:24:44.622291"
+  },
+  {
+    "id": "a_q_Mobile_Developer_19_high",
+    "question_id": "q_Mobile_Developer_19",
+    "content": "The key concept behind this is...\n\nTo implement this, you would...\n\nFor better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.95,
+    "created_at": "2025-04-14T22:24:44.624290"
+  },
+  {
+    "id": "a_q_Mobile_Developer_19_medium",
+    "question_id": "q_Mobile_Developer_19",
+    "content": "For better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.8,
+    "created_at": "2025-04-14T22:24:44.627269"
+  },
+  {
+    "id": "a_q_Mobile_Developer_19_low",
+    "question_id": "q_Mobile_Developer_19",
+    "content": "",
+    "audio_source": null,
+    "confidence": 0.6,
+    "created_at": "2025-04-14T22:24:44.629294"
+  },
+  {
+    "id": "a_q_Mobile_Developer_2_high",
+    "question_id": "q_Mobile_Developer_2",
+    "content": "The key concept behind this is...\n\nTo implement this, you would...\n\nFor better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.95,
+    "created_at": "2025-04-14T22:24:44.631797"
+  },
+  {
+    "id": "a_q_Mobile_Developer_2_medium",
+    "question_id": "q_Mobile_Developer_2",
+    "content": "For better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.8,
+    "created_at": "2025-04-14T22:24:44.634806"
+  },
+  {
+    "id": "a_q_Mobile_Developer_2_low",
+    "question_id": "q_Mobile_Developer_2",
+    "content": "",
+    "audio_source": null,
+    "confidence": 0.6,
+    "created_at": "2025-04-14T22:24:44.637308"
+  },
+  {
+    "id": "a_q_Mobile_Developer_20_high",
+    "question_id": "q_Mobile_Developer_20",
+    "content": "The key concept behind this is...\n\nTo implement this, you would...\n\nFor better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.95,
+    "created_at": "2025-04-14T22:24:44.639456"
+  },
+  {
+    "id": "a_q_Mobile_Developer_20_medium",
+    "question_id": "q_Mobile_Developer_20",
+    "content": "For better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.8,
+    "created_at": "2025-04-14T22:24:44.642013"
+  },
+  {
+    "id": "a_q_Mobile_Developer_20_low",
+    "question_id": "q_Mobile_Developer_20",
+    "content": "",
+    "audio_source": null,
+    "confidence": 0.6,
+    "created_at": "2025-04-14T22:24:44.644254"
+  },
+  {
+    "id": "a_q_Mobile_Developer_21_high",
+    "question_id": "q_Mobile_Developer_21",
+    "content": "The key concept behind this is...\n\nTo implement this, you would...\n\nFor better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.95,
+    "created_at": "2025-04-14T22:24:44.646571"
+  },
+  {
+    "id": "a_q_Mobile_Developer_21_medium",
+    "question_id": "q_Mobile_Developer_21",
+    "content": "For better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.8,
+    "created_at": "2025-04-14T22:24:44.648568"
+  },
+  {
+    "id": "a_q_Mobile_Developer_21_low",
+    "question_id": "q_Mobile_Developer_21",
+    "content": "",
+    "audio_source": null,
+    "confidence": 0.6,
+    "created_at": "2025-04-14T22:24:44.651340"
+  },
+  {
+    "id": "a_q_Mobile_Developer_22_high",
+    "question_id": "q_Mobile_Developer_22",
+    "content": "The key concept behind this is...\n\nTo implement this, you would...\n\nFor better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.95,
+    "created_at": "2025-04-14T22:24:44.653378"
+  },
+  {
+    "id": "a_q_Mobile_Developer_22_medium",
+    "question_id": "q_Mobile_Developer_22",
+    "content": "For better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.8,
+    "created_at": "2025-04-14T22:24:44.655889"
+  },
+  {
+    "id": "a_q_Mobile_Developer_22_low",
+    "question_id": "q_Mobile_Developer_22",
+    "content": "",
+    "audio_source": null,
+    "confidence": 0.6,
+    "created_at": "2025-04-14T22:24:44.658854"
+  },
+  {
+    "id": "a_q_Mobile_Developer_23_high",
+    "question_id": "q_Mobile_Developer_23",
+    "content": "The key concept behind this is...\n\nTo implement this, you would...\n\nFor better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.95,
+    "created_at": "2025-04-14T22:24:44.659856"
+  },
+  {
+    "id": "a_q_Mobile_Developer_23_medium",
+    "question_id": "q_Mobile_Developer_23",
+    "content": "For better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.8,
+    "created_at": "2025-04-14T22:24:44.664173"
+  },
+  {
+    "id": "a_q_Mobile_Developer_23_low",
+    "question_id": "q_Mobile_Developer_23",
+    "content": "",
+    "audio_source": null,
+    "confidence": 0.6,
+    "created_at": "2025-04-14T22:24:44.666023"
+  },
+  {
+    "id": "a_q_Mobile_Developer_3_high",
+    "question_id": "q_Mobile_Developer_3",
+    "content": "The key concept behind this is...\n\nTo implement this, you would...\n\nFor better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.95,
+    "created_at": "2025-04-14T22:24:44.668531"
+  },
+  {
+    "id": "a_q_Mobile_Developer_3_medium",
+    "question_id": "q_Mobile_Developer_3",
+    "content": "For better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.8,
+    "created_at": "2025-04-14T22:24:44.671339"
+  },
+  {
+    "id": "a_q_Mobile_Developer_3_low",
+    "question_id": "q_Mobile_Developer_3",
+    "content": "",
+    "audio_source": null,
+    "confidence": 0.6,
+    "created_at": "2025-04-14T22:24:44.673306"
+  },
+  {
+    "id": "a_q_Mobile_Developer_4_high",
+    "question_id": "q_Mobile_Developer_4",
+    "content": "The key concept behind this is...\n\nTo implement this, you would...\n\nFor better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.95,
+    "created_at": "2025-04-14T22:24:44.675882"
+  },
+  {
+    "id": "a_q_Mobile_Developer_4_medium",
+    "question_id": "q_Mobile_Developer_4",
+    "content": "For better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.8,
+    "created_at": "2025-04-14T22:24:44.678526"
+  },
+  {
+    "id": "a_q_Mobile_Developer_4_low",
+    "question_id": "q_Mobile_Developer_4",
+    "content": "",
+    "audio_source": null,
+    "confidence": 0.6,
+    "created_at": "2025-04-14T22:24:44.681019"
+  },
+  {
+    "id": "a_q_Mobile_Developer_5_high",
+    "question_id": "q_Mobile_Developer_5",
+    "content": "The key concept behind this is...\n\nTo implement this, you would...\n\nFor better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.95,
+    "created_at": "2025-04-14T22:24:44.682866"
+  },
+  {
+    "id": "a_q_Mobile_Developer_5_medium",
+    "question_id": "q_Mobile_Developer_5",
+    "content": "For better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.8,
+    "created_at": "2025-04-14T22:24:44.686368"
+  },
+  {
+    "id": "a_q_Mobile_Developer_5_low",
+    "question_id": "q_Mobile_Developer_5",
+    "content": "",
+    "audio_source": null,
+    "confidence": 0.6,
+    "created_at": "2025-04-14T22:24:44.688506"
+  },
+  {
+    "id": "a_q_Mobile_Developer_6_high",
+    "question_id": "q_Mobile_Developer_6",
+    "content": "The key concept behind this is...\n\nTo implement this, you would...\n\nFor better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.95,
+    "created_at": "2025-04-14T22:24:44.691019"
+  },
+  {
+    "id": "a_q_Mobile_Developer_6_medium",
+    "question_id": "q_Mobile_Developer_6",
+    "content": "For better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.8,
+    "created_at": "2025-04-14T22:24:44.693028"
+  },
+  {
+    "id": "a_q_Mobile_Developer_6_low",
+    "question_id": "q_Mobile_Developer_6",
+    "content": "",
+    "audio_source": null,
+    "confidence": 0.6,
+    "created_at": "2025-04-14T22:24:44.695626"
+  },
+  {
+    "id": "a_q_Mobile_Developer_7_high",
+    "question_id": "q_Mobile_Developer_7",
+    "content": "The key concept behind this is...\n\nTo implement this, you would...\n\nFor better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.95,
+    "created_at": "2025-04-14T22:24:44.697625"
+  },
+  {
+    "id": "a_q_Mobile_Developer_7_medium",
+    "question_id": "q_Mobile_Developer_7",
+    "content": "For better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.8,
+    "created_at": "2025-04-14T22:24:44.701140"
+  },
+  {
+    "id": "a_q_Mobile_Developer_7_low",
+    "question_id": "q_Mobile_Developer_7",
+    "content": "",
+    "audio_source": null,
+    "confidence": 0.6,
+    "created_at": "2025-04-14T22:24:44.703553"
+  },
+  {
+    "id": "a_q_Mobile_Developer_8_high",
+    "question_id": "q_Mobile_Developer_8",
+    "content": "The key concept behind this is...\n\nTo implement this, you would...\n\nFor better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.95,
+    "created_at": "2025-04-14T22:24:44.705067"
+  },
+  {
+    "id": "a_q_Mobile_Developer_8_medium",
+    "question_id": "q_Mobile_Developer_8",
+    "content": "For better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.8,
+    "created_at": "2025-04-14T22:24:44.707771"
+  },
+  {
+    "id": "a_q_Mobile_Developer_8_low",
+    "question_id": "q_Mobile_Developer_8",
+    "content": "",
+    "audio_source": null,
+    "confidence": 0.6,
+    "created_at": "2025-04-14T22:24:44.710223"
+  },
+  {
+    "id": "a_q_Mobile_Developer_9_high",
+    "question_id": "q_Mobile_Developer_9",
+    "content": "The key concept behind this is...\n\nTo implement this, you would...\n\nFor better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.95,
+    "created_at": "2025-04-14T22:24:44.712170"
+  },
+  {
+    "id": "a_q_Mobile_Developer_9_medium",
+    "question_id": "q_Mobile_Developer_9",
+    "content": "For better performance, consider...\n\n",
+    "audio_source": null,
+    "confidence": 0.8,
+    "created_at": "2025-04-14T22:24:44.714230"
+  },
+  {
+    "id": "a_q_Mobile_Developer_9_low",
+    "question_id": "q_Mobile_Developer_9",
+    "content": "",
+    "audio_source": null,
+    "confidence": 0.6,
+    "created_at": "2025-04-14T22:24:44.717302"
+  }
+]

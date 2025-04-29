@@ -1,0 +1,13 @@
+{
+    "id": "q_Mobile_Developer_4",
+    "role": "Mobile Developer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "What is the use of NotificationCenter?",
+    "expected_skills": [
+      "iOS Development",
+      "Notifications",
+      "Event Handling"
+    ],
+    "created_at": "2025-04-14T15:55:00.000000"
+}

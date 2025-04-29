@@ -1,0 +1,13 @@
+{
+    "id": "q_Product_Manager_15",
+    "role": "Product Manager",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "How do you know if a product is well-designed?",
+    "expected_skills": [
+      "Product Design",
+      "User Experience (UX)",
+      "Usability Testing"
+    ],
+    "created_at": "2025-04-14T15:55:00.000000"
+}

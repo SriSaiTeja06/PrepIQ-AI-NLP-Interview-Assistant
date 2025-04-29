@@ -1,0 +1,13 @@
+{
+  "id": "q_Software_Engineer_28",
+  "role": "Software Engineer",
+  "type": "behavioral",
+  "difficulty": "medium",
+  "content": "Give an example of when you had to C++.",
+  "expected_skills": [
+    "C++",
+    "Algorithms",
+    "Java"
+  ],
+  "created_at": "2025-04-03T21:44:51.550420"
+}

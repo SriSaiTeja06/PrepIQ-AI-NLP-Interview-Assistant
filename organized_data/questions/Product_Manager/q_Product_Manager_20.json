@@ -1,0 +1,13 @@
+{
+    "id": "q_Product_Manager_20",
+    "role": "Product Manager",
+    "type": "behavioral",
+    "difficulty": "hard",
+    "content": "How do you decide what and what not to build?",
+    "expected_skills": [
+      "Product Strategy",
+      "Prioritization",
+      "Market Analysis"
+    ],
+    "created_at": "2025-04-14T15:55:00.000000"
+}

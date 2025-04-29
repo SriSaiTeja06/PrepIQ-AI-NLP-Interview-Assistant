@@ -1,0 +1,1 @@
+This directory is intended for raw data files. Add specific data files here. This placeholder ensures the directory is tracked by Git.

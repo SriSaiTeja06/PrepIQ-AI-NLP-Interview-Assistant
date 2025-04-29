@@ -1,0 +1,13 @@
+{
+  "id": "q_Cloud_Engineer_32",
+  "role": "Cloud Engineer",
+  "type": "behavioral",
+  "difficulty": "easy",
+  "content": "How do you approach AWS in your work?",
+  "expected_skills": [
+    "AWS",
+    "Google Cloud",
+    "Infrastructure as Code"
+  ],
+  "created_at": "2025-04-03T21:44:52.253153"
+}

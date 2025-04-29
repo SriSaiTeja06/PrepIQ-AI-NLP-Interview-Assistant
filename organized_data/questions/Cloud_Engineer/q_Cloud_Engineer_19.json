@@ -1,0 +1,13 @@
+{
+  "id": "q_Cloud_Engineer_19",
+  "role": "Cloud Engineer",
+  "type": "technical",
+  "difficulty": "medium",
+  "content": "How would you implement Infrastructure as Code in a production environment?",
+  "expected_skills": [
+    "Infrastructure as Code",
+    "AWS",
+    "Terraform"
+  ],
+  "created_at": "2025-04-03T21:44:52.253153"
+}

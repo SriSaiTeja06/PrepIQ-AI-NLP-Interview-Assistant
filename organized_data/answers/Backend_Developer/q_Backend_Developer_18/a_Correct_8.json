@@ -1,0 +1,6 @@
+{
+  "id": "a_Correct_8",
+  "question_id": "q_Backend_Developer_18",
+  "content": "Algorithm choice matters. For instance, using a more efficient algorithm with a better time complexity (e.g., O(n log n) vs O(n^2)) can drastically improve performance for large datasets, often more so than micro-optimizations.",
+  "audio_source": null
+}

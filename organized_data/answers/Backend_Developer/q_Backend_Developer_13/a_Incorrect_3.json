@@ -1,0 +1,6 @@
+{
+  "id": "a_Incorrect_3",
+  "question_id": "q_Backend_Developer_13",
+  "content": "The best way to handle exceptions in Java is to catch the generic `Exception` class everywhere so you don't miss any errors.",
+  "audio_source": null
+}

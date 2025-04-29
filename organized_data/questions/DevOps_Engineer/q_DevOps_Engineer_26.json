@@ -1,0 +1,13 @@
+{
+  "id": "q_DevOps_Engineer_26",
+  "role": "DevOps Engineer",
+  "type": "behavioral",
+  "difficulty": "easy",
+  "content": "Give an example of when you had to Docker.",
+  "expected_skills": [
+    "Docker",
+    "Azure",
+    "CI/CD"
+  ],
+  "created_at": "2025-04-03T21:44:51.788039"
+}

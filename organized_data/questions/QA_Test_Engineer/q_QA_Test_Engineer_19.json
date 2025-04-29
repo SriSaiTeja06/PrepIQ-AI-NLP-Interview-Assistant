@@ -1,0 +1,13 @@
+{
+    "id": "q_QA_Test_Engineer_19",
+    "role": "QA Test Engineer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "How do you handle outlier values?",
+    "expected_skills": [
+      "Data Analysis",
+      "Statistics",
+      "Outlier Detection"
+    ],
+    "created_at": "2025-04-14T15:55:00.000000"
+}

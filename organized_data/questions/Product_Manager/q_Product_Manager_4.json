@@ -1,0 +1,13 @@
+{
+    "id": "q_Product_Manager_4",
+    "role": "Product Manager",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "How would you explain Product Management to a 5-year-old?",
+    "expected_skills": [
+      "Communication",
+      "Simplification",
+      "Product Vision"
+    ],
+    "created_at": "2025-04-14T15:55:00.000000"
+}

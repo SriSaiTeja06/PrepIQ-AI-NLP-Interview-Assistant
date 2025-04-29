@@ -1,0 +1,13 @@
+{
+  "id": "q_Machine_Learning_Engineer_25",
+  "role": "Machine Learning Engineer",
+  "type": "behavioral",
+  "difficulty": "medium",
+  "content": "Tell me about a time when you had to Docker.",
+  "expected_skills": [
+    "Docker",
+    "Python",
+    "PyTorch"
+  ],
+  "created_at": "2025-04-03T21:44:51.315773"
+}

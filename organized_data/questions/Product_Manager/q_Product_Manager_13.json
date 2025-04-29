@@ -1,0 +1,13 @@
+{
+    "id": "q_Product_Manager_13",
+    "role": "Product Manager",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "How do you incorporate product analytics into your decision-making process?",
+    "expected_skills": [
+      "Product Analytics",
+      "Data-Driven Decision Making",
+      "Metrics"
+    ],
+    "created_at": "2025-04-14T15:55:00.000000"
+}

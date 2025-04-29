@@ -1,0 +1,457 @@
+[
+  {
+    "id": "q_Frontend_Developer_0",
+    "role": "Frontend Developer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "How do you optimize Web Performance for performance?",
+    "expected_skills": [
+      "Web Performance",
+      "CSS",
+      "Vue.js"
+    ],
+    "created_at": "2025-04-03T21:44:52.740879"
+  },
+  {
+    "id": "q_Frontend_Developer_1",
+    "role": "Frontend Developer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "How would you implement HTML in a production environment?",
+    "expected_skills": [
+      "HTML",
+      "JavaScript",
+      "CSS"
+    ],
+    "created_at": "2025-04-03T21:44:52.740879"
+  },
+  {
+    "id": "q_Frontend_Developer_2",
+    "role": "Frontend Developer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "How would you implement HTML in a production environment?",
+    "expected_skills": [
+      "HTML",
+      "JavaScript",
+      "CSS"
+    ],
+    "created_at": "2025-04-03T21:44:52.740879"
+  },
+  {
+    "id": "q_Frontend_Developer_3",
+    "role": "Frontend Developer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "What are the common challenges with HTML?",
+    "expected_skills": [
+      "HTML",
+      "HTML",
+      "Vue.js"
+    ],
+    "created_at": "2025-04-03T21:44:52.740879"
+  },
+  {
+    "id": "q_Frontend_Developer_4",
+    "role": "Frontend Developer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "Discuss the trade-offs of using Web Performance.",
+    "expected_skills": [
+      "Web Performance",
+      "React",
+      "Web Performance"
+    ],
+    "created_at": "2025-04-03T21:44:52.740879"
+  },
+  {
+    "id": "q_Frontend_Developer_5",
+    "role": "Frontend Developer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "How do you optimize React for performance?",
+    "expected_skills": [
+      "React",
+      "CSS",
+      "React"
+    ],
+    "created_at": "2025-04-03T21:44:52.740879"
+  },
+  {
+    "id": "q_Frontend_Developer_6",
+    "role": "Frontend Developer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "Discuss the trade-offs of using React.",
+    "expected_skills": [
+      "React",
+      "Vue.js",
+      "JavaScript"
+    ],
+    "created_at": "2025-04-03T21:44:52.745213"
+  },
+  {
+    "id": "q_Frontend_Developer_7",
+    "role": "Frontend Developer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "What are the common challenges with React?",
+    "expected_skills": [
+      "React",
+      "JavaScript",
+      "Web Performance"
+    ],
+    "created_at": "2025-04-03T21:44:52.745213"
+  },
+  {
+    "id": "q_Frontend_Developer_8",
+    "role": "Frontend Developer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "How do you optimize Vue.js for performance?",
+    "expected_skills": [
+      "Vue.js",
+      "Web Performance",
+      "HTML"
+    ],
+    "created_at": "2025-04-03T21:44:52.745213"
+  },
+  {
+    "id": "q_Frontend_Developer_9",
+    "role": "Frontend Developer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "Discuss the trade-offs of using JavaScript.",
+    "expected_skills": [
+      "JavaScript",
+      "Web Performance",
+      "Vue.js"
+    ],
+    "created_at": "2025-04-03T21:44:52.745213"
+  },
+  {
+    "id": "q_Frontend_Developer_10",
+    "role": "Frontend Developer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "Discuss the trade-offs of using Web Performance.",
+    "expected_skills": [
+      "Web Performance",
+      "JavaScript",
+      "Web Performance"
+    ],
+    "created_at": "2025-04-03T21:44:52.745213"
+  },
+  {
+    "id": "q_Frontend_Developer_11",
+    "role": "Frontend Developer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "Discuss the trade-offs of using JavaScript.",
+    "expected_skills": [
+      "JavaScript",
+      "JavaScript",
+      "CSS"
+    ],
+    "created_at": "2025-04-03T21:44:52.745213"
+  },
+  {
+    "id": "q_Frontend_Developer_12",
+    "role": "Frontend Developer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "How would you implement JavaScript in a production environment?",
+    "expected_skills": [
+      "JavaScript",
+      "Vue.js",
+      "Web Performance"
+    ],
+    "created_at": "2025-04-03T21:44:52.745213"
+  },
+  {
+    "id": "q_Frontend_Developer_13",
+    "role": "Frontend Developer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "What are the common challenges with Vue.js?",
+    "expected_skills": [
+      "Vue.js",
+      "Vue.js",
+      "Web Performance"
+    ],
+    "created_at": "2025-04-03T21:44:52.745213"
+  },
+  {
+    "id": "q_Frontend_Developer_14",
+    "role": "Frontend Developer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "Discuss the trade-offs of using Web Performance.",
+    "expected_skills": [
+      "Web Performance",
+      "JavaScript",
+      "React"
+    ],
+    "created_at": "2025-04-03T21:44:52.745213"
+  },
+  {
+    "id": "q_Frontend_Developer_15",
+    "role": "Frontend Developer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "How do you optimize JavaScript for performance?",
+    "expected_skills": [
+      "JavaScript",
+      "CSS",
+      "Vue.js"
+    ],
+    "created_at": "2025-04-03T21:44:52.745213"
+  },
+  {
+    "id": "q_Frontend_Developer_16",
+    "role": "Frontend Developer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "Explain how Web Performance works.",
+    "expected_skills": [
+      "Web Performance",
+      "Web Performance",
+      "Vue.js"
+    ],
+    "created_at": "2025-04-03T21:44:52.745213"
+  },
+  {
+    "id": "q_Frontend_Developer_17",
+    "role": "Frontend Developer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "What are the key concepts in JavaScript?",
+    "expected_skills": [
+      "JavaScript",
+      "HTML",
+      "Web Performance"
+    ],
+    "created_at": "2025-04-03T21:44:52.745213"
+  },
+  {
+    "id": "q_Frontend_Developer_18",
+    "role": "Frontend Developer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "Explain how HTML works.",
+    "expected_skills": [
+      "HTML",
+      "React",
+      "Web Performance"
+    ],
+    "created_at": "2025-04-03T21:44:52.745213"
+  },
+  {
+    "id": "q_Frontend_Developer_19",
+    "role": "Frontend Developer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "Discuss the trade-offs of using Web Performance.",
+    "expected_skills": [
+      "Web Performance",
+      "JavaScript",
+      "CSS"
+    ],
+    "created_at": "2025-04-03T21:44:52.745213"
+  },
+  {
+    "id": "q_Frontend_Developer_20",
+    "role": "Frontend Developer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "Give an example of when you had to CSS.",
+    "expected_skills": [
+      "CSS",
+      "HTML",
+      "Web Performance"
+    ],
+    "created_at": "2025-04-03T21:44:52.745213"
+  },
+  {
+    "id": "q_Frontend_Developer_21",
+    "role": "Frontend Developer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "Give an example of when you had to React.",
+    "expected_skills": [
+      "React",
+      "Web Performance",
+      "CSS"
+    ],
+    "created_at": "2025-04-03T21:44:52.745213"
+  },
+  {
+    "id": "q_Frontend_Developer_22",
+    "role": "Frontend Developer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "How do you approach Vue.js in your work?",
+    "expected_skills": [
+      "Vue.js",
+      "CSS",
+      "React"
+    ],
+    "created_at": "2025-04-03T21:44:52.745213"
+  },
+  {
+    "id": "q_Frontend_Developer_23",
+    "role": "Frontend Developer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Tell me about a time when you had to JavaScript.",
+    "expected_skills": [
+      "JavaScript",
+      "Vue.js",
+      "HTML"
+    ],
+    "created_at": "2025-04-03T21:44:52.745213"
+  },
+  {
+    "id": "q_Frontend_Developer_24",
+    "role": "Frontend Developer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Tell me about a time when you had to React.",
+    "expected_skills": [
+      "React",
+      "Vue.js",
+      "HTML"
+    ],
+    "created_at": "2025-04-03T21:44:52.745213"
+  },
+  {
+    "id": "q_Frontend_Developer_25",
+    "role": "Frontend Developer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "Describe a situation where you had to Web Performance under pressure.",
+    "expected_skills": [
+      "Web Performance",
+      "Vue.js",
+      "CSS"
+    ],
+    "created_at": "2025-04-03T21:44:52.745213"
+  },
+  {
+    "id": "q_Frontend_Developer_26",
+    "role": "Frontend Developer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Tell me about a time when you had to CSS.",
+    "expected_skills": [
+      "CSS",
+      "JavaScript",
+      "CSS"
+    ],
+    "created_at": "2025-04-03T21:44:52.745213"
+  },
+  {
+    "id": "q_Frontend_Developer_27",
+    "role": "Frontend Developer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "How do you approach CSS in your work?",
+    "expected_skills": [
+      "CSS",
+      "HTML",
+      "Web Performance"
+    ],
+    "created_at": "2025-04-03T21:44:52.745213"
+  },
+  {
+    "id": "q_Frontend_Developer_28",
+    "role": "Frontend Developer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "How do you approach JavaScript in your work?",
+    "expected_skills": [
+      "JavaScript",
+      "Vue.js",
+      "Web Performance"
+    ],
+    "created_at": "2025-04-03T21:44:52.745213"
+  },
+  {
+    "id": "q_Frontend_Developer_29",
+    "role": "Frontend Developer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "What's your process for CSS?",
+    "expected_skills": [
+      "CSS",
+      "Vue.js",
+      "Web Performance"
+    ],
+    "created_at": "2025-04-03T21:44:52.745213"
+  },
+  {
+    "id": "q_Frontend_Developer_30",
+    "role": "Frontend Developer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "How do you approach HTML in your work?",
+    "expected_skills": [
+      "HTML",
+      "HTML",
+      "Web Performance"
+    ],
+    "created_at": "2025-04-03T21:44:52.745213"
+  },
+  {
+    "id": "q_Frontend_Developer_31",
+    "role": "Frontend Developer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "Describe a situation where you had to JavaScript under pressure.",
+    "expected_skills": [
+      "JavaScript",
+      "CSS",
+      "Vue.js"
+    ],
+    "created_at": "2025-04-03T21:44:52.745213"
+  },
+  {
+    "id": "q_Frontend_Developer_32",
+    "role": "Frontend Developer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "Give an example of when you had to JavaScript.",
+    "expected_skills": [
+      "JavaScript",
+      "Web Performance",
+      "JavaScript"
+    ],
+    "created_at": "2025-04-03T21:44:52.745213"
+  },
+  {
+    "id": "q_Frontend_Developer_33",
+    "role": "Frontend Developer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "How do you approach JavaScript in your work?",
+    "expected_skills": [
+      "JavaScript",
+      "CSS",
+      "JavaScript"
+    ],
+    "created_at": "2025-04-03T21:44:52.745213"
+  },
+  {
+    "id": "q_Frontend_Developer_34",
+    "role": "Frontend Developer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "What's your process for CSS?",
+    "expected_skills": [
+      "CSS",
+      "HTML",
+      "Vue.js"
+    ],
+    "created_at": "2025-04-03T21:44:52.745213"
+  }
+]

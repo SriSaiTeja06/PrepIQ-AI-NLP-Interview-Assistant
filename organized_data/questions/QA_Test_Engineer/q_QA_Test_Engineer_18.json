@@ -1,0 +1,13 @@
+{
+    "id": "q_QA_Test_Engineer_18",
+    "role": "QA Test Engineer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "What are the different types of Software testing?",
+    "expected_skills": [
+      "Software Testing",
+      "Functional Testing",
+      "Non-Functional Testing"
+    ],
+    "created_at": "2025-04-14T15:55:00.000000"
+}

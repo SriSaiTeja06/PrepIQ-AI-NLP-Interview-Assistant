@@ -1,0 +1,13 @@
+{
+  "id": "q_ML_Engineer_17",
+  "role": "ML Engineer",
+  "type": "technical",
+  "difficulty": "medium",
+  "content": "What is a time series?",
+  "expected_skills": [
+    "Time Series Analysis",
+    "Forecasting",
+    "Statistics"
+  ],
+  "created_at": "2025-04-14T15:55:00.000000"
+}

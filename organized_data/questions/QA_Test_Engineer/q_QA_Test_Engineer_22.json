@@ -1,0 +1,13 @@
+{
+    "id": "q_QA_Test_Engineer_22",
+    "role": "QA Test Engineer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "What's your process for CSS?",
+    "expected_skills": [
+      "CSS",
+      "Web Development",
+      "Frontend Testing"
+    ],
+    "created_at": "2025-04-14T15:55:00.000000"
+}

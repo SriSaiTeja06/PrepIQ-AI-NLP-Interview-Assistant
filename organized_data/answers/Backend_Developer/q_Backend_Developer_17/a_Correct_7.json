@@ -1,0 +1,6 @@
+{
+  "id": "a_Correct_7",
+  "question_id": "q_Backend_Developer_17",
+  "content": "Network latency can be a factor. Optimizing involves minimizing round trips, using efficient serialization formats (like Protocol Buffers over JSON), and potentially using asynchronous I/O (NIO) for high-throughput network applications.",
+  "audio_source": null
+}

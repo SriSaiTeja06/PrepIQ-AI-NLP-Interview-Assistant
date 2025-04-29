@@ -1,0 +1,12 @@
+{
+    "id": "q_QA_Test_Engineer_0",
+    "role": "QA Test Engineer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "Explain what is software testing.",
+    "expected_skills": [
+      "Software Testing",
+      "Quality Assurance"
+    ],
+    "created_at": "2025-04-14T15:55:00.000000"
+}

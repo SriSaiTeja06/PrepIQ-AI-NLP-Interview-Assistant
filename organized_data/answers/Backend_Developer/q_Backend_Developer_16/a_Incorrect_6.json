@@ -1,0 +1,6 @@
+{
+  "id": "a_Incorrect_6",
+  "question_id": "q_Backend_Developer_16",
+  "content": "The main difference between `==` and `.equals()` in Java is that `==` compares object content and `.equals()` compares memory addresses.",
+  "audio_source": null
+}

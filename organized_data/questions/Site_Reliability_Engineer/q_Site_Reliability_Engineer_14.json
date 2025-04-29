@@ -1,0 +1,13 @@
+{
+    "id": "q_Site_Reliability_Engineer_14",
+    "role": "Site Reliability Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "What is the role of automation in SRE?",
+    "expected_skills": [
+      "Automation",
+      "Scripting",
+      "Configuration Management"
+    ],
+    "created_at": "2025-04-14T15:55:00.000000"
+}

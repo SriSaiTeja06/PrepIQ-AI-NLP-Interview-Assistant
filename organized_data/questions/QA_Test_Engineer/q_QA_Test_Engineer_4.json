@@ -1,0 +1,12 @@
+{
+    "id": "q_QA_Test_Engineer_4",
+    "role": "QA Test Engineer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "What is GUI testing?",
+    "expected_skills": [
+      "GUI Testing",
+      "Software Testing"
+    ],
+    "created_at": "2025-04-14T15:55:00.000000"
+}

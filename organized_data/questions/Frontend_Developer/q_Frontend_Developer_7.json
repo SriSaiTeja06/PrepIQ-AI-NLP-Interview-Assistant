@@ -1,0 +1,13 @@
+{
+  "id": "q_Frontend_Developer_7",
+  "role": "Frontend Developer",
+  "type": "technical",
+  "difficulty": "easy",
+  "content": "What are the common challenges with React?",
+  "expected_skills": [
+    "React",
+    "JavaScript",
+    "Web Performance"
+  ],
+  "created_at": "2025-04-03T21:44:52.745213"
+}

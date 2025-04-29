@@ -1,0 +1,13 @@
+{
+  "id": "q_Cloud_Engineer_20",
+  "role": "Cloud Engineer",
+  "type": "behavioral",
+  "difficulty": "easy",
+  "content": "Describe a situation where you had to Terraform under pressure.",
+  "expected_skills": [
+    "Terraform",
+    "Azure",
+    "Terraform"
+  ],
+  "created_at": "2025-04-03T21:44:52.253153"
+}

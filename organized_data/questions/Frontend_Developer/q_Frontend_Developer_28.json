@@ -1,0 +1,13 @@
+{
+  "id": "q_Frontend_Developer_28",
+  "role": "Frontend Developer",
+  "type": "behavioral",
+  "difficulty": "easy",
+  "content": "How do you approach JavaScript in your work?",
+  "expected_skills": [
+    "JavaScript",
+    "Vue.js",
+    "Web Performance"
+  ],
+  "created_at": "2025-04-03T21:44:52.745213"
+}

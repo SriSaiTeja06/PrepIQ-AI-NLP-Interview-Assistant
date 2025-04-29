@@ -1,0 +1,13 @@
+{
+    "id": "q_QA_Test_Engineer_7",
+    "role": "QA Test Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "What exactly is manual software testing, and how does it differ from automated software testing?",
+    "expected_skills": [
+      "Manual Testing",
+      "Automated Testing",
+      "Software Testing"
+    ],
+    "created_at": "2025-04-14T15:55:00.000000"
+}

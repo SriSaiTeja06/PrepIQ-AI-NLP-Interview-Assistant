@@ -1,0 +1,13 @@
+{
+  "id": "q_Backend_Developer_0",
+  "role": "Backend Developer",
+  "type": "technical",
+  "difficulty": "hard",
+  "content": "What are the key concepts in Python?",
+  "expected_skills": [
+    "Python",
+    "Database Design",
+    "API Development"
+  ],
+  "created_at": "2025-04-03T21:44:52.982568"
+}

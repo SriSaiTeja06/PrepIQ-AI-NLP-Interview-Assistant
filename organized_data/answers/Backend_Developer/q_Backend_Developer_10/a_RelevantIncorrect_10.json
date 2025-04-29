@@ -1,0 +1,8 @@
+{
+  "id": "a_RelevantIncorrect_10",
+  "question_id": "q_Backend_Developer_10",
+  "content": "Optimizing for performance involves several general strategies. You should ensure your database queries are efficient by using proper indexing. Implementing caching layers like Redis or Memcached can significantly reduce load times for frequently accessed data. Also, using a Content Delivery Network (CDN) helps deliver static assets faster.",
+  "audio_source": null,
+  "confidence": 1.0,
+  "created_at": "2025-04-11T16:19:10Z" 
+}

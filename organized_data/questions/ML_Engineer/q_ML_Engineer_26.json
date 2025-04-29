@@ -1,0 +1,13 @@
+{
+  "id": "q_ML_Engineer_26",
+  "role": "ML Engineer",
+  "type": "behavioral",
+  "difficulty": "medium",
+  "content": "How can we animate using CSS?",
+  "expected_skills": [
+    "CSS",
+    "Animations",
+    "Frontend Development"
+  ],
+  "created_at": "2025-04-14T15:55:00.000000"
+}

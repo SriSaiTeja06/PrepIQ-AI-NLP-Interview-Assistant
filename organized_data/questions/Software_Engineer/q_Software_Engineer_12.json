@@ -1,0 +1,13 @@
+{
+  "id": "q_Software_Engineer_12",
+  "role": "Software Engineer",
+  "type": "technical",
+  "difficulty": "easy",
+  "content": "How do you optimize System Design for performance?",
+  "expected_skills": [
+    "System Design",
+    "Algorithms",
+    "C++"
+  ],
+  "created_at": "2025-04-03T21:44:51.550420"
+}

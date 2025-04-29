@@ -1,0 +1,457 @@
+[
+  {
+    "id": "q_Data_Scientist_0",
+    "role": "Data Scientist",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "How do you optimize Pandas for performance?",
+    "expected_skills": [
+      "Pandas",
+      "Statistics",
+      "Python"
+    ],
+    "created_at": "2025-04-03T21:44:50.986740"
+  },
+  {
+    "id": "q_Data_Scientist_1",
+    "role": "Data Scientist",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "How would you implement Data Analysis in a production environment?",
+    "expected_skills": [
+      "Data Analysis",
+      "Pandas",
+      "NumPy"
+    ],
+    "created_at": "2025-04-03T21:44:50.986740"
+  },
+  {
+    "id": "q_Data_Scientist_2",
+    "role": "Data Scientist",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "How would you implement Pandas in a production environment?",
+    "expected_skills": [
+      "Pandas",
+      "Python",
+      "Machine Learning"
+    ],
+    "created_at": "2025-04-03T21:44:50.986740"
+  },
+  {
+    "id": "q_Data_Scientist_3",
+    "role": "Data Scientist",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "How would you implement Statistics in a production environment?",
+    "expected_skills": [
+      "Statistics",
+      "Python",
+      "Machine Learning"
+    ],
+    "created_at": "2025-04-03T21:44:50.986740"
+  },
+  {
+    "id": "q_Data_Scientist_4",
+    "role": "Data Scientist",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "What are the common challenges with Data Analysis?",
+    "expected_skills": [
+      "Data Analysis",
+      "NumPy",
+      "Pandas"
+    ],
+    "created_at": "2025-04-03T21:44:50.986740"
+  },
+  {
+    "id": "q_Data_Scientist_5",
+    "role": "Data Scientist",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "What are the common challenges with Pandas?",
+    "expected_skills": [
+      "Pandas",
+      "Data Analysis",
+      "NumPy"
+    ],
+    "created_at": "2025-04-03T21:44:50.986740"
+  },
+  {
+    "id": "q_Data_Scientist_6",
+    "role": "Data Scientist",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "Discuss the trade-offs of using Pandas.",
+    "expected_skills": [
+      "Pandas",
+      "NumPy",
+      "Pandas"
+    ],
+    "created_at": "2025-04-03T21:44:50.986740"
+  },
+  {
+    "id": "q_Data_Scientist_7",
+    "role": "Data Scientist",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "How would you implement Python in a production environment?",
+    "expected_skills": [
+      "Python",
+      "Statistics",
+      "Python"
+    ],
+    "created_at": "2025-04-03T21:44:50.986740"
+  },
+  {
+    "id": "q_Data_Scientist_8",
+    "role": "Data Scientist",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "How would you implement Data Analysis in a production environment?",
+    "expected_skills": [
+      "Data Analysis",
+      "Statistics",
+      "Python"
+    ],
+    "created_at": "2025-04-03T21:44:50.986740"
+  },
+  {
+    "id": "q_Data_Scientist_9",
+    "role": "Data Scientist",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "Explain how Pandas works.",
+    "expected_skills": [
+      "Pandas",
+      "Pandas",
+      "Python"
+    ],
+    "created_at": "2025-04-03T21:44:50.986740"
+  },
+  {
+    "id": "q_Data_Scientist_10",
+    "role": "Data Scientist",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "What are the key concepts in Statistics?",
+    "expected_skills": [
+      "Statistics",
+      "Pandas",
+      "Python"
+    ],
+    "created_at": "2025-04-03T21:44:50.986740"
+  },
+  {
+    "id": "q_Data_Scientist_11",
+    "role": "Data Scientist",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "How do you optimize Python for performance?",
+    "expected_skills": [
+      "Python",
+      "Machine Learning",
+      "NumPy"
+    ],
+    "created_at": "2025-04-03T21:44:50.986740"
+  },
+  {
+    "id": "q_Data_Scientist_12",
+    "role": "Data Scientist",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "What are the key concepts in Python?",
+    "expected_skills": [
+      "Python",
+      "Statistics",
+      "Python"
+    ],
+    "created_at": "2025-04-03T21:44:50.986740"
+  },
+  {
+    "id": "q_Data_Scientist_13",
+    "role": "Data Scientist",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "How would you implement Data Analysis in a production environment?",
+    "expected_skills": [
+      "Data Analysis",
+      "Python",
+      "NumPy"
+    ],
+    "created_at": "2025-04-03T21:44:50.986740"
+  },
+  {
+    "id": "q_Data_Scientist_14",
+    "role": "Data Scientist",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "What are the key concepts in Statistics?",
+    "expected_skills": [
+      "Statistics",
+      "NumPy",
+      "Machine Learning"
+    ],
+    "created_at": "2025-04-03T21:44:50.986740"
+  },
+  {
+    "id": "q_Data_Scientist_15",
+    "role": "Data Scientist",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "How do you optimize NumPy for performance?",
+    "expected_skills": [
+      "NumPy",
+      "Pandas",
+      "Machine Learning"
+    ],
+    "created_at": "2025-04-03T21:44:50.986740"
+  },
+  {
+    "id": "q_Data_Scientist_16",
+    "role": "Data Scientist",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "How do you optimize Machine Learning for performance?",
+    "expected_skills": [
+      "Machine Learning",
+      "Data Analysis",
+      "Python"
+    ],
+    "created_at": "2025-04-03T21:44:50.986740"
+  },
+  {
+    "id": "q_Data_Scientist_17",
+    "role": "Data Scientist",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "What are the key concepts in Pandas?",
+    "expected_skills": [
+      "Pandas",
+      "NumPy",
+      "Machine Learning"
+    ],
+    "created_at": "2025-04-03T21:44:50.986740"
+  },
+  {
+    "id": "q_Data_Scientist_18",
+    "role": "Data Scientist",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "Discuss the trade-offs of using Machine Learning.",
+    "expected_skills": [
+      "Machine Learning",
+      "Data Analysis",
+      "NumPy"
+    ],
+    "created_at": "2025-04-03T21:44:50.986740"
+  },
+  {
+    "id": "q_Data_Scientist_19",
+    "role": "Data Scientist",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "How do you optimize Machine Learning for performance?",
+    "expected_skills": [
+      "Machine Learning",
+      "NumPy",
+      "Pandas"
+    ],
+    "created_at": "2025-04-03T21:44:50.986740"
+  },
+  {
+    "id": "q_Data_Scientist_20",
+    "role": "Data Scientist",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "How do you approach Statistics in your work?",
+    "expected_skills": [
+      "Statistics",
+      "Statistics",
+      "Python"
+    ],
+    "created_at": "2025-04-03T21:44:50.986740"
+  },
+  {
+    "id": "q_Data_Scientist_21",
+    "role": "Data Scientist",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "Tell me about a time when you had to Python.",
+    "expected_skills": [
+      "Python",
+      "NumPy",
+      "Python"
+    ],
+    "created_at": "2025-04-03T21:44:50.986740"
+  },
+  {
+    "id": "q_Data_Scientist_22",
+    "role": "Data Scientist",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Tell me about a time when you had to Pandas.",
+    "expected_skills": [
+      "Pandas",
+      "Data Analysis",
+      "Machine Learning"
+    ],
+    "created_at": "2025-04-03T21:44:50.986740"
+  },
+  {
+    "id": "q_Data_Scientist_23",
+    "role": "Data Scientist",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "How do you approach Python in your work?",
+    "expected_skills": [
+      "Python",
+      "Statistics",
+      "Data Analysis"
+    ],
+    "created_at": "2025-04-03T21:44:50.986740"
+  },
+  {
+    "id": "q_Data_Scientist_24",
+    "role": "Data Scientist",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "Tell me about a time when you had to Statistics.",
+    "expected_skills": [
+      "Statistics",
+      "Machine Learning",
+      "Python"
+    ],
+    "created_at": "2025-04-03T21:44:50.986740"
+  },
+  {
+    "id": "q_Data_Scientist_25",
+    "role": "Data Scientist",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Tell me about a time when you had to NumPy.",
+    "expected_skills": [
+      "NumPy",
+      "Pandas",
+      "Python"
+    ],
+    "created_at": "2025-04-03T21:44:50.986740"
+  },
+  {
+    "id": "q_Data_Scientist_26",
+    "role": "Data Scientist",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "What's your process for NumPy?",
+    "expected_skills": [
+      "NumPy",
+      "NumPy",
+      "Python"
+    ],
+    "created_at": "2025-04-03T21:44:50.986740"
+  },
+  {
+    "id": "q_Data_Scientist_27",
+    "role": "Data Scientist",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "Describe a situation where you had to Data Analysis under pressure.",
+    "expected_skills": [
+      "Data Analysis",
+      "Python",
+      "NumPy"
+    ],
+    "created_at": "2025-04-03T21:44:50.986740"
+  },
+  {
+    "id": "q_Data_Scientist_28",
+    "role": "Data Scientist",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "Describe a situation where you had to Statistics under pressure.",
+    "expected_skills": [
+      "Statistics",
+      "Pandas",
+      "Python"
+    ],
+    "created_at": "2025-04-03T21:44:50.986740"
+  },
+  {
+    "id": "q_Data_Scientist_29",
+    "role": "Data Scientist",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "What's your process for Data Analysis?",
+    "expected_skills": [
+      "Data Analysis",
+      "Machine Learning",
+      "Python"
+    ],
+    "created_at": "2025-04-03T21:44:50.986740"
+  },
+  {
+    "id": "q_Data_Scientist_30",
+    "role": "Data Scientist",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "How do you approach Machine Learning in your work?",
+    "expected_skills": [
+      "Machine Learning",
+      "NumPy",
+      "Data Analysis"
+    ],
+    "created_at": "2025-04-03T21:44:50.986740"
+  },
+  {
+    "id": "q_Data_Scientist_31",
+    "role": "Data Scientist",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "Tell me about a time when you had to Machine Learning.",
+    "expected_skills": [
+      "Machine Learning",
+      "Python",
+      "NumPy"
+    ],
+    "created_at": "2025-04-03T21:44:50.986740"
+  },
+  {
+    "id": "q_Data_Scientist_32",
+    "role": "Data Scientist",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Give an example of when you had to NumPy.",
+    "expected_skills": [
+      "NumPy",
+      "Statistics",
+      "Pandas"
+    ],
+    "created_at": "2025-04-03T21:44:50.986740"
+  },
+  {
+    "id": "q_Data_Scientist_33",
+    "role": "Data Scientist",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Tell me about a time when you had to NumPy.",
+    "expected_skills": [
+      "NumPy",
+      "Data Analysis",
+      "Machine Learning"
+    ],
+    "created_at": "2025-04-03T21:44:50.986740"
+  },
+  {
+    "id": "q_Data_Scientist_34",
+    "role": "Data Scientist",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "What's your process for NumPy?",
+    "expected_skills": [
+      "NumPy",
+      "Python",
+      "Machine Learning"
+    ],
+    "created_at": "2025-04-03T21:44:50.987271"
+  }
+]

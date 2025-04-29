@@ -1,0 +1,15 @@
+{
+  "id": "q_ML_Engineer_18",
+  "role": "ML Engineer",
+  "type": "technical",
+  "difficulty": "hard",
+  "content": "How is a logistic regression model evaluated? (e.g., Confusion Matrix, F1, Precision, Recall, ROC AUC)",
+  "expected_skills": [
+    "Logistic Regression",
+    "Model Evaluation",
+    "Classification Metrics",
+    "Confusion Matrix",
+    "ROC Curve"
+  ],
+  "created_at": "2025-04-14T15:55:00.000000"
+}

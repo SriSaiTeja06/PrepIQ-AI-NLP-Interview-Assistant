@@ -1,0 +1,13 @@
+{
+  "id": "q_Machine_Learning_Engineer_12",
+  "role": "Machine Learning Engineer",
+  "type": "technical",
+  "difficulty": "hard",
+  "content": "How do you optimize PyTorch for performance?",
+  "expected_skills": [
+    "PyTorch",
+    "Python",
+    "Docker"
+  ],
+  "created_at": "2025-04-03T21:44:51.315773"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "q_Data_Engineer_27",
+  "role": "Data Engineer",
+  "type": "behavioral",
+  "difficulty": "medium",
+  "content": "How do you approach SQL in your work?",
+  "expected_skills": [
+    "SQL",
+    "Apache Airflow",
+    "Python"
+  ],
+  "created_at": "2025-04-03T21:44:52.028491"
+}

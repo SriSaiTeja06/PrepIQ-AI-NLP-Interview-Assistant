@@ -1,0 +1,13 @@
+{
+  "id": "q_Full_Stack_Developer_23",
+  "role": "Full Stack Developer",
+  "type": "behavioral",
+  "difficulty": "medium",
+  "content": "Give an example of when you had to React.",
+  "expected_skills": [
+    "React",
+    "Node.js",
+    "MongoDB"
+  ],
+  "created_at": "2025-04-03T21:44:53.228746"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "q_Full_Stack_Developer_25",
+  "role": "Full Stack Developer",
+  "type": "behavioral",
+  "difficulty": "medium",
+  "content": "Describe a situation where you had to Node.js under pressure.",
+  "expected_skills": [
+    "Node.js",
+    "React",
+    "MongoDB"
+  ],
+  "created_at": "2025-04-03T21:44:53.228746"
+}

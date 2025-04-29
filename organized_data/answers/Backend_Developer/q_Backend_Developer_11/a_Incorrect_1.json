@@ -1,0 +1,6 @@
+{
+  "id": "a_Incorrect_1",
+  "question_id": "q_Backend_Developer_11",
+  "content": "To optimize Java performance, especially with strings, you should always use the '+' operator for concatenation inside loops because it's the simplest way.",
+  "audio_source": null
+}

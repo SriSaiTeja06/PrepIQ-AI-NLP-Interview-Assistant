@@ -1,0 +1,6 @@
+{
+  "id": "a_Incorrect_7",
+  "question_id": "q_Backend_Developer_17",
+  "content": "Using `HashMap` is always better than `TreeMap` for performance because hashing is faster than tree traversal.",
+  "audio_source": null
+}

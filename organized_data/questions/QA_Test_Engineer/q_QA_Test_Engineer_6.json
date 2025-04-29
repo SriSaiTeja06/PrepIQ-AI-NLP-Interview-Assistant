@@ -1,0 +1,13 @@
+{
+    "id": "q_QA_Test_Engineer_6",
+    "role": "QA Test Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "What is quality control, and how does it differ from quality assurance?",
+    "expected_skills": [
+      "Quality Control",
+      "Quality Assurance",
+      "Software Testing"
+    ],
+    "created_at": "2025-04-14T15:55:00.000000"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "q_Frontend_Developer_21",
+  "role": "Frontend Developer",
+  "type": "behavioral",
+  "difficulty": "easy",
+  "content": "Give an example of when you had to React.",
+  "expected_skills": [
+    "React",
+    "Web Performance",
+    "CSS"
+  ],
+  "created_at": "2025-04-03T21:44:52.745213"
+}

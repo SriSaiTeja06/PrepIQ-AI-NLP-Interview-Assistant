@@ -1,0 +1,13 @@
+{
+  "id": "q_Security_Engineer_11",
+  "role": "Security Engineer",
+  "type": "technical",
+  "difficulty": "easy",
+  "content": "How do you optimize Security Policies for performance?",
+  "expected_skills": [
+    "Security Policies",
+    "Python",
+    "Security"
+  ],
+  "created_at": "2025-04-03T21:44:52.500435"
+}

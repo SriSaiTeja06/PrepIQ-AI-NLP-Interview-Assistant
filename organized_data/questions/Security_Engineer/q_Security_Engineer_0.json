@@ -1,0 +1,13 @@
+{
+  "id": "q_Security_Engineer_0",
+  "role": "Security Engineer",
+  "type": "technical",
+  "difficulty": "medium",
+  "content": "How do you optimize Security for performance?",
+  "expected_skills": [
+    "Security",
+    "Security",
+    "Vulnerability Assessment"
+  ],
+  "created_at": "2025-04-03T21:44:52.500435"
+}

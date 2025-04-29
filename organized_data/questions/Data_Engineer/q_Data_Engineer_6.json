@@ -1,0 +1,13 @@
+{
+  "id": "q_Data_Engineer_6",
+  "role": "Data Engineer",
+  "type": "technical",
+  "difficulty": "medium",
+  "content": "Explain how Apache Kafka works.",
+  "expected_skills": [
+    "Apache Kafka",
+    "SQL",
+    "Apache Airflow"
+  ],
+  "created_at": "2025-04-03T21:44:52.028491"
+}

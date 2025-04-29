@@ -1,0 +1,12 @@
+{
+    "id": "q_Mobile_Developer_0",
+    "role": "Mobile Developer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "What are the different iOS App States?",
+    "expected_skills": [
+      "iOS Development",
+      "Application Lifecycle"
+    ],
+    "created_at": "2025-04-14T15:55:00.000000"
+} 

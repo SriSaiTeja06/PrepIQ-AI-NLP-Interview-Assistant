@@ -1,0 +1,13 @@
+{
+  "id": "q_Software_Engineer_26",
+  "role": "Software Engineer",
+  "type": "behavioral",
+  "difficulty": "easy",
+  "content": "Tell me about a time when you had to Python.",
+  "expected_skills": [
+    "Python",
+    "C++",
+    "Data Structures"
+  ],
+  "created_at": "2025-04-03T21:44:51.550420"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "q_Machine_Learning_Engineer_7",
+  "role": "Machine Learning Engineer",
+  "type": "technical",
+  "difficulty": "medium",
+  "content": "Explain how TensorFlow works.",
+  "expected_skills": [
+    "TensorFlow",
+    "TensorFlow",
+    "Docker"
+  ],
+  "created_at": "2025-04-03T21:44:51.315773"
+}

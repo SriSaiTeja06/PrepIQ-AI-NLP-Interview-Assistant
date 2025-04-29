@@ -1,0 +1,13 @@
+{
+  "id": "q_Machine_Learning_Engineer_17",
+  "role": "Machine Learning Engineer",
+  "type": "technical",
+  "difficulty": "medium",
+  "content": "What are the common challenges with Kubernetes?",
+  "expected_skills": [
+    "Kubernetes",
+    "CI/CD",
+    "PyTorch"
+  ],
+  "created_at": "2025-04-03T21:44:51.315773"
+}

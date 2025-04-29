@@ -1,0 +1,457 @@
+[
+  {
+    "id": "q_Backend_Developer_0",
+    "role": "Backend Developer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "What are the key concepts in Python?",
+    "expected_skills": [
+      "Python",
+      "Database Design",
+      "API Development"
+    ],
+    "created_at": "2025-04-03T21:44:52.982568"
+  },
+  {
+    "id": "q_Backend_Developer_1",
+    "role": "Backend Developer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "How do you optimize API Development for performance?",
+    "expected_skills": [
+      "API Development",
+      "Python",
+      "Java"
+    ],
+    "created_at": "2025-04-03T21:44:52.982568"
+  },
+  {
+    "id": "q_Backend_Developer_2",
+    "role": "Backend Developer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "How do you optimize Python for performance?",
+    "expected_skills": [
+      "Python",
+      "API Development",
+      "System Architecture"
+    ],
+    "created_at": "2025-04-03T21:44:52.982568"
+  },
+  {
+    "id": "q_Backend_Developer_3",
+    "role": "Backend Developer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "How would you implement System Architecture in a production environment?",
+    "expected_skills": [
+      "System Architecture",
+      "Database Design",
+      "Java"
+    ],
+    "created_at": "2025-04-03T21:44:52.982568"
+  },
+  {
+    "id": "q_Backend_Developer_4",
+    "role": "Backend Developer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "Discuss the trade-offs of using System Architecture.",
+    "expected_skills": [
+      "System Architecture",
+      "API Development",
+      "Java"
+    ],
+    "created_at": "2025-04-03T21:44:52.982568"
+  },
+  {
+    "id": "q_Backend_Developer_5",
+    "role": "Backend Developer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "How would you implement Python in a production environment?",
+    "expected_skills": [
+      "Python",
+      "Java",
+      "System Architecture"
+    ],
+    "created_at": "2025-04-03T21:44:52.982568"
+  },
+  {
+    "id": "q_Backend_Developer_6",
+    "role": "Backend Developer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "How would you implement System Architecture in a production environment?",
+    "expected_skills": [
+      "System Architecture",
+      "API Development",
+      "Database Design"
+    ],
+    "created_at": "2025-04-03T21:44:52.982568"
+  },
+  {
+    "id": "q_Backend_Developer_7",
+    "role": "Backend Developer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "What are the common challenges with Java?",
+    "expected_skills": [
+      "Java",
+      "Python",
+      "Node.js"
+    ],
+    "created_at": "2025-04-03T21:44:52.982568"
+  },
+  {
+    "id": "q_Backend_Developer_8",
+    "role": "Backend Developer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "Discuss the trade-offs of using Python.",
+    "expected_skills": [
+      "Python",
+      "Java",
+      "System Architecture"
+    ],
+    "created_at": "2025-04-03T21:44:52.982568"
+  },
+  {
+    "id": "q_Backend_Developer_9",
+    "role": "Backend Developer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "Discuss the trade-offs of using System Architecture.",
+    "expected_skills": [
+      "System Architecture",
+      "Node.js",
+      "Java"
+    ],
+    "created_at": "2025-04-03T21:44:52.982568"
+  },
+  {
+    "id": "q_Backend_Developer_10",
+    "role": "Backend Developer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "How do you optimize Java for performance?",
+    "expected_skills": [
+      "Java",
+      "Python",
+      "Java"
+    ],
+    "created_at": "2025-04-03T21:44:52.982568"
+  },
+  {
+    "id": "q_Backend_Developer_11",
+    "role": "Backend Developer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "Explain how System Architecture works.",
+    "expected_skills": [
+      "System Architecture",
+      "Java",
+      "System Architecture"
+    ],
+    "created_at": "2025-04-03T21:44:52.982568"
+  },
+  {
+    "id": "q_Backend_Developer_12",
+    "role": "Backend Developer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "Explain how Python works.",
+    "expected_skills": [
+      "Python",
+      "Python",
+      "System Architecture"
+    ],
+    "created_at": "2025-04-03T21:44:52.982568"
+  },
+  {
+    "id": "q_Backend_Developer_13",
+    "role": "Backend Developer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "What are the key concepts in Node.js?",
+    "expected_skills": [
+      "Node.js",
+      "Node.js",
+      "System Architecture"
+    ],
+    "created_at": "2025-04-03T21:44:52.987603"
+  },
+  {
+    "id": "q_Backend_Developer_14",
+    "role": "Backend Developer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "What are the common challenges with API Development?",
+    "expected_skills": [
+      "API Development",
+      "Database Design",
+      "Node.js"
+    ],
+    "created_at": "2025-04-03T21:44:52.987603"
+  },
+  {
+    "id": "q_Backend_Developer_15",
+    "role": "Backend Developer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "What are the common challenges with Node.js?",
+    "expected_skills": [
+      "Node.js",
+      "Python",
+      "Node.js"
+    ],
+    "created_at": "2025-04-03T21:44:52.987603"
+  },
+  {
+    "id": "q_Backend_Developer_16",
+    "role": "Backend Developer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "Discuss the trade-offs of using Java.",
+    "expected_skills": [
+      "Java",
+      "Python",
+      "System Architecture"
+    ],
+    "created_at": "2025-04-03T21:44:52.987603"
+  },
+  {
+    "id": "q_Backend_Developer_17",
+    "role": "Backend Developer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "How would you implement System Architecture in a production environment?",
+    "expected_skills": [
+      "System Architecture",
+      "Python",
+      "Database Design"
+    ],
+    "created_at": "2025-04-03T21:44:52.987603"
+  },
+  {
+    "id": "q_Backend_Developer_18",
+    "role": "Backend Developer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "What are the key concepts in Node.js?",
+    "expected_skills": [
+      "Node.js",
+      "System Architecture",
+      "Node.js"
+    ],
+    "created_at": "2025-04-03T21:44:52.987603"
+  },
+  {
+    "id": "q_Backend_Developer_19",
+    "role": "Backend Developer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "What are the common challenges with Python?",
+    "expected_skills": [
+      "Python",
+      "Python",
+      "API Development"
+    ],
+    "created_at": "2025-04-03T21:44:52.987603"
+  },
+  {
+    "id": "q_Backend_Developer_20",
+    "role": "Backend Developer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Give an example of when you had to Node.js.",
+    "expected_skills": [
+      "Node.js",
+      "Java",
+      "System Architecture"
+    ],
+    "created_at": "2025-04-03T21:44:52.987603"
+  },
+  {
+    "id": "q_Backend_Developer_21",
+    "role": "Backend Developer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Tell me about a time when you had to Java.",
+    "expected_skills": [
+      "Java",
+      "System Architecture",
+      "API Development"
+    ],
+    "created_at": "2025-04-03T21:44:52.987603"
+  },
+  {
+    "id": "q_Backend_Developer_22",
+    "role": "Backend Developer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "What's your process for Java?",
+    "expected_skills": [
+      "Java",
+      "Java",
+      "System Architecture"
+    ],
+    "created_at": "2025-04-03T21:44:52.987603"
+  },
+  {
+    "id": "q_Backend_Developer_23",
+    "role": "Backend Developer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "What's your process for Database Design?",
+    "expected_skills": [
+      "Database Design",
+      "System Architecture",
+      "Python"
+    ],
+    "created_at": "2025-04-03T21:44:52.987603"
+  },
+  {
+    "id": "q_Backend_Developer_24",
+    "role": "Backend Developer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "Give an example of when you had to Java.",
+    "expected_skills": [
+      "Java",
+      "API Development",
+      "Python"
+    ],
+    "created_at": "2025-04-03T21:44:52.987603"
+  },
+  {
+    "id": "q_Backend_Developer_25",
+    "role": "Backend Developer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Give an example of when you had to Database Design.",
+    "expected_skills": [
+      "Database Design",
+      "Java",
+      "System Architecture"
+    ],
+    "created_at": "2025-04-03T21:44:52.987603"
+  },
+  {
+    "id": "q_Backend_Developer_26",
+    "role": "Backend Developer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Describe a situation where you had to Node.js under pressure.",
+    "expected_skills": [
+      "Node.js",
+      "System Architecture",
+      "Node.js"
+    ],
+    "created_at": "2025-04-03T21:44:52.987603"
+  },
+  {
+    "id": "q_Backend_Developer_27",
+    "role": "Backend Developer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "Give an example of when you had to Java.",
+    "expected_skills": [
+      "Java",
+      "Java",
+      "System Architecture"
+    ],
+    "created_at": "2025-04-03T21:44:52.987603"
+  },
+  {
+    "id": "q_Backend_Developer_28",
+    "role": "Backend Developer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Give an example of when you had to Database Design.",
+    "expected_skills": [
+      "Database Design",
+      "Node.js",
+      "Python"
+    ],
+    "created_at": "2025-04-03T21:44:52.987603"
+  },
+  {
+    "id": "q_Backend_Developer_29",
+    "role": "Backend Developer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "How do you approach Java in your work?",
+    "expected_skills": [
+      "Java",
+      "Python",
+      "Database Design"
+    ],
+    "created_at": "2025-04-03T21:44:52.987603"
+  },
+  {
+    "id": "q_Backend_Developer_30",
+    "role": "Backend Developer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "Give an example of when you had to System Architecture.",
+    "expected_skills": [
+      "System Architecture",
+      "Node.js",
+      "Database Design"
+    ],
+    "created_at": "2025-04-03T21:44:52.987603"
+  },
+  {
+    "id": "q_Backend_Developer_31",
+    "role": "Backend Developer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "What's your process for API Development?",
+    "expected_skills": [
+      "API Development",
+      "Database Design",
+      "Node.js"
+    ],
+    "created_at": "2025-04-03T21:44:52.987603"
+  },
+  {
+    "id": "q_Backend_Developer_32",
+    "role": "Backend Developer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Give an example of when you had to Node.js.",
+    "expected_skills": [
+      "Node.js",
+      "API Development",
+      "Python"
+    ],
+    "created_at": "2025-04-03T21:44:52.987603"
+  },
+  {
+    "id": "q_Backend_Developer_33",
+    "role": "Backend Developer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Give an example of when you had to Python.",
+    "expected_skills": [
+      "Python",
+      "Node.js",
+      "Python"
+    ],
+    "created_at": "2025-04-03T21:44:52.987603"
+  },
+  {
+    "id": "q_Backend_Developer_34",
+    "role": "Backend Developer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "What's your process for Node.js?",
+    "expected_skills": [
+      "Node.js",
+      "Node.js",
+      "Java"
+    ],
+    "created_at": "2025-04-03T21:44:52.987603"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "id": "q_Machine_Learning_Engineer_14",
+  "role": "Machine Learning Engineer",
+  "type": "technical",
+  "difficulty": "easy",
+  "content": "How do you optimize Kubernetes for performance?",
+  "expected_skills": [
+    "Kubernetes",
+    "CI/CD",
+    "Python"
+  ],
+  "created_at": "2025-04-03T21:44:51.315773"
+}

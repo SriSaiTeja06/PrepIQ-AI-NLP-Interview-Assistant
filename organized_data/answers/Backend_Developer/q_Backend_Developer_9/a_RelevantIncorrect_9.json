@@ -1,0 +1,8 @@
+{
+  "id": "a_RelevantIncorrect_9",
+  "question_id": "q_Backend_Developer_9",
+  "content": "When considering system architecture trade-offs, a key decision is the database. Using SQL databases like PostgreSQL offers strong consistency and ACID compliance, but scaling horizontally can be challenging. NoSQL databases like MongoDB offer easier scaling and flexibility, but often provide eventual consistency which might not be suitable for all applications.",
+  "audio_source": null,
+  "confidence": 1.0,
+  "created_at": "2025-04-11T16:18:30Z" 
+}

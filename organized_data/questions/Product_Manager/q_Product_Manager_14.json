@@ -1,0 +1,13 @@
+{
+    "id": "q_Product_Manager_14",
+    "role": "Product Manager",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "What is the key to a good user interface?",
+    "expected_skills": [
+      "User Interface (UI)",
+      "User Experience (UX)",
+      "Design Principles"
+    ],
+    "created_at": "2025-04-14T15:55:00.000000"
+}

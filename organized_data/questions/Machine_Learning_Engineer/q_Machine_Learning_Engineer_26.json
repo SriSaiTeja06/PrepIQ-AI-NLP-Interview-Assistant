@@ -1,0 +1,13 @@
+{
+  "id": "q_Machine_Learning_Engineer_26",
+  "role": "Machine Learning Engineer",
+  "type": "behavioral",
+  "difficulty": "easy",
+  "content": "Give an example of when you had to TensorFlow.",
+  "expected_skills": [
+    "TensorFlow",
+    "PyTorch",
+    "Kubernetes"
+  ],
+  "created_at": "2025-04-03T21:44:51.315773"
+}

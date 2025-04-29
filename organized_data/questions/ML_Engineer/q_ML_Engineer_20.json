@@ -1,0 +1,14 @@
+{
+  "id": "q_ML_Engineer_20",
+  "role": "ML Engineer",
+  "type": "technical",
+  "difficulty": "hard",
+  "content": "Why is an encoder-decoder model used for NLP?",
+  "expected_skills": [
+    "Natural Language Processing",
+    "Encoder-Decoder Models",
+    "Sequence-to-Sequence",
+    "Deep Learning"
+  ],
+  "created_at": "2025-04-14T15:55:00.000000"
+}

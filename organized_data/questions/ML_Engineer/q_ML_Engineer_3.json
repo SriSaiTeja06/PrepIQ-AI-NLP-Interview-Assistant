@@ -1,0 +1,12 @@
+{
+  "id": "q_ML_Engineer_3",
+  "role": "ML Engineer",
+  "type": "technical",
+  "difficulty": "easy",
+  "content": "What is clustering?",
+  "expected_skills": [
+    "Unsupervised Learning",
+    "Clustering Algorithms"
+  ],
+  "created_at": "2025-04-14T15:55:00.000000"
+}

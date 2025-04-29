@@ -1,0 +1,13 @@
+{
+  "id": "q_Frontend_Developer_8",
+  "role": "Frontend Developer",
+  "type": "technical",
+  "difficulty": "medium",
+  "content": "How do you optimize Vue.js for performance?",
+  "expected_skills": [
+    "Vue.js",
+    "Web Performance",
+    "HTML"
+  ],
+  "created_at": "2025-04-03T21:44:52.745213"
+}

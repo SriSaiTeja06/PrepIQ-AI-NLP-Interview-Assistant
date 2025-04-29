@@ -1,0 +1,13 @@
+{
+  "id": "q_Cloud_Engineer_25",
+  "role": "Cloud Engineer",
+  "type": "behavioral",
+  "difficulty": "medium",
+  "content": "Tell me about a time when you had to Google Cloud.",
+  "expected_skills": [
+    "Google Cloud",
+    "Infrastructure as Code",
+    "Google Cloud"
+  ],
+  "created_at": "2025-04-03T21:44:52.253153"
+}

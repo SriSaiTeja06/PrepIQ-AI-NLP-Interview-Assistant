@@ -1,0 +1,14 @@
+Cloud Engineer - Senior Level
+
+Key Responsibilities:
+- Lead the development of AWS, Azure, Google Cloud
+- Design and implement Infrastructure as Code, Terraform, CloudFormation
+- Collaborate with team on 
+
+Required Skills:
+- Proficient in AWS
+- Proficient in Azure
+- Proficient in Google Cloud
+- Proficient in Infrastructure as Code
+- Proficient in Terraform
+- Proficient in CloudFormation

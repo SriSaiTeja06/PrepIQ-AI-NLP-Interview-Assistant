@@ -1,0 +1,13 @@
+{
+    "id": "q_QA_Test_Engineer_17",
+    "role": "QA Test Engineer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "How would you define Dynamic Memory Allocation?",
+    "expected_skills": [
+      "Dynamic Memory Allocation",
+      "Memory Management",
+      "Operating Systems"
+    ],
+    "created_at": "2025-04-14T15:55:00.000000"
+}

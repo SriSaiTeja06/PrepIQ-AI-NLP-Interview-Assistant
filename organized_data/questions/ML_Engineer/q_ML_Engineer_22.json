@@ -1,0 +1,13 @@
+{
+  "id": "q_ML_Engineer_22",
+  "role": "ML Engineer",
+  "type": "technical",
+  "difficulty": "hard",
+  "content": "What are support vectors in SVM (Support Vector Machine)?",
+  "expected_skills": [
+    "Support Vector Machines (SVM)",
+    "Classification Algorithms",
+    "Kernel Methods"
+  ],
+  "created_at": "2025-04-14T15:55:00.000000"
+}

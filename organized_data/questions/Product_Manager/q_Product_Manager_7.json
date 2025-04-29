@@ -1,0 +1,13 @@
+{
+    "id": "q_Product_Manager_7",
+    "role": "Product Manager",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "How would you improve your favorite product?",
+    "expected_skills": [
+      "Product Sense",
+      "Problem Solving",
+      "User Experience"
+    ],
+    "created_at": "2025-04-14T15:55:00.000000"
+}

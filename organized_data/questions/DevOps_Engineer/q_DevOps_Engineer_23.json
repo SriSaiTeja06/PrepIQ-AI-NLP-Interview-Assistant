@@ -1,0 +1,13 @@
+{
+  "id": "q_DevOps_Engineer_23",
+  "role": "DevOps Engineer",
+  "type": "behavioral",
+  "difficulty": "easy",
+  "content": "Tell me about a time when you had to CI/CD.",
+  "expected_skills": [
+    "CI/CD",
+    "AWS",
+    "CI/CD"
+  ],
+  "created_at": "2025-04-03T21:44:51.788039"
+}

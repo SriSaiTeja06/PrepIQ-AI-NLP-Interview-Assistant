@@ -1,0 +1,14 @@
+{
+  "id": "q_ML_Engineer_28",
+  "role": "ML Engineer",
+  "type": "technical",
+  "difficulty": "medium",
+  "content": "What is the use of app.use() in Express.js?",
+  "expected_skills": [
+    "Express.js",
+    "Backend Development",
+    "JavaScript",
+    "Middleware"
+  ],
+  "created_at": "2025-04-14T15:55:00.000000"
+}

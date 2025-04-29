@@ -1,0 +1,13 @@
+{
+  "id": "q_ML_Engineer_30",
+  "role": "ML Engineer",
+  "type": "technical",
+  "difficulty": "hard",
+  "content": "What is the Git object model?",
+  "expected_skills": [
+    "Version Control",
+    "Git",
+    "Data Structures"
+  ],
+  "created_at": "2025-04-14T15:55:00.000000"
+}

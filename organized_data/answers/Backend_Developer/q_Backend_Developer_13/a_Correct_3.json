@@ -1,0 +1,6 @@
+{
+  "id": "a_Correct_3",
+  "question_id": "q_Backend_Developer_13",
+  "content": "Concurrency is another area. Using thread pools effectively, choosing appropriate concurrent collections like ConcurrentHashMap, and understanding synchronization primitives (synchronized, locks, atomic variables) are key to building performant and scalable applications.",
+  "audio_source": null
+}

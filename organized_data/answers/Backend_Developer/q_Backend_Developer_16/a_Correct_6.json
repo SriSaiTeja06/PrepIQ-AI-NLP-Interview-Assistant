@@ -1,0 +1,6 @@
+{
+  "id": "a_Correct_6",
+  "question_id": "q_Backend_Developer_16",
+  "content": "Understanding Just-In-Time (JIT) compilation is important. Knowing how the JVM compiles bytecode to native code at runtime, and how techniques like method inlining or escape analysis work, helps in writing code that the JIT can optimize effectively.",
+  "audio_source": null
+}

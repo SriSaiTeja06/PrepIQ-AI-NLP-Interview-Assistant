@@ -1,0 +1,13 @@
+{
+    "id": "q_Mobile_Developer_17",
+    "role": "Mobile Developer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "Talk about CoreData.",
+    "expected_skills": [
+      "iOS Development",
+      "CoreData",
+      "Data Persistence"
+    ],
+    "created_at": "2025-04-14T15:55:00.000000"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "q_Frontend_Developer_13",
+  "role": "Frontend Developer",
+  "type": "technical",
+  "difficulty": "easy",
+  "content": "What are the common challenges with Vue.js?",
+  "expected_skills": [
+    "Vue.js",
+    "Vue.js",
+    "Web Performance"
+  ],
+  "created_at": "2025-04-03T21:44:52.745213"
+}

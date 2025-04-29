@@ -1,0 +1,13 @@
+{
+  "id": "q_Cloud_Engineer_13",
+  "role": "Cloud Engineer",
+  "type": "technical",
+  "difficulty": "medium",
+  "content": "How do you optimize Terraform for performance?",
+  "expected_skills": [
+    "Terraform",
+    "Google Cloud",
+    "CloudFormation"
+  ],
+  "created_at": "2025-04-03T21:44:52.253153"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "q_Data_Engineer_13",
+  "role": "Data Engineer",
+  "type": "technical",
+  "difficulty": "medium",
+  "content": "How would you implement SQL in a production environment?",
+  "expected_skills": [
+    "SQL",
+    "SQL",
+    "Python"
+  ],
+  "created_at": "2025-04-03T21:44:52.028491"
+}

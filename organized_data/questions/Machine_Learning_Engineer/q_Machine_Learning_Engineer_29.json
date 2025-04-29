@@ -1,0 +1,13 @@
+{
+  "id": "q_Machine_Learning_Engineer_29",
+  "role": "Machine Learning Engineer",
+  "type": "behavioral",
+  "difficulty": "easy",
+  "content": "Describe a situation where you had to Docker under pressure.",
+  "expected_skills": [
+    "Docker",
+    "Docker",
+    "Python"
+  ],
+  "created_at": "2025-04-03T21:44:51.315773"
+}

@@ -1,0 +1,13 @@
+{
+    "id": "q_Site_Reliability_Engineer_17",
+    "role": "Site Reliability Engineer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "Describe an experience where you implemented a significant architectural change to improve system reliability.",
+    "expected_skills": [
+      "System Design",
+      "Microservices",
+      "Kubernetes"
+    ],
+    "created_at": "2025-04-14T15:55:00.000000"
+}

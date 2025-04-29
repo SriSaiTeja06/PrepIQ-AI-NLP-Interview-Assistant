@@ -1,0 +1,1 @@
+This directory is intended for processed/structured data used for training/evaluation. Add specific data files/subdirectories here. This placeholder ensures the directory is tracked by Git.

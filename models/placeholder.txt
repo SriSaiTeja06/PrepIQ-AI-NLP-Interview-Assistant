@@ -1,0 +1,1 @@
+This directory is intended for trained model checkpoints. The actual model files are too large for GitHub and should be downloaded separately.

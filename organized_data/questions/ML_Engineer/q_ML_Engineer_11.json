@@ -1,0 +1,13 @@
+{
+  "id": "q_ML_Engineer_11",
+  "role": "ML Engineer",
+  "type": "technical",
+  "difficulty": "medium",
+  "content": "What is Selection Bias?",
+  "expected_skills": [
+    "Data Sampling",
+    "Bias",
+    "Statistics"
+  ],
+  "created_at": "2025-04-14T15:55:00.000000"
+}

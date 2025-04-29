@@ -1,0 +1,13 @@
+{
+  "id": "q_Product_Manager_0",
+  "role": "Product Manager",
+  "type": "behavioral",
+  "difficulty": "easy",
+  "content": "What do you see as a Product Manager’s main role within product development?",
+  "expected_skills": [
+    "Product Management",
+    "Product Development",
+    "Team Leadership"
+  ],
+  "created_at": "2025-04-14T15:55:00.000000"
+}

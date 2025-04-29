@@ -1,0 +1,13 @@
+{
+  "id": "q_Frontend_Developer_23",
+  "role": "Frontend Developer",
+  "type": "behavioral",
+  "difficulty": "easy",
+  "content": "Tell me about a time when you had to JavaScript.",
+  "expected_skills": [
+    "JavaScript",
+    "Vue.js",
+    "HTML"
+  ],
+  "created_at": "2025-04-03T21:44:52.745213"
+}

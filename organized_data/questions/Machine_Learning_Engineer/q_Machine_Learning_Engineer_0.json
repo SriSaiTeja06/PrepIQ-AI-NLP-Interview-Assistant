@@ -1,0 +1,13 @@
+{
+  "id": "q_Machine_Learning_Engineer_0",
+  "role": "Machine Learning Engineer",
+  "type": "technical",
+  "difficulty": "easy",
+  "content": "What are the common challenges with CI/CD?",
+  "expected_skills": [
+    "CI/CD",
+    "PyTorch",
+    "CI/CD"
+  ],
+  "created_at": "2025-04-03T21:44:51.315773"
+}

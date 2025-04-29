@@ -1,0 +1,14 @@
+Frontend Developer - Senior Level
+
+Key Responsibilities:
+- Lead the development of JavaScript, React, Vue.js
+- Design and implement CSS, HTML, Web Performance
+- Collaborate with team on 
+
+Required Skills:
+- Proficient in JavaScript
+- Proficient in React
+- Proficient in Vue.js
+- Proficient in CSS
+- Proficient in HTML
+- Proficient in Web Performance

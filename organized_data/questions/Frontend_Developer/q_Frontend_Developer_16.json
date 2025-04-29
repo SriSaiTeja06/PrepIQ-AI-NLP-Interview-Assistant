@@ -1,0 +1,13 @@
+{
+  "id": "q_Frontend_Developer_16",
+  "role": "Frontend Developer",
+  "type": "technical",
+  "difficulty": "medium",
+  "content": "Explain how Web Performance works.",
+  "expected_skills": [
+    "Web Performance",
+    "Web Performance",
+    "Vue.js"
+  ],
+  "created_at": "2025-04-03T21:44:52.745213"
+}

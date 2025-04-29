@@ -1,0 +1,13 @@
+{
+  "id": "q_Machine_Learning_Engineer_11",
+  "role": "Machine Learning Engineer",
+  "type": "technical",
+  "difficulty": "easy",
+  "content": "Explain how PyTorch works.",
+  "expected_skills": [
+    "PyTorch",
+    "CI/CD",
+    "Kubernetes"
+  ],
+  "created_at": "2025-04-03T21:44:51.315773"
+}

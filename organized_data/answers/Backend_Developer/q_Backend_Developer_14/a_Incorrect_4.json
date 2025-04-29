@@ -1,0 +1,6 @@
+{
+  "id": "a_Incorrect_4",
+  "question_id": "q_Backend_Developer_14",
+  "content": "To improve performance, you should make all methods `synchronized` to prevent any concurrency issues, even if they don't access shared data.",
+  "audio_source": null
+}

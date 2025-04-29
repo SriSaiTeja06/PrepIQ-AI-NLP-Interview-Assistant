@@ -1,0 +1,13 @@
+{
+    "id": "q_Site_Reliability_Engineer_8",
+    "role": "Site Reliability Engineer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Describe a situation where you had to handle an incident.",
+    "expected_skills": [
+      "Incident Response",
+      "Problem Solving",
+      "Teamwork"
+    ],
+    "created_at": "2025-04-14T15:55:00.000000"
+}

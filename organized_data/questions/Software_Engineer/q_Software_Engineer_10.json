@@ -1,0 +1,13 @@
+{
+  "id": "q_Software_Engineer_10",
+  "role": "Software Engineer",
+  "type": "technical",
+  "difficulty": "easy",
+  "content": "What are the common challenges with Data Structures?",
+  "expected_skills": [
+    "Data Structures",
+    "Data Structures",
+    "System Design"
+  ],
+  "created_at": "2025-04-03T21:44:51.550420"
+}

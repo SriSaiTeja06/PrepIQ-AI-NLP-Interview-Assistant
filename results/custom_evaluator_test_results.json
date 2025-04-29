@@ -1,0 +1,74 @@
+[
+  {
+    "question": "What are the key concepts in Python?",
+    "answer": "I DONT KNOW",
+    "predicted": {
+      "technical_accuracy": 0.013255937024950981,
+      "completeness": 0.009651871398091316,
+      "clarity": 0.027554070577025414,
+      "relevance": 0.013670818880200386,
+      "overall_score": 0.016033174470067024
+    },
+    "ground_truth": {
+      "technical_accuracy": 0.05,
+      "completeness": 0.05,
+      "clarity": 0.1,
+      "relevance": 0.05,
+      "overall_score": 0.06
+    }
+  },
+  {
+    "question": "What are the key concepts in Python?",
+    "answer": "My favorite color is blue.",
+    "predicted": {
+      "technical_accuracy": 0.010628847405314445,
+      "completeness": 0.008523867465555668,
+      "clarity": 0.026898140087723732,
+      "relevance": 0.011408514343202114,
+      "overall_score": 0.01436484232544899
+    },
+    "ground_truth": {
+      "technical_accuracy": 0.0,
+      "completeness": 0.0,
+      "clarity": 0.1,
+      "relevance": 0.0,
+      "overall_score": 0.025
+    }
+  },
+  {
+    "question": "What are the key concepts in Python?",
+    "answer": "Python is a versatile and beginner-friendly programming language with several key concepts that are important to understand. These include variables and data types, such as integers, strings, lists, tuples, and dictionaries. Control flow is another core concept, which involves using conditionals like if-else statements and loops such as for and while.\n\nFunctions are essential in Python, as they allow code reuse and modular programming. Python also supports object-oriented programming, with concepts like classes, objects, inheritance, and encapsulation. Exception handling using try-except blocks is important for writing robust programs.\n\nIn addition, Python includes advanced features like list comprehensions, decorators, lambda functions, and generators. It has a strong standard library and supports external packages via pip, making it widely used in fields like web development, data science, and automation.",
+    "predicted": {
+      "technical_accuracy": 0.8974495530128479,
+      "completeness": 0.8785565495491028,
+      "clarity": 0.9169886708259583,
+      "relevance": 0.8929782509803772,
+      "overall_score": 0.8964932560920715
+    },
+    "ground_truth": {
+      "technical_accuracy": 0.95,
+      "completeness": 0.9,
+      "clarity": 0.9,
+      "relevance": 0.95,
+      "overall_score": 0.925
+    }
+  },
+  {
+    "question": "What are the key concepts in Python?",
+    "answer": "",
+    "predicted": {
+      "technical_accuracy": 0.3184364438056946,
+      "completeness": 0.4820821285247803,
+      "clarity": 0.4964146316051483,
+      "relevance": 0.5150127410888672,
+      "overall_score": 0.4529864862561226
+    },
+    "ground_truth": {
+      "technical_accuracy": 0.0,
+      "completeness": 0.0,
+      "clarity": 0.0,
+      "relevance": 0.0,
+      "overall_score": 0.0
+    }
+  }
+]

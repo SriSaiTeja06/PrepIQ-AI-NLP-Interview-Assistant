@@ -1,0 +1,12 @@
+{
+    "id": "q_QA_Test_Engineer_5",
+    "role": "QA Test Engineer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "What is test closure?",
+    "expected_skills": [
+      "Test Closure",
+      "Software Testing"
+    ],
+    "created_at": "2025-04-14T15:55:00.000000"
+}

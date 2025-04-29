@@ -1,0 +1,6 @@
+{
+  "id": "a_Correct_4",
+  "question_id": "q_Backend_Developer_14",
+  "content": "Database interaction is often a bottleneck. Using connection pooling, writing efficient SQL queries, indexing appropriately, and potentially using ORM caching strategies can significantly improve performance when dealing with databases.",
+  "audio_source": null
+}

@@ -1,0 +1,13 @@
+{
+  "id": "q_Security_Engineer_18",
+  "role": "Security Engineer",
+  "type": "technical",
+  "difficulty": "medium",
+  "content": "Discuss the trade-offs of using Penetration Testing.",
+  "expected_skills": [
+    "Penetration Testing",
+    "Python",
+    "Vulnerability Assessment"
+  ],
+  "created_at": "2025-04-03T21:44:52.500435"
+}

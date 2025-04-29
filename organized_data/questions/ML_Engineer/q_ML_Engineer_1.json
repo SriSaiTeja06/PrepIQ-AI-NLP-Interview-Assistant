@@ -1,0 +1,14 @@
+{
+  "id": "q_ML_Engineer_1",
+  "role": "ML Engineer",
+  "type": "technical",
+  "difficulty": "easy",
+  "content": "What are the types of Machine learning? (Supervised, Unsupervised, Reinforcement)",
+  "expected_skills": [
+    "Machine Learning Concepts",
+    "Supervised Learning",
+    "Unsupervised Learning",
+    "Reinforcement Learning"
+  ],
+  "created_at": "2025-04-14T15:55:00.000000" 
+}

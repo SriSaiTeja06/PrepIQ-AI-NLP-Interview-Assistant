@@ -1,0 +1,13 @@
+{
+  "id": "q_DevOps_Engineer_15",
+  "role": "DevOps Engineer",
+  "type": "technical",
+  "difficulty": "easy",
+  "content": "What are the common challenges with Google Cloud?",
+  "expected_skills": [
+    "Google Cloud",
+    "Docker",
+    "AWS"
+  ],
+  "created_at": "2025-04-03T21:44:51.788039"
+}

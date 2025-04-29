@@ -1,0 +1,14 @@
+Machine Learning Engineer - Senior Level
+
+Key Responsibilities:
+- Lead the development of Python, TensorFlow, PyTorch
+- Design and implement Kubernetes, Docker, CI/CD
+- Collaborate with team on 
+
+Required Skills:
+- Proficient in Python
+- Proficient in TensorFlow
+- Proficient in PyTorch
+- Proficient in Kubernetes
+- Proficient in Docker
+- Proficient in CI/CD

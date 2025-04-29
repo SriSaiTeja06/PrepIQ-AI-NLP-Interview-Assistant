@@ -1,0 +1,13 @@
+{
+  "id": "q_Security_Engineer_30",
+  "role": "Security Engineer",
+  "type": "behavioral",
+  "difficulty": "easy",
+  "content": "What's your process for Python?",
+  "expected_skills": [
+    "Python",
+    "Security",
+    "Penetration Testing"
+  ],
+  "created_at": "2025-04-03T21:44:52.500435"
+}

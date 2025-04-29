@@ -1,0 +1,13 @@
+{
+  "id": "q_Full_Stack_Developer_8",
+  "role": "Full Stack Developer",
+  "type": "technical",
+  "difficulty": "medium",
+  "content": "Explain how Web Performance works.",
+  "expected_skills": [
+    "Web Performance",
+    "JavaScript",
+    "React"
+  ],
+  "created_at": "2025-04-03T21:44:53.225735"
+}

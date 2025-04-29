@@ -1,0 +1,14 @@
+{
+  "id": "q_ML_Engineer_19",
+  "role": "ML Engineer",
+  "type": "technical",
+  "difficulty": "hard",
+  "content": "What is multicollinearity and how will you handle it in your regression model?",
+  "expected_skills": [
+    "Regression Analysis",
+    "Multicollinearity",
+    "Feature Engineering",
+    "VIF"
+  ],
+  "created_at": "2025-04-14T15:55:00.000000"
+}

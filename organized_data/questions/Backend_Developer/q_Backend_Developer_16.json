@@ -1,0 +1,13 @@
+{
+  "id": "q_Backend_Developer_16",
+  "role": "Backend Developer",
+  "type": "technical",
+  "difficulty": "medium",
+  "content": "Discuss the trade-offs of using Java.",
+  "expected_skills": [
+    "Java",
+    "Python",
+    "System Architecture"
+  ],
+  "created_at": "2025-04-03T21:44:52.987603"
+}

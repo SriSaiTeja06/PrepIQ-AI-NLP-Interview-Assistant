@@ -1,0 +1,13 @@
+{
+  "id": "q_Cloud_Engineer_6",
+  "role": "Cloud Engineer",
+  "type": "technical",
+  "difficulty": "hard",
+  "content": "How would you implement Google Cloud in a production environment?",
+  "expected_skills": [
+    "Google Cloud",
+    "Terraform",
+    "Infrastructure as Code"
+  ],
+  "created_at": "2025-04-03T21:44:52.253153"
+}

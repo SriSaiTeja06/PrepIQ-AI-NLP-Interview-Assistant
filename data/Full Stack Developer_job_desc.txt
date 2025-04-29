@@ -1,0 +1,14 @@
+Full Stack Developer - Senior Level
+
+Key Responsibilities:
+- Lead the development of JavaScript, React, Node.js
+- Design and implement MongoDB, System Design, Web Performance
+- Collaborate with team on 
+
+Required Skills:
+- Proficient in JavaScript
+- Proficient in React
+- Proficient in Node.js
+- Proficient in MongoDB
+- Proficient in System Design
+- Proficient in Web Performance

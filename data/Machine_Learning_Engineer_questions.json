@@ -1,0 +1,457 @@
+[
+  {
+    "id": "q_Machine_Learning_Engineer_0",
+    "role": "Machine Learning Engineer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "What are the common challenges with CI/CD?",
+    "expected_skills": [
+      "CI/CD",
+      "PyTorch",
+      "CI/CD"
+    ],
+    "created_at": "2025-04-03T21:44:51.315773"
+  },
+  {
+    "id": "q_Machine_Learning_Engineer_1",
+    "role": "Machine Learning Engineer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "How do you optimize CI/CD for performance?",
+    "expected_skills": [
+      "CI/CD",
+      "CI/CD",
+      "PyTorch"
+    ],
+    "created_at": "2025-04-03T21:44:51.315773"
+  },
+  {
+    "id": "q_Machine_Learning_Engineer_2",
+    "role": "Machine Learning Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "What are the common challenges with Docker?",
+    "expected_skills": [
+      "Docker",
+      "Python",
+      "TensorFlow"
+    ],
+    "created_at": "2025-04-03T21:44:51.315773"
+  },
+  {
+    "id": "q_Machine_Learning_Engineer_3",
+    "role": "Machine Learning Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "Explain how Python works.",
+    "expected_skills": [
+      "Python",
+      "CI/CD",
+      "TensorFlow"
+    ],
+    "created_at": "2025-04-03T21:44:51.315773"
+  },
+  {
+    "id": "q_Machine_Learning_Engineer_4",
+    "role": "Machine Learning Engineer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "Explain how Python works.",
+    "expected_skills": [
+      "Python",
+      "TensorFlow",
+      "Kubernetes"
+    ],
+    "created_at": "2025-04-03T21:44:51.315773"
+  },
+  {
+    "id": "q_Machine_Learning_Engineer_5",
+    "role": "Machine Learning Engineer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "How do you optimize Docker for performance?",
+    "expected_skills": [
+      "Docker",
+      "TensorFlow",
+      "Python"
+    ],
+    "created_at": "2025-04-03T21:44:51.315773"
+  },
+  {
+    "id": "q_Machine_Learning_Engineer_6",
+    "role": "Machine Learning Engineer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "How would you implement CI/CD in a production environment?",
+    "expected_skills": [
+      "CI/CD",
+      "Docker",
+      "PyTorch"
+    ],
+    "created_at": "2025-04-03T21:44:51.315773"
+  },
+  {
+    "id": "q_Machine_Learning_Engineer_7",
+    "role": "Machine Learning Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "Explain how TensorFlow works.",
+    "expected_skills": [
+      "TensorFlow",
+      "TensorFlow",
+      "Docker"
+    ],
+    "created_at": "2025-04-03T21:44:51.315773"
+  },
+  {
+    "id": "q_Machine_Learning_Engineer_8",
+    "role": "Machine Learning Engineer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "How do you optimize Python for performance?",
+    "expected_skills": [
+      "Python",
+      "PyTorch",
+      "CI/CD"
+    ],
+    "created_at": "2025-04-03T21:44:51.315773"
+  },
+  {
+    "id": "q_Machine_Learning_Engineer_9",
+    "role": "Machine Learning Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "How do you optimize Docker for performance?",
+    "expected_skills": [
+      "Docker",
+      "PyTorch",
+      "Kubernetes"
+    ],
+    "created_at": "2025-04-03T21:44:51.315773"
+  },
+  {
+    "id": "q_Machine_Learning_Engineer_10",
+    "role": "Machine Learning Engineer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "How would you implement PyTorch in a production environment?",
+    "expected_skills": [
+      "PyTorch",
+      "Docker",
+      "TensorFlow"
+    ],
+    "created_at": "2025-04-03T21:44:51.315773"
+  },
+  {
+    "id": "q_Machine_Learning_Engineer_11",
+    "role": "Machine Learning Engineer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "Explain how PyTorch works.",
+    "expected_skills": [
+      "PyTorch",
+      "CI/CD",
+      "Kubernetes"
+    ],
+    "created_at": "2025-04-03T21:44:51.315773"
+  },
+  {
+    "id": "q_Machine_Learning_Engineer_12",
+    "role": "Machine Learning Engineer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "How do you optimize PyTorch for performance?",
+    "expected_skills": [
+      "PyTorch",
+      "Python",
+      "Docker"
+    ],
+    "created_at": "2025-04-03T21:44:51.315773"
+  },
+  {
+    "id": "q_Machine_Learning_Engineer_13",
+    "role": "Machine Learning Engineer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "Explain how PyTorch works.",
+    "expected_skills": [
+      "PyTorch",
+      "Docker",
+      "CI/CD"
+    ],
+    "created_at": "2025-04-03T21:44:51.315773"
+  },
+  {
+    "id": "q_Machine_Learning_Engineer_14",
+    "role": "Machine Learning Engineer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "How do you optimize Kubernetes for performance?",
+    "expected_skills": [
+      "Kubernetes",
+      "CI/CD",
+      "Python"
+    ],
+    "created_at": "2025-04-03T21:44:51.315773"
+  },
+  {
+    "id": "q_Machine_Learning_Engineer_15",
+    "role": "Machine Learning Engineer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "How do you optimize CI/CD for performance?",
+    "expected_skills": [
+      "CI/CD",
+      "Python",
+      "TensorFlow"
+    ],
+    "created_at": "2025-04-03T21:44:51.315773"
+  },
+  {
+    "id": "q_Machine_Learning_Engineer_16",
+    "role": "Machine Learning Engineer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "How do you optimize TensorFlow for performance?",
+    "expected_skills": [
+      "TensorFlow",
+      "Docker",
+      "TensorFlow"
+    ],
+    "created_at": "2025-04-03T21:44:51.315773"
+  },
+  {
+    "id": "q_Machine_Learning_Engineer_17",
+    "role": "Machine Learning Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "What are the common challenges with Kubernetes?",
+    "expected_skills": [
+      "Kubernetes",
+      "CI/CD",
+      "PyTorch"
+    ],
+    "created_at": "2025-04-03T21:44:51.315773"
+  },
+  {
+    "id": "q_Machine_Learning_Engineer_18",
+    "role": "Machine Learning Engineer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "What are the common challenges with CI/CD?",
+    "expected_skills": [
+      "CI/CD",
+      "Kubernetes",
+      "Python"
+    ],
+    "created_at": "2025-04-03T21:44:51.315773"
+  },
+  {
+    "id": "q_Machine_Learning_Engineer_19",
+    "role": "Machine Learning Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "Explain how Kubernetes works.",
+    "expected_skills": [
+      "Kubernetes",
+      "Python",
+      "TensorFlow"
+    ],
+    "created_at": "2025-04-03T21:44:51.315773"
+  },
+  {
+    "id": "q_Machine_Learning_Engineer_20",
+    "role": "Machine Learning Engineer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Tell me about a time when you had to CI/CD.",
+    "expected_skills": [
+      "CI/CD",
+      "Python",
+      "Docker"
+    ],
+    "created_at": "2025-04-03T21:44:51.315773"
+  },
+  {
+    "id": "q_Machine_Learning_Engineer_21",
+    "role": "Machine Learning Engineer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "How do you approach PyTorch in your work?",
+    "expected_skills": [
+      "PyTorch",
+      "Python",
+      "TensorFlow"
+    ],
+    "created_at": "2025-04-03T21:44:51.315773"
+  },
+  {
+    "id": "q_Machine_Learning_Engineer_22",
+    "role": "Machine Learning Engineer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Describe a situation where you had to Kubernetes under pressure.",
+    "expected_skills": [
+      "Kubernetes",
+      "Python",
+      "PyTorch"
+    ],
+    "created_at": "2025-04-03T21:44:51.315773"
+  },
+  {
+    "id": "q_Machine_Learning_Engineer_23",
+    "role": "Machine Learning Engineer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Tell me about a time when you had to Python.",
+    "expected_skills": [
+      "Python",
+      "CI/CD",
+      "PyTorch"
+    ],
+    "created_at": "2025-04-03T21:44:51.315773"
+  },
+  {
+    "id": "q_Machine_Learning_Engineer_24",
+    "role": "Machine Learning Engineer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Describe a situation where you had to Kubernetes under pressure.",
+    "expected_skills": [
+      "Kubernetes",
+      "Kubernetes",
+      "Docker"
+    ],
+    "created_at": "2025-04-03T21:44:51.315773"
+  },
+  {
+    "id": "q_Machine_Learning_Engineer_25",
+    "role": "Machine Learning Engineer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Tell me about a time when you had to Docker.",
+    "expected_skills": [
+      "Docker",
+      "Python",
+      "PyTorch"
+    ],
+    "created_at": "2025-04-03T21:44:51.315773"
+  },
+  {
+    "id": "q_Machine_Learning_Engineer_26",
+    "role": "Machine Learning Engineer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "Give an example of when you had to TensorFlow.",
+    "expected_skills": [
+      "TensorFlow",
+      "PyTorch",
+      "Kubernetes"
+    ],
+    "created_at": "2025-04-03T21:44:51.315773"
+  },
+  {
+    "id": "q_Machine_Learning_Engineer_27",
+    "role": "Machine Learning Engineer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Give an example of when you had to CI/CD.",
+    "expected_skills": [
+      "CI/CD",
+      "Kubernetes",
+      "Docker"
+    ],
+    "created_at": "2025-04-03T21:44:51.315773"
+  },
+  {
+    "id": "q_Machine_Learning_Engineer_28",
+    "role": "Machine Learning Engineer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "How do you approach Kubernetes in your work?",
+    "expected_skills": [
+      "Kubernetes",
+      "Kubernetes",
+      "CI/CD"
+    ],
+    "created_at": "2025-04-03T21:44:51.315773"
+  },
+  {
+    "id": "q_Machine_Learning_Engineer_29",
+    "role": "Machine Learning Engineer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "Describe a situation where you had to Docker under pressure.",
+    "expected_skills": [
+      "Docker",
+      "Docker",
+      "Python"
+    ],
+    "created_at": "2025-04-03T21:44:51.315773"
+  },
+  {
+    "id": "q_Machine_Learning_Engineer_30",
+    "role": "Machine Learning Engineer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Give an example of when you had to Docker.",
+    "expected_skills": [
+      "Docker",
+      "TensorFlow",
+      "Kubernetes"
+    ],
+    "created_at": "2025-04-03T21:44:51.315773"
+  },
+  {
+    "id": "q_Machine_Learning_Engineer_31",
+    "role": "Machine Learning Engineer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "What's your process for Python?",
+    "expected_skills": [
+      "Python",
+      "TensorFlow",
+      "PyTorch"
+    ],
+    "created_at": "2025-04-03T21:44:51.315773"
+  },
+  {
+    "id": "q_Machine_Learning_Engineer_32",
+    "role": "Machine Learning Engineer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "Tell me about a time when you had to TensorFlow.",
+    "expected_skills": [
+      "TensorFlow",
+      "Kubernetes",
+      "TensorFlow"
+    ],
+    "created_at": "2025-04-03T21:44:51.315773"
+  },
+  {
+    "id": "q_Machine_Learning_Engineer_33",
+    "role": "Machine Learning Engineer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "Give an example of when you had to Docker.",
+    "expected_skills": [
+      "Docker",
+      "Docker",
+      "CI/CD"
+    ],
+    "created_at": "2025-04-03T21:44:51.315773"
+  },
+  {
+    "id": "q_Machine_Learning_Engineer_34",
+    "role": "Machine Learning Engineer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Describe a situation where you had to TensorFlow under pressure.",
+    "expected_skills": [
+      "TensorFlow",
+      "PyTorch",
+      "TensorFlow"
+    ],
+    "created_at": "2025-04-03T21:44:51.315773"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "id": "q_DevOps_Engineer_22",
+  "role": "DevOps Engineer",
+  "type": "behavioral",
+  "difficulty": "medium",
+  "content": "Describe a situation where you had to Kubernetes under pressure.",
+  "expected_skills": [
+    "Kubernetes",
+    "Google Cloud",
+    "AWS"
+  ],
+  "created_at": "2025-04-03T21:44:51.788039"
+}

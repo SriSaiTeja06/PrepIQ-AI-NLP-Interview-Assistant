@@ -1,0 +1,13 @@
+{
+    "id": "q_Product_Manager_22",
+    "role": "Product Manager",
+    "type": "behavioral",
+    "difficulty": "hard",
+    "content": "Suggest a new feature for Amazon. What metrics would you use to measure its success?",
+    "expected_skills": [
+      "Product Vision",
+      "Metrics",
+      "Data Analysis"
+    ],
+    "created_at": "2025-04-14T15:55:00.000000"
+}

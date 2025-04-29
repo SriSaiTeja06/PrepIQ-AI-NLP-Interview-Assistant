@@ -1,0 +1,13 @@
+{
+  "id": "q_Software_Engineer_24",
+  "role": "Software Engineer",
+  "type": "behavioral",
+  "difficulty": "easy",
+  "content": "How do you approach Java in your work?",
+  "expected_skills": [
+    "Java",
+    "Python",
+    "C++"
+  ],
+  "created_at": "2025-04-03T21:44:51.550420"
+}

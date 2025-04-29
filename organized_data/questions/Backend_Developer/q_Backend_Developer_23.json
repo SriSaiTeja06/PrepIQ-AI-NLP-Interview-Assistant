@@ -1,0 +1,13 @@
+{
+  "id": "q_Backend_Developer_23",
+  "role": "Backend Developer",
+  "type": "behavioral",
+  "difficulty": "medium",
+  "content": "What's your process for Database Design?",
+  "expected_skills": [
+    "Database Design",
+    "System Architecture",
+    "Python"
+  ],
+  "created_at": "2025-04-03T21:44:52.987603"
+}

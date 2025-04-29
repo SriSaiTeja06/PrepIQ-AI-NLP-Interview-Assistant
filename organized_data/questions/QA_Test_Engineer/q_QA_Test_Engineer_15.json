@@ -1,0 +1,13 @@
+{
+    "id": "q_QA_Test_Engineer_15",
+    "role": "QA Test Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "Explain the difference between alpha testing and beta testing.",
+    "expected_skills": [
+      "Alpha Testing",
+      "Beta Testing",
+      "Software Testing"
+    ],
+    "created_at": "2025-04-14T15:55:00.000000"
+}

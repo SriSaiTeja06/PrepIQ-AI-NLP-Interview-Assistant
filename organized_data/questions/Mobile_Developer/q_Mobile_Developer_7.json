@@ -1,0 +1,13 @@
+{
+    "id": "q_Mobile_Developer_7",
+    "role": "Mobile Developer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "What is MVC?",
+    "expected_skills": [
+      "Software Architecture",
+      "MVC",
+      "Design Patterns"
+    ],
+    "created_at": "2025-04-14T15:55:00.000000"
+}

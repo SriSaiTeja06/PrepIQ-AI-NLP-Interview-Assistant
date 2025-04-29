@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI-NLP Interview Assistant</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .container {
+            max-width: 1200px;
+            margin-top: 20px;
+        }
+        .card {
+            margin-bottom: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .role-selector {
+            max-height: 200px;
+            overflow-y: auto;
+        }
+        .question-list {
+            max-height: 300px;
+            overflow-y: auto;
+        }
+        .answer-box {
+            min-height: 200px;
+            resize: vertical;
+        }
+        .feedback-box {
+            min-height: 200px;
+            resize: vertical;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="mb-4">AI-NLP Interview Assistant</h1>
+        
+        <div class="row">
+            <!-- Role Selection -->
+            <div class="col-md-3">
+                <div class="card">
+                    <div class="card-header">
+                        <h5 class="mb-0">Select Role</h5>
+                    </div>
+                    <div class="card-body role-selector">
+                        <select id="roleSelect" class="form-select" onchange="loadQuestions()">
+                            <option value="">Select a role...</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Questions -->
+            <div class="col-md-9">
+                <div class="card">
+                    <div class="card-header">
+                        <h5 class="mb-0">Questions</h5>
+                    </div>
+                    <div class="card-body question-list">
+                        <div id="questionsList"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Interview Interface -->
+        <div class="row mt-4">
+            <div class="col-md-12">
+                <div class="card">
+                    <div class="card-header">
+                        <h5 class="mb-0">Interview Interface</h5>
+                    </div>
+                    <div class="card-body">
+                        <div class="row">
+                            <!-- Question Display -->
+                            <div class="col-md-6">
+                                <div class="card">
+                                    <div class="card-header">
+                                        <h6 class="mb-0">Current Question</h6>
+                                    </div>
+                                    <div class="card-body">
+                                        <div id="currentQuestion"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <!-- Answer Input -->
+                            <div class="col-md-6">
+                                <div class="card">
+                                    <div class="card-header">
+                                        <h6 class="mb-0">Your Answer</h6>
+                                    </div>
+                                    <div class="card-body">
+                                        <textarea id="answerInput" class="form-control answer-box" rows="5"></textarea>
+                                        <button class="btn btn-primary mt-2" onclick="generateAnswer()">Generate Answer</button>
+                                        <button class="btn btn-success mt-2" onclick="evaluateAnswer()">Evaluate Answer</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Feedback Display -->
+                        <div class="row mt-4">
+                            <div class="col-md-12">
+                                <div class="card">
+                                    <div class="card-header">
+                                        <h6 class="mb-0">Feedback</h6>
+                                    </div>
+                                    <div class="card-body">
+                                        <div id="feedbackDisplay"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        // Load roles
+        async function loadRoles() {
+            try {
+                const response = await fetch('/roles');
+                const roles = await response.json();
+                const roleSelect = document.getElementById('roleSelect');
+                roles.forEach(role => {
+                    const option = document.createElement('option');
+                    option.value = role;
+                    option.textContent = role;
+                    roleSelect.appendChild(option);
+                });
+            } catch (error) {
+                console.error('Error loading roles:', error);
+            }
+        }
+
+        // Load questions for selected role
+        async function loadQuestions() {
+            const role = document.getElementById('roleSelect').value;
+            if (!role) return;
+
+            try {
+                const response = await fetch(`/questions/${role}`);
+                const questions = await response.json();
+                const questionsList = document.getElementById('questionsList');
+                questionsList.innerHTML = '';
+
+                questions.forEach(question => {
+                    const questionDiv = document.createElement('div');
+                    questionDiv.className = 'card mb-2';
+                    questionDiv.innerHTML = `
+                        <div class="card-body">
+                            <h6 class="card-title">${question.content}</h6>
+                            <p class="card-text">
+                                <small class="text-muted">
+                                    Type: ${question.type}, Difficulty: ${question.difficulty}
+                                </small>
+                            </p>
+                            <button class="btn btn-primary btn-sm" onclick="selectQuestion('${question.id}')">
+                                Select Question
+                            </button>
+                        </div>
+                    `;
+                    questionsList.appendChild(questionDiv);
+                });
+            } catch (error) {
+                console.error('Error loading questions:', error);
+            }
+        }
+
+        // Select a question
+        async function selectQuestion(questionId) {
+            try {
+                const response = await fetch(`/questions/${questionId}`);
+                const question = await response.json();
+                document.getElementById('currentQuestion').innerHTML = `
+                    <h6>${question.content}</h6>
+                    <p class="text-muted">
+                        Type: ${question.type}, Difficulty: ${question.difficulty}
+                    </p>
+                `;
+            } catch (error) {
+                console.error('Error selecting question:', error);
+            }
+        }
+
+        // Generate answer
+        async function generateAnswer() {
+            const question = document.getElementById('currentQuestion').textContent;
+            const answerInput = document.getElementById('answerInput');
+            
+            try {
+                const response = await fetch('/generate/answer', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        question: question
+                    })
+                });
+                const answer = await response.json();
+                answerInput.value = answer.content;
+            } catch (error) {
+                console.error('Error generating answer:', error);
+            }
+        }
+
+        // Evaluate answer
+        async function evaluateAnswer() {
+            const question = document.getElementById('currentQuestion').textContent;
+            const answer = document.getElementById('answerInput').value;
+            
+            try {
+                const response = await fetch('/evaluate/answer', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        question: question,
+                        answer: answer
+                    })
+                });
+                const metrics = await response.json();
+                displayMetrics(metrics);
+            } catch (error) {
+                console.error('Error evaluating answer:', error);
+            }
+        }
+
+        // Display evaluation metrics
+        function displayMetrics(metrics) {
+            const feedbackDisplay = document.getElementById('feedbackDisplay');
+            feedbackDisplay.innerHTML = `
+                <div class="row">
+                    <div class="col-md-3">
+                        <div class="card">
+                            <div class="card-body">
+                                <h6 class="card-title">Technical Accuracy</h6>
+                                <div class="progress">
+                                    <div class="progress-bar" role="progressbar" 
+                                         style="width: ${metrics.technical_accuracy * 100}%">
+                                        ${metrics.technical_accuracy * 100}%
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="card">
+                            <div class="card-body">
+                                <h6 class="card-title">Completeness</h6>
+                                <div class="progress">
+                                    <div class="progress-bar" role="progressbar" 
+                                         style="width: ${metrics.completeness * 100}%">
+                                        ${metrics.completeness * 100}%
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="card">
+                            <div class="card-body">
+                                <h6 class="card-title">Clarity</h6>
+                                <div class="progress">
+                                    <div class="progress-bar" role="progressbar" 
+                                         style="width: ${metrics.clarity * 100}%">
+                                        ${metrics.clarity * 100}%
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="card">
+                            <div class="card-body">
+                                <h6 class="card-title">Relevance</h6>
+                                <div class="progress">
+                                    <div class="progress-bar" role="progressbar" 
+                                         style="width: ${metrics.relevance * 100}%">
+                                        ${metrics.relevance * 100}%
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            `;
+        }
+
+        // Initialize
+        document.addEventListener('DOMContentLoaded', loadRoles);
+    </script>
+</body>
+</html>

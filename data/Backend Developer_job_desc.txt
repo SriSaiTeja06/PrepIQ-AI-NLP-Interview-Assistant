@@ -1,0 +1,14 @@
+Backend Developer - Senior Level
+
+Key Responsibilities:
+- Lead the development of Python, Java, Node.js
+- Design and implement Database Design, API Development, System Architecture
+- Collaborate with team on 
+
+Required Skills:
+- Proficient in Python
+- Proficient in Java
+- Proficient in Node.js
+- Proficient in Database Design
+- Proficient in API Development
+- Proficient in System Architecture

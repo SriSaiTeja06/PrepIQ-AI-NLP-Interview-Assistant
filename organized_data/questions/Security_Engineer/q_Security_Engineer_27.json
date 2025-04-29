@@ -1,0 +1,13 @@
+{
+  "id": "q_Security_Engineer_27",
+  "role": "Security Engineer",
+  "type": "behavioral",
+  "difficulty": "medium",
+  "content": "Describe a situation where you had to Python under pressure.",
+  "expected_skills": [
+    "Python",
+    "Penetration Testing",
+    "Python"
+  ],
+  "created_at": "2025-04-03T21:44:52.500435"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "q_Security_Engineer_9",
+  "role": "Security Engineer",
+  "type": "technical",
+  "difficulty": "hard",
+  "content": "Explain how Penetration Testing works.",
+  "expected_skills": [
+    "Penetration Testing",
+    "Penetration Testing",
+    "Security"
+  ],
+  "created_at": "2025-04-03T21:44:52.500435"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "q_Software_Engineer_22",
+  "role": "Software Engineer",
+  "type": "behavioral",
+  "difficulty": "easy",
+  "content": "How do you approach C++ in your work?",
+  "expected_skills": [
+    "C++",
+    "Data Structures",
+    "System Design"
+  ],
+  "created_at": "2025-04-03T21:44:51.550420"
+}

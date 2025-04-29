@@ -1,0 +1,13 @@
+Security Engineer - Senior Level
+
+Key Responsibilities:
+- Lead the development of Python, Security, Penetration Testing
+- Design and implement Vulnerability Assessment, Security Policies
+- Collaborate with team on 
+
+Required Skills:
+- Proficient in Python
+- Proficient in Security
+- Proficient in Penetration Testing
+- Proficient in Vulnerability Assessment
+- Proficient in Security Policies

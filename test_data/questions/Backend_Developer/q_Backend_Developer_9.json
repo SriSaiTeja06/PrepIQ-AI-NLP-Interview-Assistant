@@ -1,0 +1,13 @@
+{
+  "id": "q_Backend_Developer_9",
+  "role": "Backend Developer",
+  "type": "technical",
+  "difficulty": "medium",
+  "content": "Discuss the trade-offs of using System Architecture.",
+  "expected_skills": [
+    "System Architecture",
+    "Node.js",
+    "Java"
+  ],
+  "created_at": "2025-04-03T21:44:52.982568"
+}

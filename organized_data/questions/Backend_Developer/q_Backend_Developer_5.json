@@ -1,0 +1,13 @@
+{
+  "id": "q_Backend_Developer_5",
+  "role": "Backend Developer",
+  "type": "technical",
+  "difficulty": "hard",
+  "content": "How would you implement Python in a production environment?",
+  "expected_skills": [
+    "Python",
+    "Java",
+    "System Architecture"
+  ],
+  "created_at": "2025-04-03T21:44:52.982568"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "q_Security_Engineer_20",
+  "role": "Security Engineer",
+  "type": "behavioral",
+  "difficulty": "easy",
+  "content": "How do you approach Penetration Testing in your work?",
+  "expected_skills": [
+    "Penetration Testing",
+    "Security",
+    "Python"
+  ],
+  "created_at": "2025-04-03T21:44:52.500435"
+}

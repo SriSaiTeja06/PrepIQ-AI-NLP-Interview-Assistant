@@ -1,0 +1,13 @@
+{
+  "id": "q_Data_Scientist_25",
+  "role": "Data Scientist",
+  "type": "behavioral",
+  "difficulty": "medium",
+  "content": "Tell me about a time when you had to NumPy.",
+  "expected_skills": [
+    "NumPy",
+    "Pandas",
+    "Python"
+  ],
+  "created_at": "2025-04-03T21:44:50.986740"
+}

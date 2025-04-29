@@ -1,0 +1,13 @@
+{
+  "id": "q_Backend_Developer_15",
+  "role": "Backend Developer",
+  "type": "technical",
+  "difficulty": "hard",
+  "content": "What are the common challenges with Node.js?",
+  "expected_skills": [
+    "Node.js",
+    "Python",
+    "Node.js"
+  ],
+  "created_at": "2025-04-03T21:44:52.987603"
+}

@@ -1,0 +1,457 @@
+[
+  {
+    "id": "q_Full_Stack_Developer_0",
+    "role": "Full Stack Developer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "How do you optimize React for performance?",
+    "expected_skills": [
+      "React",
+      "System Design",
+      "React"
+    ],
+    "created_at": "2025-04-03T21:44:53.225735"
+  },
+  {
+    "id": "q_Full_Stack_Developer_1",
+    "role": "Full Stack Developer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "What are the common challenges with JavaScript?",
+    "expected_skills": [
+      "JavaScript",
+      "Node.js",
+      "MongoDB"
+    ],
+    "created_at": "2025-04-03T21:44:53.225735"
+  },
+  {
+    "id": "q_Full_Stack_Developer_2",
+    "role": "Full Stack Developer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "Explain how MongoDB works.",
+    "expected_skills": [
+      "MongoDB",
+      "JavaScript",
+      "Node.js"
+    ],
+    "created_at": "2025-04-03T21:44:53.225735"
+  },
+  {
+    "id": "q_Full_Stack_Developer_3",
+    "role": "Full Stack Developer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "Discuss the trade-offs of using MongoDB.",
+    "expected_skills": [
+      "MongoDB",
+      "Node.js",
+      "Web Performance"
+    ],
+    "created_at": "2025-04-03T21:44:53.225735"
+  },
+  {
+    "id": "q_Full_Stack_Developer_4",
+    "role": "Full Stack Developer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "Discuss the trade-offs of using React.",
+    "expected_skills": [
+      "React",
+      "Node.js",
+      "JavaScript"
+    ],
+    "created_at": "2025-04-03T21:44:53.225735"
+  },
+  {
+    "id": "q_Full_Stack_Developer_5",
+    "role": "Full Stack Developer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "How would you implement MongoDB in a production environment?",
+    "expected_skills": [
+      "MongoDB",
+      "React",
+      "Node.js"
+    ],
+    "created_at": "2025-04-03T21:44:53.225735"
+  },
+  {
+    "id": "q_Full_Stack_Developer_6",
+    "role": "Full Stack Developer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "What are the key concepts in Web Performance?",
+    "expected_skills": [
+      "Web Performance",
+      "JavaScript",
+      "System Design"
+    ],
+    "created_at": "2025-04-03T21:44:53.225735"
+  },
+  {
+    "id": "q_Full_Stack_Developer_7",
+    "role": "Full Stack Developer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "What are the key concepts in React?",
+    "expected_skills": [
+      "React",
+      "Web Performance",
+      "Node.js"
+    ],
+    "created_at": "2025-04-03T21:44:53.225735"
+  },
+  {
+    "id": "q_Full_Stack_Developer_8",
+    "role": "Full Stack Developer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "Explain how Web Performance works.",
+    "expected_skills": [
+      "Web Performance",
+      "JavaScript",
+      "React"
+    ],
+    "created_at": "2025-04-03T21:44:53.225735"
+  },
+  {
+    "id": "q_Full_Stack_Developer_9",
+    "role": "Full Stack Developer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "Discuss the trade-offs of using React.",
+    "expected_skills": [
+      "React",
+      "MongoDB",
+      "Web Performance"
+    ],
+    "created_at": "2025-04-03T21:44:53.225735"
+  },
+  {
+    "id": "q_Full_Stack_Developer_10",
+    "role": "Full Stack Developer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "How do you optimize Web Performance for performance?",
+    "expected_skills": [
+      "Web Performance",
+      "React",
+      "Web Performance"
+    ],
+    "created_at": "2025-04-03T21:44:53.225735"
+  },
+  {
+    "id": "q_Full_Stack_Developer_11",
+    "role": "Full Stack Developer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "Discuss the trade-offs of using Web Performance.",
+    "expected_skills": [
+      "Web Performance",
+      "Node.js",
+      "MongoDB"
+    ],
+    "created_at": "2025-04-03T21:44:53.225735"
+  },
+  {
+    "id": "q_Full_Stack_Developer_12",
+    "role": "Full Stack Developer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "What are the common challenges with React?",
+    "expected_skills": [
+      "React",
+      "React",
+      "JavaScript"
+    ],
+    "created_at": "2025-04-03T21:44:53.225735"
+  },
+  {
+    "id": "q_Full_Stack_Developer_13",
+    "role": "Full Stack Developer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "How would you implement JavaScript in a production environment?",
+    "expected_skills": [
+      "JavaScript",
+      "Node.js",
+      "System Design"
+    ],
+    "created_at": "2025-04-03T21:44:53.225735"
+  },
+  {
+    "id": "q_Full_Stack_Developer_14",
+    "role": "Full Stack Developer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "How would you implement MongoDB in a production environment?",
+    "expected_skills": [
+      "MongoDB",
+      "Web Performance",
+      "JavaScript"
+    ],
+    "created_at": "2025-04-03T21:44:53.228746"
+  },
+  {
+    "id": "q_Full_Stack_Developer_15",
+    "role": "Full Stack Developer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "Explain how React works.",
+    "expected_skills": [
+      "React",
+      "Node.js",
+      "System Design"
+    ],
+    "created_at": "2025-04-03T21:44:53.228746"
+  },
+  {
+    "id": "q_Full_Stack_Developer_16",
+    "role": "Full Stack Developer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "How do you optimize JavaScript for performance?",
+    "expected_skills": [
+      "JavaScript",
+      "JavaScript",
+      "React"
+    ],
+    "created_at": "2025-04-03T21:44:53.228746"
+  },
+  {
+    "id": "q_Full_Stack_Developer_17",
+    "role": "Full Stack Developer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "How do you optimize React for performance?",
+    "expected_skills": [
+      "React",
+      "System Design",
+      "Node.js"
+    ],
+    "created_at": "2025-04-03T21:44:53.228746"
+  },
+  {
+    "id": "q_Full_Stack_Developer_18",
+    "role": "Full Stack Developer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "What are the key concepts in React?",
+    "expected_skills": [
+      "React",
+      "React",
+      "Web Performance"
+    ],
+    "created_at": "2025-04-03T21:44:53.228746"
+  },
+  {
+    "id": "q_Full_Stack_Developer_19",
+    "role": "Full Stack Developer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "How would you implement System Design in a production environment?",
+    "expected_skills": [
+      "System Design",
+      "Node.js",
+      "MongoDB"
+    ],
+    "created_at": "2025-04-03T21:44:53.228746"
+  },
+  {
+    "id": "q_Full_Stack_Developer_20",
+    "role": "Full Stack Developer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "How do you approach React in your work?",
+    "expected_skills": [
+      "React",
+      "MongoDB",
+      "JavaScript"
+    ],
+    "created_at": "2025-04-03T21:44:53.228746"
+  },
+  {
+    "id": "q_Full_Stack_Developer_21",
+    "role": "Full Stack Developer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Tell me about a time when you had to JavaScript.",
+    "expected_skills": [
+      "JavaScript",
+      "Web Performance",
+      "JavaScript"
+    ],
+    "created_at": "2025-04-03T21:44:53.228746"
+  },
+  {
+    "id": "q_Full_Stack_Developer_22",
+    "role": "Full Stack Developer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "Give an example of when you had to MongoDB.",
+    "expected_skills": [
+      "MongoDB",
+      "JavaScript",
+      "React"
+    ],
+    "created_at": "2025-04-03T21:44:53.228746"
+  },
+  {
+    "id": "q_Full_Stack_Developer_23",
+    "role": "Full Stack Developer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Give an example of when you had to React.",
+    "expected_skills": [
+      "React",
+      "Node.js",
+      "MongoDB"
+    ],
+    "created_at": "2025-04-03T21:44:53.228746"
+  },
+  {
+    "id": "q_Full_Stack_Developer_24",
+    "role": "Full Stack Developer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "Give an example of when you had to MongoDB.",
+    "expected_skills": [
+      "MongoDB",
+      "React",
+      "System Design"
+    ],
+    "created_at": "2025-04-03T21:44:53.228746"
+  },
+  {
+    "id": "q_Full_Stack_Developer_25",
+    "role": "Full Stack Developer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Describe a situation where you had to Node.js under pressure.",
+    "expected_skills": [
+      "Node.js",
+      "React",
+      "MongoDB"
+    ],
+    "created_at": "2025-04-03T21:44:53.228746"
+  },
+  {
+    "id": "q_Full_Stack_Developer_26",
+    "role": "Full Stack Developer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "What's your process for Web Performance?",
+    "expected_skills": [
+      "Web Performance",
+      "JavaScript",
+      "React"
+    ],
+    "created_at": "2025-04-03T21:44:53.228746"
+  },
+  {
+    "id": "q_Full_Stack_Developer_27",
+    "role": "Full Stack Developer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "Tell me about a time when you had to Web Performance.",
+    "expected_skills": [
+      "Web Performance",
+      "MongoDB",
+      "Web Performance"
+    ],
+    "created_at": "2025-04-03T21:44:53.228746"
+  },
+  {
+    "id": "q_Full_Stack_Developer_28",
+    "role": "Full Stack Developer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "What's your process for Node.js?",
+    "expected_skills": [
+      "Node.js",
+      "MongoDB",
+      "Web Performance"
+    ],
+    "created_at": "2025-04-03T21:44:53.228746"
+  },
+  {
+    "id": "q_Full_Stack_Developer_29",
+    "role": "Full Stack Developer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Describe a situation where you had to System Design under pressure.",
+    "expected_skills": [
+      "System Design",
+      "MongoDB",
+      "Node.js"
+    ],
+    "created_at": "2025-04-03T21:44:53.228746"
+  },
+  {
+    "id": "q_Full_Stack_Developer_30",
+    "role": "Full Stack Developer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Tell me about a time when you had to Node.js.",
+    "expected_skills": [
+      "Node.js",
+      "React",
+      "Node.js"
+    ],
+    "created_at": "2025-04-03T21:44:53.228746"
+  },
+  {
+    "id": "q_Full_Stack_Developer_31",
+    "role": "Full Stack Developer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Tell me about a time when you had to Node.js.",
+    "expected_skills": [
+      "Node.js",
+      "MongoDB",
+      "JavaScript"
+    ],
+    "created_at": "2025-04-03T21:44:53.228746"
+  },
+  {
+    "id": "q_Full_Stack_Developer_32",
+    "role": "Full Stack Developer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Give an example of when you had to Web Performance.",
+    "expected_skills": [
+      "Web Performance",
+      "JavaScript",
+      "Node.js"
+    ],
+    "created_at": "2025-04-03T21:44:53.228746"
+  },
+  {
+    "id": "q_Full_Stack_Developer_33",
+    "role": "Full Stack Developer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "How do you approach JavaScript in your work?",
+    "expected_skills": [
+      "JavaScript",
+      "MongoDB",
+      "Node.js"
+    ],
+    "created_at": "2025-04-03T21:44:53.228746"
+  },
+  {
+    "id": "q_Full_Stack_Developer_34",
+    "role": "Full Stack Developer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "How do you approach JavaScript in your work?",
+    "expected_skills": [
+      "JavaScript",
+      "MongoDB",
+      "Web Performance"
+    ],
+    "created_at": "2025-04-03T21:44:53.228746"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "id": "q_Software_Engineer_15",
+  "role": "Software Engineer",
+  "type": "technical",
+  "difficulty": "medium",
+  "content": "How do you optimize Algorithms for performance?",
+  "expected_skills": [
+    "Algorithms",
+    "C++",
+    "Data Structures"
+  ],
+  "created_at": "2025-04-03T21:44:51.550420"
+}

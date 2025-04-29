@@ -1,0 +1,13 @@
+{
+  "id": "q_Security_Engineer_19",
+  "role": "Security Engineer",
+  "type": "technical",
+  "difficulty": "medium",
+  "content": "Explain how Security works.",
+  "expected_skills": [
+    "Security",
+    "Vulnerability Assessment",
+    "Python"
+  ],
+  "created_at": "2025-04-03T21:44:52.500435"
+}

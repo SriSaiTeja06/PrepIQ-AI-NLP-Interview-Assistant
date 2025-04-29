@@ -1,0 +1,13 @@
+{
+  "id": "q_Data_Engineer_5",
+  "role": "Data Engineer",
+  "type": "technical",
+  "difficulty": "medium",
+  "content": "Discuss the trade-offs of using SQL.",
+  "expected_skills": [
+    "SQL",
+    "SQL",
+    "Data Warehousing"
+  ],
+  "created_at": "2025-04-03T21:44:52.028491"
+}

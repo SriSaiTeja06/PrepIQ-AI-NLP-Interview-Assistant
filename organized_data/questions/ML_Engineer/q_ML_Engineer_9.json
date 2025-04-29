@@ -1,0 +1,13 @@
+{
+  "id": "q_ML_Engineer_9",
+  "role": "ML Engineer",
+  "type": "technical",
+  "difficulty": "medium",
+  "content": "What is cross-validation?",
+  "expected_skills": [
+    "Model Evaluation",
+    "Cross-Validation",
+    "Overfitting"
+  ],
+  "created_at": "2025-04-14T15:55:00.000000"
+}

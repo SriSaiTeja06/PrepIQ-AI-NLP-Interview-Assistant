@@ -1,0 +1,12 @@
+{
+    "id": "q_Mobile_Developer_15",
+    "role": "Mobile Developer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "What are the key concepts in Apache Kafka?",
+    "expected_skills": [
+      "Apache Kafka",
+      "Data Streaming"
+    ],
+    "created_at": "2025-04-14T15:55:00.000000"
+}

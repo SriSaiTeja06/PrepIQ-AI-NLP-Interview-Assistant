@@ -1,0 +1,13 @@
+{
+    "id": "q_Mobile_Developer_9",
+    "role": "Mobile Developer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "When must you use strong, weak, and unowned references?",
+    "expected_skills": [
+      "Swift",
+      "Memory Management",
+      "ARC"
+    ],
+    "created_at": "2025-04-14T15:55:00.000000"
+}

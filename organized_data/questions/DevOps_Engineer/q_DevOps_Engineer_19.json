@@ -1,0 +1,13 @@
+{
+  "id": "q_DevOps_Engineer_19",
+  "role": "DevOps Engineer",
+  "type": "technical",
+  "difficulty": "easy",
+  "content": "What are the key concepts in Google Cloud?",
+  "expected_skills": [
+    "Google Cloud",
+    "Kubernetes",
+    "Docker"
+  ],
+  "created_at": "2025-04-03T21:44:51.788039"
+}

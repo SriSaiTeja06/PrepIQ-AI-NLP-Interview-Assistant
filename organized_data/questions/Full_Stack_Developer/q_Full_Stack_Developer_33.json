@@ -1,0 +1,13 @@
+{
+  "id": "q_Full_Stack_Developer_33",
+  "role": "Full Stack Developer",
+  "type": "behavioral",
+  "difficulty": "easy",
+  "content": "How do you approach JavaScript in your work?",
+  "expected_skills": [
+    "JavaScript",
+    "MongoDB",
+    "Node.js"
+  ],
+  "created_at": "2025-04-03T21:44:53.228746"
+}

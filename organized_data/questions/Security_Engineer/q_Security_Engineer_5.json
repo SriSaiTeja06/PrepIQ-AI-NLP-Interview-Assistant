@@ -1,0 +1,13 @@
+{
+  "id": "q_Security_Engineer_5",
+  "role": "Security Engineer",
+  "type": "technical",
+  "difficulty": "easy",
+  "content": "What are the common challenges with Security?",
+  "expected_skills": [
+    "Security",
+    "Penetration Testing",
+    "Security Policies"
+  ],
+  "created_at": "2025-04-03T21:44:52.500435"
+}

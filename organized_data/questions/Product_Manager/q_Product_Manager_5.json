@@ -1,0 +1,13 @@
+{
+    "id": "q_Product_Manager_5",
+    "role": "Product Manager",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "What do you dislike about our product?",
+    "expected_skills": [
+      "Product Analysis",
+      "Critical Thinking",
+      "User Experience"
+    ],
+    "created_at": "2025-04-14T15:55:00.000000"
+}

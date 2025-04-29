@@ -1,0 +1,13 @@
+{
+    "id": "q_Product_Manager_3",
+    "role": "Product Manager",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "How do you think Product Managers interact with engineers?",
+    "expected_skills": [
+      "Team Collaboration",
+      "Communication",
+      "Technical Understanding"
+    ],
+    "created_at": "2025-04-14T15:55:00.000000"
+  }

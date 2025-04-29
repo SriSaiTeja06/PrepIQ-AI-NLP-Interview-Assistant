@@ -1,0 +1,14 @@
+Mobile Developer - Senior Level
+
+Key Responsibilities:
+- Lead the development of Swift, Kotlin, React Native
+- Design and implement iOS, Android, Mobile Architecture
+- Collaborate with team on 
+
+Required Skills:
+- Proficient in Swift
+- Proficient in Kotlin
+- Proficient in React Native
+- Proficient in iOS
+- Proficient in Android
+- Proficient in Mobile Architecture

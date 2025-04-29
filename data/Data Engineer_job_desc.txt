@@ -1,0 +1,14 @@
+Data Engineer - Senior Level
+
+Key Responsibilities:
+- Lead the development of Python, SQL, ETL
+- Design and implement Data Warehousing, Apache Airflow, Apache Kafka
+- Collaborate with team on 
+
+Required Skills:
+- Proficient in Python
+- Proficient in SQL
+- Proficient in ETL
+- Proficient in Data Warehousing
+- Proficient in Apache Airflow
+- Proficient in Apache Kafka

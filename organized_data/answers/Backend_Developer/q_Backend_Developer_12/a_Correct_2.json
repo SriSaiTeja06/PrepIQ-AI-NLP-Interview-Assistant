@@ -1,0 +1,6 @@
+{
+  "id": "a_Correct_2",
+  "question_id": "q_Backend_Developer_12",
+  "content": "Code-level optimizations like reducing unnecessary method calls, using efficient algorithms (e.g., choosing the right sorting algorithm), and avoiding expensive I/O operations within loops are important. Also, consider caching frequently accessed data to avoid repeated computations or database lookups.",
+  "audio_source": null
+}

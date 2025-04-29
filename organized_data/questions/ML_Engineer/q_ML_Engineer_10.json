@@ -1,0 +1,13 @@
+{
+  "id": "q_ML_Engineer_10",
+  "role": "ML Engineer",
+  "type": "technical",
+  "difficulty": "medium",
+  "content": "Differentiate between Supervised and Unsupervised learning.",
+  "expected_skills": [
+    "Supervised Learning",
+    "Unsupervised Learning",
+    "Machine Learning Concepts"
+  ],
+  "created_at": "2025-04-14T15:55:00.000000"
+}

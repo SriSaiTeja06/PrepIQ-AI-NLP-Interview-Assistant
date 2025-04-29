@@ -1,0 +1,13 @@
+{
+  "id": "q_Software_Engineer_20",
+  "role": "Software Engineer",
+  "type": "behavioral",
+  "difficulty": "easy",
+  "content": "What's your process for System Design?",
+  "expected_skills": [
+    "System Design",
+    "System Design",
+    "C++"
+  ],
+  "created_at": "2025-04-03T21:44:51.550420"
+}

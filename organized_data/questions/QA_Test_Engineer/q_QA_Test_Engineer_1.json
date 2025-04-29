@@ -1,0 +1,12 @@
+{
+    "id": "q_QA_Test_Engineer_1",
+    "role": "QA Test Engineer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "What is a test case?",
+    "expected_skills": [
+      "Test Case Design",
+      "Software Testing"
+    ],
+    "created_at": "2025-04-14T15:55:00.000000"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "q_DevOps_Engineer_3",
+  "role": "DevOps Engineer",
+  "type": "technical",
+  "difficulty": "medium",
+  "content": "Explain how Docker works.",
+  "expected_skills": [
+    "Docker",
+    "Kubernetes",
+    "CI/CD"
+  ],
+  "created_at": "2025-04-03T21:44:51.788039"
+}

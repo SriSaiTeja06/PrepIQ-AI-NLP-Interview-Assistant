@@ -1,0 +1,13 @@
+{
+  "id": "q_Data_Scientist_7",
+  "role": "Data Scientist",
+  "type": "technical",
+  "difficulty": "easy",
+  "content": "How would you implement Python in a production environment?",
+  "expected_skills": [
+    "Python",
+    "Statistics",
+    "Python"
+  ],
+  "created_at": "2025-04-03T21:44:50.986740"
+}

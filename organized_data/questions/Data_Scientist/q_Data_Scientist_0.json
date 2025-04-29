@@ -1,0 +1,13 @@
+{
+  "id": "q_Data_Scientist_0",
+  "role": "Data Scientist",
+  "type": "technical",
+  "difficulty": "hard",
+  "content": "How do you optimize Pandas for performance?",
+  "expected_skills": [
+    "Pandas",
+    "Statistics",
+    "Python"
+  ],
+  "created_at": "2025-04-03T21:44:50.986740"
+}

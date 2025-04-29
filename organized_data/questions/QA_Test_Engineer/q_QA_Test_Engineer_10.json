@@ -1,0 +1,12 @@
+{
+    "id": "q_QA_Test_Engineer_10",
+    "role": "QA Test Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "What is SDLC?",
+    "expected_skills": [
+      "Software Development Life Cycle",
+      "Software Testing"
+    ],
+    "created_at": "2025-04-14T15:55:00.000000"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "q_Security_Engineer_16",
+  "role": "Security Engineer",
+  "type": "technical",
+  "difficulty": "hard",
+  "content": "Discuss the trade-offs of using Python.",
+  "expected_skills": [
+    "Python",
+    "Python",
+    "Penetration Testing"
+  ],
+  "created_at": "2025-04-03T21:44:52.500435"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "a_RelevantIncorrect_8",
+  "question_id": "q_Backend_Developer_8",
+  "content": "The main trade-offs of using JavaScript are its asynchronous nature and the fact that it runs in the browser. Choosing JavaScript means you can use frameworks like Angular or Vue for frontend development, but you might face issues with browser compatibility.",
+  "audio_source": null,
+  "confidence": 1.0,
+  "created_at": "2025-04-11T16:14:00Z" 
+}

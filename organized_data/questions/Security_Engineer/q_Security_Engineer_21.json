@@ -1,0 +1,13 @@
+{
+  "id": "q_Security_Engineer_21",
+  "role": "Security Engineer",
+  "type": "behavioral",
+  "difficulty": "medium",
+  "content": "Describe a situation where you had to Security Policies under pressure.",
+  "expected_skills": [
+    "Security Policies",
+    "Security Policies",
+    "Python"
+  ],
+  "created_at": "2025-04-03T21:44:52.500435"
+}

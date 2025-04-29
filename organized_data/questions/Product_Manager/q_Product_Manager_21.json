@@ -1,0 +1,13 @@
+{
+    "id": "q_Product_Manager_21",
+    "role": "Product Manager",
+    "type": "behavioral",
+    "difficulty": "hard",
+    "content": "While we make X product for the consumers, we also have a B2B division. What is your experience with juggling both markets?",
+    "expected_skills": [
+      "Market Segmentation",
+      "Product Strategy",
+      "Stakeholder Management"
+    ],
+    "created_at": "2025-04-14T15:55:00.000000"
+}

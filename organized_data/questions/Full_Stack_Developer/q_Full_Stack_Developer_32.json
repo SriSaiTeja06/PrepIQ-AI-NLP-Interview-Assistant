@@ -1,0 +1,13 @@
+{
+  "id": "q_Full_Stack_Developer_32",
+  "role": "Full Stack Developer",
+  "type": "behavioral",
+  "difficulty": "medium",
+  "content": "Give an example of when you had to Web Performance.",
+  "expected_skills": [
+    "Web Performance",
+    "JavaScript",
+    "Node.js"
+  ],
+  "created_at": "2025-04-03T21:44:53.228746"
+}

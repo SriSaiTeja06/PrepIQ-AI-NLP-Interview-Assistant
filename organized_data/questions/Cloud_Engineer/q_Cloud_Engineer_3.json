@@ -1,0 +1,13 @@
+{
+  "id": "q_Cloud_Engineer_3",
+  "role": "Cloud Engineer",
+  "type": "technical",
+  "difficulty": "hard",
+  "content": "Explain how Azure works.",
+  "expected_skills": [
+    "Azure",
+    "Google Cloud",
+    "CloudFormation"
+  ],
+  "created_at": "2025-04-03T21:44:52.253153"
+}

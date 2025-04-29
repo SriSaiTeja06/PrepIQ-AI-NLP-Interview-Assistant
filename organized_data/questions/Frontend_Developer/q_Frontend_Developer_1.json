@@ -1,0 +1,13 @@
+{
+  "id": "q_Frontend_Developer_1",
+  "role": "Frontend Developer",
+  "type": "technical",
+  "difficulty": "medium",
+  "content": "How would you implement HTML in a production environment?",
+  "expected_skills": [
+    "HTML",
+    "JavaScript",
+    "CSS"
+  ],
+  "created_at": "2025-04-03T21:44:52.740879"
+}

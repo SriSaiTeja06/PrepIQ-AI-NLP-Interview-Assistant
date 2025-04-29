@@ -1,0 +1,6 @@
+{
+  "id": "a_Incorrect_2",
+  "question_id": "q_Backend_Developer_12",
+  "content": "Using `ArrayList` is always faster than `LinkedList` for adding elements in the middle because arrays have direct access.",
+  "audio_source": null
+}

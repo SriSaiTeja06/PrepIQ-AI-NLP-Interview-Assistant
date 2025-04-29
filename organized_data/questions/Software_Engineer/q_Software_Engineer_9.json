@@ -1,0 +1,13 @@
+{
+  "id": "q_Software_Engineer_9",
+  "role": "Software Engineer",
+  "type": "technical",
+  "difficulty": "medium",
+  "content": "Discuss the trade-offs of using C++.",
+  "expected_skills": [
+    "C++",
+    "C++",
+    "System Design"
+  ],
+  "created_at": "2025-04-03T21:44:51.550420"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "q_ML_Engineer_0",
+  "role": "ML Engineer",
+  "type": "technical",
+  "difficulty": "easy",
+  "content": "What are Machine Learning and Artificial Intelligence?",
+  "expected_skills": [
+    "Machine Learning Concepts",
+    "Artificial Intelligence Concepts"
+  ],
+  "created_at": "2025-04-14T15:55:00.000000" 
+}

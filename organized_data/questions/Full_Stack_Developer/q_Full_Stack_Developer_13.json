@@ -1,0 +1,13 @@
+{
+  "id": "q_Full_Stack_Developer_13",
+  "role": "Full Stack Developer",
+  "type": "technical",
+  "difficulty": "hard",
+  "content": "How would you implement JavaScript in a production environment?",
+  "expected_skills": [
+    "JavaScript",
+    "Node.js",
+    "System Design"
+  ],
+  "created_at": "2025-04-03T21:44:53.225735"
+}

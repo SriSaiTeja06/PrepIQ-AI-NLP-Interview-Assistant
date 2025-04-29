@@ -1,0 +1,13 @@
+{
+    "id": "q_Mobile_Developer_20",
+    "role": "Mobile Developer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "How do you optimize Azure for performance?",
+    "expected_skills": [
+      "Azure",
+      "Cloud Computing",
+      "Performance Optimization"
+    ],
+    "created_at": "2025-04-14T15:55:00.000000"
+}

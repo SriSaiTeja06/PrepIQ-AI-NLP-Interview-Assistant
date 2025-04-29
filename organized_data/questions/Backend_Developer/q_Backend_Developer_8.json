@@ -1,0 +1,13 @@
+{
+  "id": "q_Backend_Developer_8",
+  "role": "Backend Developer",
+  "type": "technical",
+  "difficulty": "easy",
+  "content": "Discuss the trade-offs of using Python.",
+  "expected_skills": [
+    "Python",
+    "Java",
+    "System Architecture"
+  ],
+  "created_at": "2025-04-03T21:44:52.982568"
+}

@@ -1,0 +1,13 @@
+{
+    "id": "q_Mobile_Developer_18",
+    "role": "Mobile Developer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "Talk about code signing for iOS apps.",
+    "expected_skills": [
+      "iOS Development",
+      "Code Signing",
+      "Security"
+    ],
+    "created_at": "2025-04-14T15:55:00.000000"
+}

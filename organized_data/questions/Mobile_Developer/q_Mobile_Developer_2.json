@@ -1,0 +1,13 @@
+{
+    "id": "q_Mobile_Developer_2",
+    "role": "Mobile Developer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "What is the use of reuseIdentifier?",
+    "expected_skills": [
+      "iOS Development",
+      "UITableView",
+      "Memory Management"
+    ],
+    "created_at": "2025-04-14T15:55:00.000000"
+}

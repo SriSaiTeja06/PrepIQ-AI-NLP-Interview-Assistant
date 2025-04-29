@@ -1,0 +1,14 @@
+Data Scientist - Senior Level
+
+Key Responsibilities:
+- Lead the development of Python, Machine Learning, Statistics
+- Design and implement Data Analysis, Pandas, NumPy
+- Collaborate with team on 
+
+Required Skills:
+- Proficient in Python
+- Proficient in Machine Learning
+- Proficient in Statistics
+- Proficient in Data Analysis
+- Proficient in Pandas
+- Proficient in NumPy

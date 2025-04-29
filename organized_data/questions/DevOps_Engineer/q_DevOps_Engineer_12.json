@@ -1,0 +1,13 @@
+{
+  "id": "q_DevOps_Engineer_12",
+  "role": "DevOps Engineer",
+  "type": "technical",
+  "difficulty": "medium",
+  "content": "What are the key concepts in Docker?",
+  "expected_skills": [
+    "Docker",
+    "AWS",
+    "Docker"
+  ],
+  "created_at": "2025-04-03T21:44:51.788039"
+}

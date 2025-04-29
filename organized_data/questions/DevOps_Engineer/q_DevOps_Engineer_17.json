@@ -1,0 +1,13 @@
+{
+  "id": "q_DevOps_Engineer_17",
+  "role": "DevOps Engineer",
+  "type": "technical",
+  "difficulty": "medium",
+  "content": "What are the common challenges with Azure?",
+  "expected_skills": [
+    "Azure",
+    "AWS",
+    "CI/CD"
+  ],
+  "created_at": "2025-04-03T21:44:51.788039"
+}

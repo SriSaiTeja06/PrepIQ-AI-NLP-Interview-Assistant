@@ -1,0 +1,13 @@
+{
+  "id": "q_Cloud_Engineer_11",
+  "role": "Cloud Engineer",
+  "type": "technical",
+  "difficulty": "medium",
+  "content": "What are the key concepts in AWS?",
+  "expected_skills": [
+    "AWS",
+    "Terraform",
+    "CloudFormation"
+  ],
+  "created_at": "2025-04-03T21:44:52.253153"
+}

@@ -1,0 +1,457 @@
+[
+  {
+    "id": "q_Data_Engineer_0",
+    "role": "Data Engineer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "Explain how Apache Airflow works.",
+    "expected_skills": [
+      "Apache Airflow",
+      "SQL",
+      "ETL"
+    ],
+    "created_at": "2025-04-03T21:44:52.028491"
+  },
+  {
+    "id": "q_Data_Engineer_1",
+    "role": "Data Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "What are the common challenges with SQL?",
+    "expected_skills": [
+      "SQL",
+      "Apache Airflow",
+      "SQL"
+    ],
+    "created_at": "2025-04-03T21:44:52.028491"
+  },
+  {
+    "id": "q_Data_Engineer_2",
+    "role": "Data Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "How do you optimize Data Warehousing for performance?",
+    "expected_skills": [
+      "Data Warehousing",
+      "Data Warehousing",
+      "ETL"
+    ],
+    "created_at": "2025-04-03T21:44:52.028491"
+  },
+  {
+    "id": "q_Data_Engineer_3",
+    "role": "Data Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "What are the key concepts in ETL?",
+    "expected_skills": [
+      "ETL",
+      "Apache Kafka",
+      "Python"
+    ],
+    "created_at": "2025-04-03T21:44:52.028491"
+  },
+  {
+    "id": "q_Data_Engineer_4",
+    "role": "Data Engineer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "Explain how Apache Airflow works.",
+    "expected_skills": [
+      "Apache Airflow",
+      "Data Warehousing",
+      "Apache Kafka"
+    ],
+    "created_at": "2025-04-03T21:44:52.028491"
+  },
+  {
+    "id": "q_Data_Engineer_5",
+    "role": "Data Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "Discuss the trade-offs of using SQL.",
+    "expected_skills": [
+      "SQL",
+      "SQL",
+      "Data Warehousing"
+    ],
+    "created_at": "2025-04-03T21:44:52.028491"
+  },
+  {
+    "id": "q_Data_Engineer_6",
+    "role": "Data Engineer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "Explain how Apache Kafka works.",
+    "expected_skills": [
+      "Apache Kafka",
+      "SQL",
+      "Apache Airflow"
+    ],
+    "created_at": "2025-04-03T21:44:52.028491"
+  },
+  {
+    "id": "q_Data_Engineer_7",
+    "role": "Data Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "How would you implement SQL in a production environment?",
+    "expected_skills": [
+      "SQL",
+      "Apache Airflow",
+      "Data Warehousing"
+    ],
+    "created_at": "2025-04-03T21:44:52.028491"
+  },
+  {
+    "id": "q_Data_Engineer_8",
+    "role": "Data Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "Discuss the trade-offs of using Python.",
+    "expected_skills": [
+      "Python",
+      "SQL",
+      "Data Warehousing"
+    ],
+    "created_at": "2025-04-03T21:44:52.028491"
+  },
+  {
+    "id": "q_Data_Engineer_9",
+    "role": "Data Engineer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "Explain how Apache Kafka works.",
+    "expected_skills": [
+      "Apache Kafka",
+      "Data Warehousing",
+      "Apache Kafka"
+    ],
+    "created_at": "2025-04-03T21:44:52.028491"
+  },
+  {
+    "id": "q_Data_Engineer_10",
+    "role": "Data Engineer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "How would you implement ETL in a production environment?",
+    "expected_skills": [
+      "ETL",
+      "Apache Kafka",
+      "Data Warehousing"
+    ],
+    "created_at": "2025-04-03T21:44:52.028491"
+  },
+  {
+    "id": "q_Data_Engineer_11",
+    "role": "Data Engineer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "How would you implement Apache Airflow in a production environment?",
+    "expected_skills": [
+      "Apache Airflow",
+      "Apache Airflow",
+      "SQL"
+    ],
+    "created_at": "2025-04-03T21:44:52.028491"
+  },
+  {
+    "id": "q_Data_Engineer_12",
+    "role": "Data Engineer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "Explain how Python works.",
+    "expected_skills": [
+      "Python",
+      "Apache Kafka",
+      "Data Warehousing"
+    ],
+    "created_at": "2025-04-03T21:44:52.028491"
+  },
+  {
+    "id": "q_Data_Engineer_13",
+    "role": "Data Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "How would you implement SQL in a production environment?",
+    "expected_skills": [
+      "SQL",
+      "SQL",
+      "Python"
+    ],
+    "created_at": "2025-04-03T21:44:52.028491"
+  },
+  {
+    "id": "q_Data_Engineer_14",
+    "role": "Data Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "How would you implement SQL in a production environment?",
+    "expected_skills": [
+      "SQL",
+      "Apache Airflow",
+      "Python"
+    ],
+    "created_at": "2025-04-03T21:44:52.028491"
+  },
+  {
+    "id": "q_Data_Engineer_15",
+    "role": "Data Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "Explain how Data Warehousing works.",
+    "expected_skills": [
+      "Data Warehousing",
+      "ETL",
+      "Python"
+    ],
+    "created_at": "2025-04-03T21:44:52.028491"
+  },
+  {
+    "id": "q_Data_Engineer_16",
+    "role": "Data Engineer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "What are the common challenges with Python?",
+    "expected_skills": [
+      "Python",
+      "ETL",
+      "Data Warehousing"
+    ],
+    "created_at": "2025-04-03T21:44:52.028491"
+  },
+  {
+    "id": "q_Data_Engineer_17",
+    "role": "Data Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "How would you implement ETL in a production environment?",
+    "expected_skills": [
+      "ETL",
+      "Apache Kafka",
+      "ETL"
+    ],
+    "created_at": "2025-04-03T21:44:52.028491"
+  },
+  {
+    "id": "q_Data_Engineer_18",
+    "role": "Data Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "What are the key concepts in Apache Kafka?",
+    "expected_skills": [
+      "Apache Kafka",
+      "Python",
+      "Apache Airflow"
+    ],
+    "created_at": "2025-04-03T21:44:52.028491"
+  },
+  {
+    "id": "q_Data_Engineer_19",
+    "role": "Data Engineer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "What are the common challenges with ETL?",
+    "expected_skills": [
+      "ETL",
+      "Python",
+      "ETL"
+    ],
+    "created_at": "2025-04-03T21:44:52.028491"
+  },
+  {
+    "id": "q_Data_Engineer_20",
+    "role": "Data Engineer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "Give an example of when you had to Data Warehousing.",
+    "expected_skills": [
+      "Data Warehousing",
+      "Apache Kafka",
+      "Python"
+    ],
+    "created_at": "2025-04-03T21:44:52.028491"
+  },
+  {
+    "id": "q_Data_Engineer_21",
+    "role": "Data Engineer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "How do you approach Apache Kafka in your work?",
+    "expected_skills": [
+      "Apache Kafka",
+      "ETL",
+      "SQL"
+    ],
+    "created_at": "2025-04-03T21:44:52.028491"
+  },
+  {
+    "id": "q_Data_Engineer_22",
+    "role": "Data Engineer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Give an example of when you had to Python.",
+    "expected_skills": [
+      "Python",
+      "Data Warehousing",
+      "ETL"
+    ],
+    "created_at": "2025-04-03T21:44:52.028491"
+  },
+  {
+    "id": "q_Data_Engineer_23",
+    "role": "Data Engineer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Give an example of when you had to Python.",
+    "expected_skills": [
+      "Python",
+      "SQL",
+      "Python"
+    ],
+    "created_at": "2025-04-03T21:44:52.028491"
+  },
+  {
+    "id": "q_Data_Engineer_24",
+    "role": "Data Engineer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Describe a situation where you had to Apache Kafka under pressure.",
+    "expected_skills": [
+      "Apache Kafka",
+      "Data Warehousing",
+      "Python"
+    ],
+    "created_at": "2025-04-03T21:44:52.028491"
+  },
+  {
+    "id": "q_Data_Engineer_25",
+    "role": "Data Engineer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "Describe a situation where you had to Python under pressure.",
+    "expected_skills": [
+      "Python",
+      "Python",
+      "Apache Kafka"
+    ],
+    "created_at": "2025-04-03T21:44:52.028491"
+  },
+  {
+    "id": "q_Data_Engineer_26",
+    "role": "Data Engineer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "Describe a situation where you had to Apache Airflow under pressure.",
+    "expected_skills": [
+      "Apache Airflow",
+      "Apache Airflow",
+      "ETL"
+    ],
+    "created_at": "2025-04-03T21:44:52.028491"
+  },
+  {
+    "id": "q_Data_Engineer_27",
+    "role": "Data Engineer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "How do you approach SQL in your work?",
+    "expected_skills": [
+      "SQL",
+      "Apache Airflow",
+      "Python"
+    ],
+    "created_at": "2025-04-03T21:44:52.028491"
+  },
+  {
+    "id": "q_Data_Engineer_28",
+    "role": "Data Engineer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Give an example of when you had to Data Warehousing.",
+    "expected_skills": [
+      "Data Warehousing",
+      "Data Warehousing",
+      "Apache Airflow"
+    ],
+    "created_at": "2025-04-03T21:44:52.028491"
+  },
+  {
+    "id": "q_Data_Engineer_29",
+    "role": "Data Engineer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Give an example of when you had to Apache Kafka.",
+    "expected_skills": [
+      "Apache Kafka",
+      "Python",
+      "SQL"
+    ],
+    "created_at": "2025-04-03T21:44:52.028491"
+  },
+  {
+    "id": "q_Data_Engineer_30",
+    "role": "Data Engineer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Tell me about a time when you had to Data Warehousing.",
+    "expected_skills": [
+      "Data Warehousing",
+      "Data Warehousing",
+      "SQL"
+    ],
+    "created_at": "2025-04-03T21:44:52.028491"
+  },
+  {
+    "id": "q_Data_Engineer_31",
+    "role": "Data Engineer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Give an example of when you had to SQL.",
+    "expected_skills": [
+      "SQL",
+      "Apache Airflow",
+      "Python"
+    ],
+    "created_at": "2025-04-03T21:44:52.028491"
+  },
+  {
+    "id": "q_Data_Engineer_32",
+    "role": "Data Engineer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "Describe a situation where you had to Python under pressure.",
+    "expected_skills": [
+      "Python",
+      "Apache Airflow",
+      "Python"
+    ],
+    "created_at": "2025-04-03T21:44:52.028491"
+  },
+  {
+    "id": "q_Data_Engineer_33",
+    "role": "Data Engineer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "How do you approach Python in your work?",
+    "expected_skills": [
+      "Python",
+      "SQL",
+      "Python"
+    ],
+    "created_at": "2025-04-03T21:44:52.028491"
+  },
+  {
+    "id": "q_Data_Engineer_34",
+    "role": "Data Engineer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Give an example of when you had to Apache Airflow.",
+    "expected_skills": [
+      "Apache Airflow",
+      "Apache Airflow",
+      "Apache Kafka"
+    ],
+    "created_at": "2025-04-03T21:44:52.028491"
+  }
+]

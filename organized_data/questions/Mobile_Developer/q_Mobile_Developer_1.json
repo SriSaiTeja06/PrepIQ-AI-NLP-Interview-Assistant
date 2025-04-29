@@ -1,0 +1,13 @@
+{
+    "id": "q_Mobile_Developer_1",
+    "role": "Mobile Developer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "What programming language is used for iOS development?",
+    "expected_skills": [
+      "iOS Development",
+      "Swift",
+      "Objective-C"
+    ],
+    "created_at": "2025-04-14T15:55:00.000000"
+}

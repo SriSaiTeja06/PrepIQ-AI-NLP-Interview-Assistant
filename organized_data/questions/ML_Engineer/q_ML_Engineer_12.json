@@ -1,0 +1,13 @@
+{
+  "id": "q_ML_Engineer_12",
+  "role": "ML Engineer",
+  "type": "technical",
+  "difficulty": "medium",
+  "content": "What is the difference between correlation and causality?",
+  "expected_skills": [
+    "Statistics",
+    "Correlation",
+    "Causality"
+  ],
+  "created_at": "2025-04-14T15:55:00.000000"
+}

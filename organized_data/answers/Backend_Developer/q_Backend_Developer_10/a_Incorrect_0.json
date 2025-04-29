@@ -1,0 +1,6 @@
+{
+  "id": "a_Incorrect_0",
+  "question_id": "q_Backend_Developer_10",
+  "content": "You optimize Java by using System.gc() frequently to force garbage collection and free up memory immediately.",
+  "audio_source": null
+}

@@ -1,0 +1,13 @@
+{
+    "id": "q_Product_Manager_9",
+    "role": "Product Manager",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "What main changes would you make to [our product]?",
+    "expected_skills": [
+      "Product Vision",
+      "Strategic Thinking",
+      "User Needs"
+    ],
+    "created_at": "2025-04-14T15:55:00.000000"
+}

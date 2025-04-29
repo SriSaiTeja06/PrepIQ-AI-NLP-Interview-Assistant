@@ -1,0 +1,13 @@
+{
+  "id": "q_Backend_Developer_24",
+  "role": "Backend Developer",
+  "type": "behavioral",
+  "difficulty": "easy",
+  "content": "Give an example of when you had to Java.",
+  "expected_skills": [
+    "Java",
+    "API Development",
+    "Python"
+  ],
+  "created_at": "2025-04-03T21:44:52.987603"
+}

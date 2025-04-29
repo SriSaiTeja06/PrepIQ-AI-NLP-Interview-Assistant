@@ -1,0 +1,13 @@
+{
+    "id": "q_Site_Reliability_Engineer_16",
+    "role": "Site Reliability Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "How do you ensure the security of a system in a Production Environment?",
+    "expected_skills": [
+      "Security",
+      "Access Control",
+      "Encryption"
+    ],
+    "created_at": "2025-04-14T15:55:00.000000"
+}

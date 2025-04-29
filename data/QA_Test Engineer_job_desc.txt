@@ -1,0 +1,14 @@
+QA/Test Engineer - Senior Level
+
+Key Responsibilities:
+- Lead the development of Python, Selenium, JMeter
+- Design and implement Test Automation, Performance Testing, Test Design
+- Collaborate with team on 
+
+Required Skills:
+- Proficient in Python
+- Proficient in Selenium
+- Proficient in JMeter
+- Proficient in Test Automation
+- Proficient in Performance Testing
+- Proficient in Test Design

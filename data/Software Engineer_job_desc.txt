@@ -1,0 +1,14 @@
+Software Engineer - Senior Level
+
+Key Responsibilities:
+- Lead the development of Python, Java, C++
+- Design and implement System Design, Algorithms, Data Structures
+- Collaborate with team on 
+
+Required Skills:
+- Proficient in Python
+- Proficient in Java
+- Proficient in C++
+- Proficient in System Design
+- Proficient in Algorithms
+- Proficient in Data Structures

@@ -1,0 +1,13 @@
+{
+    "id": "q_QA_Test_Engineer_16",
+    "role": "QA Test Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "What’s the difference between verification and validation?",
+    "expected_skills": [
+      "Verification",
+      "Validation",
+      "Software Testing"
+    ],
+    "created_at": "2025-04-14T15:55:00.000000"
+}

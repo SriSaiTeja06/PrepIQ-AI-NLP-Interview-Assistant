@@ -1,0 +1,13 @@
+{
+  "id": "q_Backend_Developer_20",
+  "role": "Backend Developer",
+  "type": "behavioral",
+  "difficulty": "medium",
+  "content": "Give an example of when you had to Node.js.",
+  "expected_skills": [
+    "Node.js",
+    "Java",
+    "System Architecture"
+  ],
+  "created_at": "2025-04-03T21:44:52.987603"
+}

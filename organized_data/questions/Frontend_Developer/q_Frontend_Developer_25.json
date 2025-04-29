@@ -1,0 +1,13 @@
+{
+  "id": "q_Frontend_Developer_25",
+  "role": "Frontend Developer",
+  "type": "behavioral",
+  "difficulty": "easy",
+  "content": "Describe a situation where you had to Web Performance under pressure.",
+  "expected_skills": [
+    "Web Performance",
+    "Vue.js",
+    "CSS"
+  ],
+  "created_at": "2025-04-03T21:44:52.745213"
+}

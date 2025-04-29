@@ -1,0 +1,13 @@
+{
+  "id": "q_Data_Scientist_17",
+  "role": "Data Scientist",
+  "type": "technical",
+  "difficulty": "hard",
+  "content": "What are the key concepts in Pandas?",
+  "expected_skills": [
+    "Pandas",
+    "NumPy",
+    "Machine Learning"
+  ],
+  "created_at": "2025-04-03T21:44:50.986740"
+}

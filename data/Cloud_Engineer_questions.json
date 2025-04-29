@@ -1,0 +1,457 @@
+[
+  {
+    "id": "q_Cloud_Engineer_0",
+    "role": "Cloud Engineer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "Explain how Google Cloud works.",
+    "expected_skills": [
+      "Google Cloud",
+      "Azure",
+      "Infrastructure as Code"
+    ],
+    "created_at": "2025-04-03T21:44:52.253153"
+  },
+  {
+    "id": "q_Cloud_Engineer_1",
+    "role": "Cloud Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "What are the common challenges with Azure?",
+    "expected_skills": [
+      "Azure",
+      "AWS",
+      "CloudFormation"
+    ],
+    "created_at": "2025-04-03T21:44:52.253153"
+  },
+  {
+    "id": "q_Cloud_Engineer_2",
+    "role": "Cloud Engineer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "Explain how Terraform works.",
+    "expected_skills": [
+      "Terraform",
+      "Google Cloud",
+      "Azure"
+    ],
+    "created_at": "2025-04-03T21:44:52.253153"
+  },
+  {
+    "id": "q_Cloud_Engineer_3",
+    "role": "Cloud Engineer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "Explain how Azure works.",
+    "expected_skills": [
+      "Azure",
+      "Google Cloud",
+      "CloudFormation"
+    ],
+    "created_at": "2025-04-03T21:44:52.253153"
+  },
+  {
+    "id": "q_Cloud_Engineer_4",
+    "role": "Cloud Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "Explain how CloudFormation works.",
+    "expected_skills": [
+      "CloudFormation",
+      "Azure",
+      "Infrastructure as Code"
+    ],
+    "created_at": "2025-04-03T21:44:52.253153"
+  },
+  {
+    "id": "q_Cloud_Engineer_5",
+    "role": "Cloud Engineer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "What are the common challenges with Google Cloud?",
+    "expected_skills": [
+      "Google Cloud",
+      "Terraform",
+      "Azure"
+    ],
+    "created_at": "2025-04-03T21:44:52.253153"
+  },
+  {
+    "id": "q_Cloud_Engineer_6",
+    "role": "Cloud Engineer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "How would you implement Google Cloud in a production environment?",
+    "expected_skills": [
+      "Google Cloud",
+      "Terraform",
+      "Infrastructure as Code"
+    ],
+    "created_at": "2025-04-03T21:44:52.253153"
+  },
+  {
+    "id": "q_Cloud_Engineer_7",
+    "role": "Cloud Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "What are the common challenges with Azure?",
+    "expected_skills": [
+      "Azure",
+      "AWS",
+      "Google Cloud"
+    ],
+    "created_at": "2025-04-03T21:44:52.253153"
+  },
+  {
+    "id": "q_Cloud_Engineer_8",
+    "role": "Cloud Engineer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "Discuss the trade-offs of using CloudFormation.",
+    "expected_skills": [
+      "CloudFormation",
+      "Azure",
+      "Google Cloud"
+    ],
+    "created_at": "2025-04-03T21:44:52.253153"
+  },
+  {
+    "id": "q_Cloud_Engineer_9",
+    "role": "Cloud Engineer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "How would you implement Google Cloud in a production environment?",
+    "expected_skills": [
+      "Google Cloud",
+      "Azure",
+      "AWS"
+    ],
+    "created_at": "2025-04-03T21:44:52.253153"
+  },
+  {
+    "id": "q_Cloud_Engineer_10",
+    "role": "Cloud Engineer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "Discuss the trade-offs of using Google Cloud.",
+    "expected_skills": [
+      "Google Cloud",
+      "Azure",
+      "AWS"
+    ],
+    "created_at": "2025-04-03T21:44:52.253153"
+  },
+  {
+    "id": "q_Cloud_Engineer_11",
+    "role": "Cloud Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "What are the key concepts in AWS?",
+    "expected_skills": [
+      "AWS",
+      "Terraform",
+      "CloudFormation"
+    ],
+    "created_at": "2025-04-03T21:44:52.253153"
+  },
+  {
+    "id": "q_Cloud_Engineer_12",
+    "role": "Cloud Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "Explain how Terraform works.",
+    "expected_skills": [
+      "Terraform",
+      "Azure",
+      "Infrastructure as Code"
+    ],
+    "created_at": "2025-04-03T21:44:52.253153"
+  },
+  {
+    "id": "q_Cloud_Engineer_13",
+    "role": "Cloud Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "How do you optimize Terraform for performance?",
+    "expected_skills": [
+      "Terraform",
+      "Google Cloud",
+      "CloudFormation"
+    ],
+    "created_at": "2025-04-03T21:44:52.253153"
+  },
+  {
+    "id": "q_Cloud_Engineer_14",
+    "role": "Cloud Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "How do you optimize Terraform for performance?",
+    "expected_skills": [
+      "Terraform",
+      "AWS",
+      "Terraform"
+    ],
+    "created_at": "2025-04-03T21:44:52.253153"
+  },
+  {
+    "id": "q_Cloud_Engineer_15",
+    "role": "Cloud Engineer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "What are the key concepts in Terraform?",
+    "expected_skills": [
+      "Terraform",
+      "Google Cloud",
+      "Azure"
+    ],
+    "created_at": "2025-04-03T21:44:52.253153"
+  },
+  {
+    "id": "q_Cloud_Engineer_16",
+    "role": "Cloud Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "How do you optimize Infrastructure as Code for performance?",
+    "expected_skills": [
+      "Infrastructure as Code",
+      "Terraform",
+      "AWS"
+    ],
+    "created_at": "2025-04-03T21:44:52.253153"
+  },
+  {
+    "id": "q_Cloud_Engineer_17",
+    "role": "Cloud Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "Explain how Terraform works.",
+    "expected_skills": [
+      "Terraform",
+      "Terraform",
+      "CloudFormation"
+    ],
+    "created_at": "2025-04-03T21:44:52.253153"
+  },
+  {
+    "id": "q_Cloud_Engineer_18",
+    "role": "Cloud Engineer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "Discuss the trade-offs of using CloudFormation.",
+    "expected_skills": [
+      "CloudFormation",
+      "Google Cloud",
+      "Terraform"
+    ],
+    "created_at": "2025-04-03T21:44:52.253153"
+  },
+  {
+    "id": "q_Cloud_Engineer_19",
+    "role": "Cloud Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "How would you implement Infrastructure as Code in a production environment?",
+    "expected_skills": [
+      "Infrastructure as Code",
+      "AWS",
+      "Terraform"
+    ],
+    "created_at": "2025-04-03T21:44:52.253153"
+  },
+  {
+    "id": "q_Cloud_Engineer_20",
+    "role": "Cloud Engineer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "Describe a situation where you had to Terraform under pressure.",
+    "expected_skills": [
+      "Terraform",
+      "Azure",
+      "Terraform"
+    ],
+    "created_at": "2025-04-03T21:44:52.253153"
+  },
+  {
+    "id": "q_Cloud_Engineer_21",
+    "role": "Cloud Engineer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "What's your process for Azure?",
+    "expected_skills": [
+      "Azure",
+      "CloudFormation",
+      "Infrastructure as Code"
+    ],
+    "created_at": "2025-04-03T21:44:52.253153"
+  },
+  {
+    "id": "q_Cloud_Engineer_22",
+    "role": "Cloud Engineer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "What's your process for Infrastructure as Code?",
+    "expected_skills": [
+      "Infrastructure as Code",
+      "Infrastructure as Code",
+      "Azure"
+    ],
+    "created_at": "2025-04-03T21:44:52.253153"
+  },
+  {
+    "id": "q_Cloud_Engineer_23",
+    "role": "Cloud Engineer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "How do you approach Azure in your work?",
+    "expected_skills": [
+      "Azure",
+      "Google Cloud",
+      "Azure"
+    ],
+    "created_at": "2025-04-03T21:44:52.253153"
+  },
+  {
+    "id": "q_Cloud_Engineer_24",
+    "role": "Cloud Engineer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Give an example of when you had to Azure.",
+    "expected_skills": [
+      "Azure",
+      "Terraform",
+      "Infrastructure as Code"
+    ],
+    "created_at": "2025-04-03T21:44:52.253153"
+  },
+  {
+    "id": "q_Cloud_Engineer_25",
+    "role": "Cloud Engineer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Tell me about a time when you had to Google Cloud.",
+    "expected_skills": [
+      "Google Cloud",
+      "Infrastructure as Code",
+      "Google Cloud"
+    ],
+    "created_at": "2025-04-03T21:44:52.253153"
+  },
+  {
+    "id": "q_Cloud_Engineer_26",
+    "role": "Cloud Engineer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "How do you approach Infrastructure as Code in your work?",
+    "expected_skills": [
+      "Infrastructure as Code",
+      "AWS",
+      "Terraform"
+    ],
+    "created_at": "2025-04-03T21:44:52.253153"
+  },
+  {
+    "id": "q_Cloud_Engineer_27",
+    "role": "Cloud Engineer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "How do you approach CloudFormation in your work?",
+    "expected_skills": [
+      "CloudFormation",
+      "Google Cloud",
+      "Terraform"
+    ],
+    "created_at": "2025-04-03T21:44:52.253153"
+  },
+  {
+    "id": "q_Cloud_Engineer_28",
+    "role": "Cloud Engineer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Tell me about a time when you had to Azure.",
+    "expected_skills": [
+      "Azure",
+      "Google Cloud",
+      "Infrastructure as Code"
+    ],
+    "created_at": "2025-04-03T21:44:52.253153"
+  },
+  {
+    "id": "q_Cloud_Engineer_29",
+    "role": "Cloud Engineer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "What's your process for CloudFormation?",
+    "expected_skills": [
+      "CloudFormation",
+      "CloudFormation",
+      "Terraform"
+    ],
+    "created_at": "2025-04-03T21:44:52.253153"
+  },
+  {
+    "id": "q_Cloud_Engineer_30",
+    "role": "Cloud Engineer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "Describe a situation where you had to Terraform under pressure.",
+    "expected_skills": [
+      "Terraform",
+      "CloudFormation",
+      "AWS"
+    ],
+    "created_at": "2025-04-03T21:44:52.253153"
+  },
+  {
+    "id": "q_Cloud_Engineer_31",
+    "role": "Cloud Engineer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "How do you approach Infrastructure as Code in your work?",
+    "expected_skills": [
+      "Infrastructure as Code",
+      "AWS",
+      "Infrastructure as Code"
+    ],
+    "created_at": "2025-04-03T21:44:52.253153"
+  },
+  {
+    "id": "q_Cloud_Engineer_32",
+    "role": "Cloud Engineer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "How do you approach AWS in your work?",
+    "expected_skills": [
+      "AWS",
+      "Google Cloud",
+      "Infrastructure as Code"
+    ],
+    "created_at": "2025-04-03T21:44:52.253153"
+  },
+  {
+    "id": "q_Cloud_Engineer_33",
+    "role": "Cloud Engineer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "What's your process for Infrastructure as Code?",
+    "expected_skills": [
+      "Infrastructure as Code",
+      "AWS",
+      "CloudFormation"
+    ],
+    "created_at": "2025-04-03T21:44:52.253153"
+  },
+  {
+    "id": "q_Cloud_Engineer_34",
+    "role": "Cloud Engineer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "Give an example of when you had to Google Cloud.",
+    "expected_skills": [
+      "Google Cloud",
+      "Google Cloud",
+      "Infrastructure as Code"
+    ],
+    "created_at": "2025-04-03T21:44:52.253153"
+  }
+]

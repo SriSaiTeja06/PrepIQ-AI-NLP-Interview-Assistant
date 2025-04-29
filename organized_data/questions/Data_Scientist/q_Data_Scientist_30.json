@@ -1,0 +1,13 @@
+{
+  "id": "q_Data_Scientist_30",
+  "role": "Data Scientist",
+  "type": "behavioral",
+  "difficulty": "medium",
+  "content": "How do you approach Machine Learning in your work?",
+  "expected_skills": [
+    "Machine Learning",
+    "NumPy",
+    "Data Analysis"
+  ],
+  "created_at": "2025-04-03T21:44:50.986740"
+}

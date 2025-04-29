@@ -1,0 +1,13 @@
+{
+    "id": "q_Mobile_Developer_19",
+    "role": "Mobile Developer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "Explain the steps to create a react application and print Hello World?",
+    "expected_skills": [
+      "React Native",
+      "JavaScript",
+      "Frontend Development"
+    ],
+    "created_at": "2025-04-14T15:55:00.000000"
+}

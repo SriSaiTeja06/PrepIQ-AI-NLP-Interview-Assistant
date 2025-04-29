@@ -1,0 +1,13 @@
+{
+    "id": "q_Site_Reliability_Engineer_6",
+    "role": "Site Reliability Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "Can you explain the concept of monitoring and why it is important?",
+    "expected_skills": [
+      "Monitoring",
+      "Alerting",
+      "System Analysis"
+    ],
+    "created_at": "2025-04-14T15:55:00.000000"
+}

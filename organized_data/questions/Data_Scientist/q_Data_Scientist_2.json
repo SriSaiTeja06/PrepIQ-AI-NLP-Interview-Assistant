@@ -1,0 +1,13 @@
+{
+  "id": "q_Data_Scientist_2",
+  "role": "Data Scientist",
+  "type": "technical",
+  "difficulty": "medium",
+  "content": "How would you implement Pandas in a production environment?",
+  "expected_skills": [
+    "Pandas",
+    "Python",
+    "Machine Learning"
+  ],
+  "created_at": "2025-04-03T21:44:50.986740"
+}

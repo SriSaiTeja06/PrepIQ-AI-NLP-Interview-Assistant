@@ -1,0 +1,13 @@
+{
+  "id": "q_Data_Engineer_15",
+  "role": "Data Engineer",
+  "type": "technical",
+  "difficulty": "medium",
+  "content": "Explain how Data Warehousing works.",
+  "expected_skills": [
+    "Data Warehousing",
+    "ETL",
+    "Python"
+  ],
+  "created_at": "2025-04-03T21:44:52.028491"
+}

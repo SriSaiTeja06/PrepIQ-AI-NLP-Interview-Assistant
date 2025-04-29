@@ -1,0 +1,13 @@
+{
+  "id": "q_Cloud_Engineer_27",
+  "role": "Cloud Engineer",
+  "type": "behavioral",
+  "difficulty": "easy",
+  "content": "How do you approach CloudFormation in your work?",
+  "expected_skills": [
+    "CloudFormation",
+    "Google Cloud",
+    "Terraform"
+  ],
+  "created_at": "2025-04-03T21:44:52.253153"
+}

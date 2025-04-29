@@ -1,0 +1,12 @@
+{
+    "id": "q_Mobile_Developer_16",
+    "role": "Mobile Developer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "What are the key concepts in ETL?",
+    "expected_skills": [
+      "ETL",
+      "Data Warehousing"
+    ],
+    "created_at": "2025-04-14T15:55:00.000000"
+}

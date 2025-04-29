@@ -1,0 +1,13 @@
+{
+  "id": "q_DevOps_Engineer_14",
+  "role": "DevOps Engineer",
+  "type": "technical",
+  "difficulty": "medium",
+  "content": "Explain how CI/CD works.",
+  "expected_skills": [
+    "CI/CD",
+    "Google Cloud",
+    "AWS"
+  ],
+  "created_at": "2025-04-03T21:44:51.788039"
+}

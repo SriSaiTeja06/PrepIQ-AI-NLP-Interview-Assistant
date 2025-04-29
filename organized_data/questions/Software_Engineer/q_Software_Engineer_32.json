@@ -1,0 +1,13 @@
+{
+  "id": "q_Software_Engineer_32",
+  "role": "Software Engineer",
+  "type": "behavioral",
+  "difficulty": "medium",
+  "content": "Give an example of when you had to Java.",
+  "expected_skills": [
+    "Java",
+    "System Design",
+    "Data Structures"
+  ],
+  "created_at": "2025-04-03T21:44:51.550420"
+}

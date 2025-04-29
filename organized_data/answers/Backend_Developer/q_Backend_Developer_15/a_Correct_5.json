@@ -1,0 +1,6 @@
+{
+  "id": "a_Correct_5",
+  "question_id": "q_Backend_Developer_15",
+  "content": "Regular profiling is key. Tools like JProfiler or YourKit help pinpoint performance hotspots, memory leaks, or excessive GC activity. Analyzing thread dumps and heap dumps can also reveal underlying issues that aren't obvious from code inspection alone.",
+  "audio_source": null
+}

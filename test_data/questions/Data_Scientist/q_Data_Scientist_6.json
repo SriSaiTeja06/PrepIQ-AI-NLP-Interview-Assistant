@@ -1,0 +1,13 @@
+{
+  "id": "q_Data_Scientist_6",
+  "role": "Data Scientist",
+  "type": "technical",
+  "difficulty": "medium",
+  "content": "Discuss the trade-offs of using Pandas.",
+  "expected_skills": [
+    "Pandas",
+    "NumPy",
+    "Pandas"
+  ],
+  "created_at": "2025-04-03T21:44:50.986740"
+}

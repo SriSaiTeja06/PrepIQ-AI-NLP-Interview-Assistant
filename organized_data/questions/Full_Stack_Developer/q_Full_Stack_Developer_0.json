@@ -1,0 +1,13 @@
+{
+  "id": "q_Full_Stack_Developer_0",
+  "role": "Full Stack Developer",
+  "type": "technical",
+  "difficulty": "easy",
+  "content": "How do you optimize React for performance?",
+  "expected_skills": [
+    "React",
+    "System Design",
+    "React"
+  ],
+  "created_at": "2025-04-03T21:44:53.225735"
+}

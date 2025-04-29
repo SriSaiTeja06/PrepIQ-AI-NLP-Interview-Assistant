@@ -1,0 +1,14 @@
+DevOps Engineer - Senior Level
+
+Key Responsibilities:
+- Lead the development of Docker, Kubernetes, CI/CD
+- Design and implement AWS, Azure, Google Cloud
+- Collaborate with team on 
+
+Required Skills:
+- Proficient in Docker
+- Proficient in Kubernetes
+- Proficient in CI/CD
+- Proficient in AWS
+- Proficient in Azure
+- Proficient in Google Cloud

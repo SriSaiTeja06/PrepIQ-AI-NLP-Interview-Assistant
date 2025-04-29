@@ -1,0 +1,457 @@
+[
+  {
+    "id": "q_Software_Engineer_0",
+    "role": "Software Engineer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "What are the common challenges with System Design?",
+    "expected_skills": [
+      "System Design",
+      "Data Structures",
+      "System Design"
+    ],
+    "created_at": "2025-04-03T21:44:51.550420"
+  },
+  {
+    "id": "q_Software_Engineer_1",
+    "role": "Software Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "How do you optimize System Design for performance?",
+    "expected_skills": [
+      "System Design",
+      "Python",
+      "Java"
+    ],
+    "created_at": "2025-04-03T21:44:51.550420"
+  },
+  {
+    "id": "q_Software_Engineer_2",
+    "role": "Software Engineer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "What are the key concepts in System Design?",
+    "expected_skills": [
+      "System Design",
+      "Python",
+      "Algorithms"
+    ],
+    "created_at": "2025-04-03T21:44:51.550420"
+  },
+  {
+    "id": "q_Software_Engineer_3",
+    "role": "Software Engineer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "Explain how Python works.",
+    "expected_skills": [
+      "Python",
+      "C++",
+      "Python"
+    ],
+    "created_at": "2025-04-03T21:44:51.550420"
+  },
+  {
+    "id": "q_Software_Engineer_4",
+    "role": "Software Engineer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "How would you implement C++ in a production environment?",
+    "expected_skills": [
+      "C++",
+      "C++",
+      "Data Structures"
+    ],
+    "created_at": "2025-04-03T21:44:51.550420"
+  },
+  {
+    "id": "q_Software_Engineer_5",
+    "role": "Software Engineer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "What are the key concepts in C++?",
+    "expected_skills": [
+      "C++",
+      "C++",
+      "Data Structures"
+    ],
+    "created_at": "2025-04-03T21:44:51.550420"
+  },
+  {
+    "id": "q_Software_Engineer_6",
+    "role": "Software Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "Explain how System Design works.",
+    "expected_skills": [
+      "System Design",
+      "System Design",
+      "Python"
+    ],
+    "created_at": "2025-04-03T21:44:51.550420"
+  },
+  {
+    "id": "q_Software_Engineer_7",
+    "role": "Software Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "How would you implement Python in a production environment?",
+    "expected_skills": [
+      "Python",
+      "Python",
+      "Algorithms"
+    ],
+    "created_at": "2025-04-03T21:44:51.550420"
+  },
+  {
+    "id": "q_Software_Engineer_8",
+    "role": "Software Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "What are the key concepts in Algorithms?",
+    "expected_skills": [
+      "Algorithms",
+      "Python",
+      "C++"
+    ],
+    "created_at": "2025-04-03T21:44:51.550420"
+  },
+  {
+    "id": "q_Software_Engineer_9",
+    "role": "Software Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "Discuss the trade-offs of using C++.",
+    "expected_skills": [
+      "C++",
+      "C++",
+      "System Design"
+    ],
+    "created_at": "2025-04-03T21:44:51.550420"
+  },
+  {
+    "id": "q_Software_Engineer_10",
+    "role": "Software Engineer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "What are the common challenges with Data Structures?",
+    "expected_skills": [
+      "Data Structures",
+      "Data Structures",
+      "System Design"
+    ],
+    "created_at": "2025-04-03T21:44:51.550420"
+  },
+  {
+    "id": "q_Software_Engineer_11",
+    "role": "Software Engineer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "What are the key concepts in Data Structures?",
+    "expected_skills": [
+      "Data Structures",
+      "Data Structures",
+      "C++"
+    ],
+    "created_at": "2025-04-03T21:44:51.550420"
+  },
+  {
+    "id": "q_Software_Engineer_12",
+    "role": "Software Engineer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "How do you optimize System Design for performance?",
+    "expected_skills": [
+      "System Design",
+      "Algorithms",
+      "C++"
+    ],
+    "created_at": "2025-04-03T21:44:51.550420"
+  },
+  {
+    "id": "q_Software_Engineer_13",
+    "role": "Software Engineer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "What are the common challenges with Python?",
+    "expected_skills": [
+      "Python",
+      "Algorithms",
+      "System Design"
+    ],
+    "created_at": "2025-04-03T21:44:51.550420"
+  },
+  {
+    "id": "q_Software_Engineer_14",
+    "role": "Software Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "How would you implement Java in a production environment?",
+    "expected_skills": [
+      "Java",
+      "Java",
+      "Python"
+    ],
+    "created_at": "2025-04-03T21:44:51.550420"
+  },
+  {
+    "id": "q_Software_Engineer_15",
+    "role": "Software Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "How do you optimize Algorithms for performance?",
+    "expected_skills": [
+      "Algorithms",
+      "C++",
+      "Data Structures"
+    ],
+    "created_at": "2025-04-03T21:44:51.550420"
+  },
+  {
+    "id": "q_Software_Engineer_16",
+    "role": "Software Engineer",
+    "type": "technical",
+    "difficulty": "medium",
+    "content": "How would you implement Algorithms in a production environment?",
+    "expected_skills": [
+      "Algorithms",
+      "Java",
+      "C++"
+    ],
+    "created_at": "2025-04-03T21:44:51.550420"
+  },
+  {
+    "id": "q_Software_Engineer_17",
+    "role": "Software Engineer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "What are the key concepts in C++?",
+    "expected_skills": [
+      "C++",
+      "C++",
+      "Algorithms"
+    ],
+    "created_at": "2025-04-03T21:44:51.550420"
+  },
+  {
+    "id": "q_Software_Engineer_18",
+    "role": "Software Engineer",
+    "type": "technical",
+    "difficulty": "easy",
+    "content": "How would you implement Algorithms in a production environment?",
+    "expected_skills": [
+      "Algorithms",
+      "Algorithms",
+      "Data Structures"
+    ],
+    "created_at": "2025-04-03T21:44:51.550420"
+  },
+  {
+    "id": "q_Software_Engineer_19",
+    "role": "Software Engineer",
+    "type": "technical",
+    "difficulty": "hard",
+    "content": "How would you implement Python in a production environment?",
+    "expected_skills": [
+      "Python",
+      "Python",
+      "C++"
+    ],
+    "created_at": "2025-04-03T21:44:51.550420"
+  },
+  {
+    "id": "q_Software_Engineer_20",
+    "role": "Software Engineer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "What's your process for System Design?",
+    "expected_skills": [
+      "System Design",
+      "System Design",
+      "C++"
+    ],
+    "created_at": "2025-04-03T21:44:51.550420"
+  },
+  {
+    "id": "q_Software_Engineer_21",
+    "role": "Software Engineer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Give an example of when you had to Java.",
+    "expected_skills": [
+      "Java",
+      "Algorithms",
+      "Java"
+    ],
+    "created_at": "2025-04-03T21:44:51.550420"
+  },
+  {
+    "id": "q_Software_Engineer_22",
+    "role": "Software Engineer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "How do you approach C++ in your work?",
+    "expected_skills": [
+      "C++",
+      "Data Structures",
+      "System Design"
+    ],
+    "created_at": "2025-04-03T21:44:51.550420"
+  },
+  {
+    "id": "q_Software_Engineer_23",
+    "role": "Software Engineer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "Describe a situation where you had to Data Structures under pressure.",
+    "expected_skills": [
+      "Data Structures",
+      "System Design",
+      "Data Structures"
+    ],
+    "created_at": "2025-04-03T21:44:51.550420"
+  },
+  {
+    "id": "q_Software_Engineer_24",
+    "role": "Software Engineer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "How do you approach Java in your work?",
+    "expected_skills": [
+      "Java",
+      "Python",
+      "C++"
+    ],
+    "created_at": "2025-04-03T21:44:51.550420"
+  },
+  {
+    "id": "q_Software_Engineer_25",
+    "role": "Software Engineer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Tell me about a time when you had to Java.",
+    "expected_skills": [
+      "Java",
+      "Python",
+      "C++"
+    ],
+    "created_at": "2025-04-03T21:44:51.550420"
+  },
+  {
+    "id": "q_Software_Engineer_26",
+    "role": "Software Engineer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "Tell me about a time when you had to Python.",
+    "expected_skills": [
+      "Python",
+      "C++",
+      "Data Structures"
+    ],
+    "created_at": "2025-04-03T21:44:51.550420"
+  },
+  {
+    "id": "q_Software_Engineer_27",
+    "role": "Software Engineer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "What's your process for Python?",
+    "expected_skills": [
+      "Python",
+      "Java",
+      "Algorithms"
+    ],
+    "created_at": "2025-04-03T21:44:51.550420"
+  },
+  {
+    "id": "q_Software_Engineer_28",
+    "role": "Software Engineer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Give an example of when you had to C++.",
+    "expected_skills": [
+      "C++",
+      "Algorithms",
+      "Java"
+    ],
+    "created_at": "2025-04-03T21:44:51.550420"
+  },
+  {
+    "id": "q_Software_Engineer_29",
+    "role": "Software Engineer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "How do you approach Algorithms in your work?",
+    "expected_skills": [
+      "Algorithms",
+      "C++",
+      "System Design"
+    ],
+    "created_at": "2025-04-03T21:44:51.550420"
+  },
+  {
+    "id": "q_Software_Engineer_30",
+    "role": "Software Engineer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "Give an example of when you had to Algorithms.",
+    "expected_skills": [
+      "Algorithms",
+      "Java",
+      "C++"
+    ],
+    "created_at": "2025-04-03T21:44:51.550420"
+  },
+  {
+    "id": "q_Software_Engineer_31",
+    "role": "Software Engineer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "Give an example of when you had to Data Structures.",
+    "expected_skills": [
+      "Data Structures",
+      "Data Structures",
+      "System Design"
+    ],
+    "created_at": "2025-04-03T21:44:51.550420"
+  },
+  {
+    "id": "q_Software_Engineer_32",
+    "role": "Software Engineer",
+    "type": "behavioral",
+    "difficulty": "medium",
+    "content": "Give an example of when you had to Java.",
+    "expected_skills": [
+      "Java",
+      "System Design",
+      "Data Structures"
+    ],
+    "created_at": "2025-04-03T21:44:51.550420"
+  },
+  {
+    "id": "q_Software_Engineer_33",
+    "role": "Software Engineer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "Give an example of when you had to Algorithms.",
+    "expected_skills": [
+      "Algorithms",
+      "Python",
+      "Java"
+    ],
+    "created_at": "2025-04-03T21:44:51.550420"
+  },
+  {
+    "id": "q_Software_Engineer_34",
+    "role": "Software Engineer",
+    "type": "behavioral",
+    "difficulty": "easy",
+    "content": "Tell me about a time when you had to Algorithms.",
+    "expected_skills": [
+      "Algorithms",
+      "Data Structures",
+      "Python"
+    ],
+    "created_at": "2025-04-03T21:44:51.550420"
+  }
+]

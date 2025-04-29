@@ -1,0 +1,13 @@
+{
+  "id": "q_Software_Engineer_6",
+  "role": "Software Engineer",
+  "type": "technical",
+  "difficulty": "medium",
+  "content": "Explain how System Design works.",
+  "expected_skills": [
+    "System Design",
+    "System Design",
+    "Python"
+  ],
+  "created_at": "2025-04-03T21:44:51.550420"
+}
