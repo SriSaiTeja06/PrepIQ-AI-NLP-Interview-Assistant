@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/project_banner.png" alt="PrepIQ Project Banner" />
+  <img src="frontend/src/assets/project_banner.png" alt="PrepIQ Project Banner" />
 </p>
 
 # PrepIQ - AI-NLP Interview Assistant
